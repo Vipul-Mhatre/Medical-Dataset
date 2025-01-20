@@ -1,0 +1,103 @@
+Name,Full Address,Street,City,Postcode,State,Country,Amenity,Healthcare,Phone,Website,Opening Hours,Latitude,Longitude
+Pharmacie Ginkgo,Unknown,Val Sainte-Croix,Luxembourg,1371,Unknown,Luxembourg,pharmacy,pharmacy,+352 22 21 74,https://www.ginkgo.lu/,Mo-Fr 08:30-18:30; Sa 08:30-12:30,49.6130918,6.1160027
+Pharmacie du Cèdre,Unknown,Rue de Beggen,Luxembourg,1221,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-du-cedre/,Mo-Fr 08:00-19:00; Sa 08:00-13:00,49.6416625,6.130055
+Dr Marc Hamen médecine générale,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,Healthcare Services,Unknown,Unknown,"Mo-Fr 09:00-11:30,14:30-17:30",49.6251092,6.140104
+Pharmacie du Cents,Unknown,Allée du Carmel,Luxembourg,1354,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-du-cents/,Mo-Fr 08:30-18:30; Sa 08:30-12:00,49.6194014,6.1717257
+Pharmacie du Kirchberg,Unknown,Rue Edward Steichen,Luxembourg,2540,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-du-kirchberg/,Mo-Fr 09:00-18:30,49.6318794,6.1744745
+Pharmacie de Bonnevoie,Unknown,Rue de Bonnevoie,Luxembourg,1261,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-de-bonnevoie/,Mo-Fr 08:00-18:30; Sa 08:30-12:00,49.597468,6.1382233
+Pharmacie Place de Strasbourg,Unknown,Rue Adolphe Fischer,Luxembourg,1521,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-place-de-strasbourg/,Mo-Fr 08:00-18:00,49.6006216,6.1277604
+Pharmacie Thill-Bonnevoie,Unknown,Rue du Cimetière,Luxembourg,1338,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-thill-bonnevoie/,"Mo-Fr 08:30-12:00, 13:45-18:30; Sa 09:00-12:00",49.5942487,6.1405199
+Pharmacie de l'Éléphant,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-de-lelephant/,Mo-Fr 08:00-19:00; Sa 08:30-12:30,49.5859448,6.1433564
+Institut National de Chirurgie Cardiaque et de Cardiologie Interventionelle,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,clinic,clinic,Unknown,Unknown,Unknown,49.618452,6.0996707
+Eyschen Anouk,Unknown,Avenue Gaston Diderich,Luxembourg,1420,Unknown,Luxembourg,veterinary,Healthcare Services,+352 44 63 94,Unknown,Unknown,49.6100394,6.1002061
+Pierre Debue,Unknown,Rue du Cimetière,Luxembourg,1338,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,Unknown,Unknown,49.5919464,6.1417741
+Cabinet Véterinaire Bonnevoie,Unknown,Rue Auguste Charles,Luxembourg,1326,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,Unknown,Unknown,49.5984313,6.1385558
+GesondheetsZentrum,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,centre,Unknown,https://www.gesondheetszentrum.lu/,Unknown,49.60284,6.1281432
+cabinet vétérinaire de la Petrusse,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,Unknown,Unknown,49.604604,6.1245366
+Claudie Reyland,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,Unknown,Unknown,49.6196033,6.1577987
+Luxchiro,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,Healthcare Services,Unknown,Unknown,"""Book Online""",49.6289206,6.1523894
+Cabinet Vétérinaire,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,Unknown,Unknown,49.6284701,6.1321689
+Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,Unknown,Unknown,49.6054545,6.1002447
+Cabinet Médical Esthétique,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.6053565,6.1210167
+Clinique Vétérinaire Bereldange,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,https://www.vet.lu/,24/7,49.6545955,6.1244498
+Clinique de jour Irmine,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,clinic,Healthcare Services,Unknown,Unknown,Unknown,49.5976861,6.1402214
+Diederich Henri,Unknown,Avenue de la Faïencerie,Luxembourg,1511,Unknown,Luxembourg,dentist,dentist,Unknown,https://www.implantate-lux.com,Unknown,49.6201219,6.1154291
+Herpel Karl Heinz,Unknown,Avenue Pasteur,Luxembourg,2311,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.619012,6.1192609
+Association médicale du Limpertsberg,Unknown,Avenue Pasteur,Luxembourg,2311,Unknown,Luxembourg,doctors,Healthcare Services,Unknown,Unknown,Unknown,49.6194669,6.1204391
+Help Antenne Aides et Soins Luxembourg Nord,Unknown,Rue d'Eich,Luxembourg,1460,Unknown,Luxembourg,doctors,Healthcare Services,Unknown,https://www.help.lu/,Unknown,49.6312052,6.1344928
+CME Kinésithérapie,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,Healthcare Services,+352263339080,http://thestudio.lu/cme/,Mo-Fr 07:00-20:00,49.6293739,6.1732349
+Centre médical Kirchberg,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,Healthcare Services,+352261066,https://www.cmk.lu/,Mo-Fr 08:00-19:00,49.6293286,6.1738188
+Centre médical dentaire,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,dentist,Healthcare Services,+352 28 89 28 28,Unknown,Unknown,49.6295434,6.1741658
+A.F.P. Service Asbl,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,Healthcare Services,Unknown,Unknown,Unknown,49.6088511,6.1194462
+Marc Dondlinger,Unknown,Rue Louvigny,Luxembourg,1946,Unknown,Luxembourg,dentist,dentist,+352 47 42 34,https://www.doctena.lu/en/specialty/dentist/marc-dondlinger-994/cabinet-marc-dondlinger-810,"""sur rendez-vous""",49.6104454,6.1293427
+Pasteur Eugénie,Unknown,Avenue Pasteur,Luxembourg,2310,Unknown,Luxembourg,doctors,doctor,+352 27 76 70 70,Unknown,Unknown,49.618284,6.1241633
+Ketterthill,Unknown,Avenue Victor Hugo,Luxembourg,1750,Unknown,Luxembourg,doctors,laboratory,+352 48 82881,Unknown,Mo-Fr 06:30-11:30; Sa 07:00-10:00,49.6198225,6.1233337
+Pharmacie Stumper,Unknown,Rue des Capucins,Luxembourg,1313,Unknown,Luxembourg,pharmacy,pharmacy,+352 22 30 62,https://www.pharmacie.lu/pharmacie/pharmacie-stumper/,Mo-Fr 07:45-18:30; Sa 08:00-18:00,49.6117368,6.129586
+Pharmacie du Cygne,Unknown,Avenue de la Porte-Neuve,Luxembourg,2227,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-du-cygne/,Mo 09:30-18:30; Tu-Fr 07:45-18:30; Sa 07:45-17:45,49.6128625,6.1279711
+Pharmacie du Globe,Unknown,Place de la Gare,Luxembourg,1616,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-du-globe/,Mo-Fr 07:00-20:00; Sa 09:00-19:00,49.6008836,6.1330491
+Pharmacie Merl Place de France,Unknown,Avenue du 10 septembre,Luxembourg,2551,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://pharmamerl.lu/,Mo-Fr 08:30-18:30; Sa 09:00-12:30,49.606541,6.1072538
+Pharmacie Goedert,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-goedert/,Mo-Fr 08:00-18:15; Sa 08:00-18:00,49.6120752,6.1303856
+Dr. Bernd Dirksmöller,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,podiatrist,+352 26 58 37 71,Unknown,Unknown,49.6197115,6.0685513
+Medernach Françoise,Unknown,Allée de la Jeunesse Sacrifiée 1940-1945,Hesperange,5863,Unknown,Luxembourg,dentist,dentist,+352 26 36 22 90,Unknown,Unknown,49.5730738,6.1609701
+Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,dentist,Healthcare Services,Unknown,Unknown,Unknown,49.5899054,6.1755494
+Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,Healthcare Services,Unknown,Unknown,Unknown,49.5737934,6.1548179
+Pharmacie de Belair,Unknown,Avenue du 10 septembre,Luxembourg,2550,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-de-belair/,Mo-Fr 08:15-18:30; Sa 09:00-12:30,49.6094336,6.1182329
+Centre Medico Dentaire,Unknown,Avenue Monterey,Luxembourg,2163,Unknown,Luxembourg,dentist,dentist,Unknown,Unknown,Unknown,49.6104349,6.1257635
+Integra Medical Group,Unknown,Rue Joseph Leydenbach,Luxembourg,1947,Unknown,Luxembourg,dentist,Healthcare Services,+352 20 21 10 70,Unknown,Mo-Fr 08:00-18:00,49.6294978,6.1740729
+Schwarz Jean-Paul,Unknown,Boulevard Pierre Dupong,Luxembourg,1430,Unknown,Luxembourg,doctors,doctor,Unknown,http://www.drjeanpaulschwartz.lu/,Unknown,49.6069195,6.1098165
+Roth Romi,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,veterinary,Healthcare Services,+352 46 15 59,Unknown,Unknown,49.6293057,6.1168518
+Centre médical Hesper,Unknown,Route de Thionville,Hesperange,5886,Unknown,Luxembourg,doctors,centre,Unknown,https://cmhesper.lu/,Unknown,49.571371,6.1593034
+Hoa David,Unknown,Rue Ermesinde,Luxembourg,1469,Unknown,Luxembourg,dentist,dentist,Unknown,https://www.drhoa-dentiste.lu/lu/,Unknown,49.6219954,6.1209679
+Nicolay Jean-Paul (Dr),Unknown,Place Sainte-Cunégonde,Luxembourg,1367,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.6146371,6.1424766
+Pharmacie Hübscher,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-deich/,Mo-Fr 08:30-18:30; Sa 08:30-12:30,49.6292475,6.1193821
+"Cabinet Pédiatrique Dr Karin Michalski, Dr Thomas Siebler",Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,centre,+352 26 68 71 74,Unknown,Unknown,49.6535999,6.1278538
+Centre de Psychologie Rollingergrund,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,centre,Unknown,Unknown,Unknown,49.6171214,6.1130275
+Centre Médical Rollingergrund,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,centre,Unknown,http://www.centre-medical-rollingergrund.lu/,Unknown,49.6171924,6.1130522
+Cardiologie Angiologie Docteur Assadian,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.6143058,6.1097
+Cabinet d'Orthodontie Docteur Schay Portal,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,dentist,dentist,Unknown,Unknown,Unknown,49.6143744,6.1097355
+Vétérinaire,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,Unknown,Unknown,49.6202949,6.0705976
+Dr. Sandrine Cornet,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,doctor,Unknown,https://dr-sandrine-cornet.business.site/,Unknown,49.620494,6.0684074
+Pharmacie de la Liberté,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-de-la-liberte/,Mo-Fr 08:00-18:30; Sa 09:00-17:00,49.6028543,6.1314611
+Centre Médical Limpertsberg,Unknown,Rue Frantz Seimetz,Luxembourg,2531,Unknown,Luxembourg,clinic,clinic,+352 27 85 281,https://cmilux.lu/,Mo-Fr 08:00-18:00,49.6236906,6.1213076
+Marthe Diederich,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,dentist,dentist,Unknown,Unknown,Unknown,49.6269542,6.1296161
+Abrash Cabinet Dentaire,Unknown,Rue de Beggen,Luxembourg,1221,Unknown,Luxembourg,dentist,Healthcare Services,+352 26 43 11 01,https://abrashcabinetdentaire.lu/,"Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-13:00,14:00-17:00",49.6462936,6.1278686
+Pharmacie de la Cloche d'Or,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,Unknown,Mo-Fr 09:00-18:30; Sa 09:00-12:00,49.5846537,6.1238721
+Wolff,Unknown,Rue Beck,Luxembourg,1222,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.6119223,6.1272381
+Cabinet de Pneumologie du Glacis,Unknown,Rue des Glacis,Luxembourg,1628,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,"Mo-Fr 09:00-12:30,13:30-17:00; PH off",49.6191317,6.1256375
+Pharmacie Um Piquet,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-um-piquet/,"Mo-Fr 07:30-18:30; Sa 08:30-13:00, 13:30-18:00",49.6114539,6.1269978
+Pharmacie Lugen,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-lugen/,"Mo-Fr 08:00-18:30; Sa 09:00-12:30,13:30-18:00",49.6036129,6.1329842
+Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,Healthcare Services,Unknown,Unknown,Unknown,49.6229123,6.0645162
+Centre Ophtalmologique Monterey,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,centre,Unknown,https://www.centremonterey.lu/,Unknown,49.6096267,6.1203303
+Medical,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.6223126,6.1649784
+Dr. Danièle Schneider,Unknown,Rue des Romains,Strassen,8041,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.6188091,6.0743052
+Jang Dahm,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,dentist,dentist,Unknown,Unknown,Unknown,49.6141942,6.0727136
+Frising Martine,Unknown,Boulevard Prince Henri,Luxembourg,1724,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.6121291,6.1243404
+Dr Klos,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,Healthcare Services,Unknown,Unknown,"""by appointment""",49.6266119,6.1436118
+ketterthill,Unknown,Rue de Beggen,Luxembourg,1220,Unknown,Luxembourg,doctors,Healthcare Services,+352 488 28 81,https://www.ketterthill.lu,Mo-Fr 06:30-10:30,49.6331494,6.1357114
+Cabinet Véterinaire,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,veterinary,Healthcare Services,Unknown,Unknown,Unknown,49.5923305,6.1268252
+Pharmacie du Kiem,Unknown,Boulevard Pierre Frieden,Luxembourg,1543,Unknown,Luxembourg,pharmacy,pharmacy,+352 26 26 37,https://pharmacie.lu/pharmacie/pharmaciedukiem,Mo-Fr 08:30-18:00; Sa 09:00-12:00,49.6349253,6.1601134
+Zeyen Martine,Unknown,Rue Théodore Eberhard,Luxembourg,1452,Unknown,Luxembourg,doctors,doctor,+352 44 97 75,Unknown,Unknown,49.6091367,6.106451
+Lawerman Patrick,Unknown,Rue des Aubépines,Luxembourg,1145,Unknown,Luxembourg,doctors,doctor,+352 20 80 01 15,Unknown,Unknown,49.6125321,6.0973736
+Kompe Josiane,Unknown,Rue des Aubépines,Luxembourg,1145,Unknown,Luxembourg,doctors,doctor,+352 20 21 18 10,Unknown,Unknown,49.6126155,6.097374
+Michels Thierry,Unknown,Rue des Aubépines,Luxembourg,1145,Unknown,Luxembourg,doctors,doctor,+352 27 62 20 20,Unknown,Unknown,49.6110796,6.0978032
+Centre Ophtalmologique Luxembourg,Unknown,Rue Edward Steichen,Luxembourg,2540,Unknown,Luxembourg,clinic,clinic,Unknown,https://col.lu/,Unknown,49.633273,6.1768075
+Centre d'Orthodontie du Val Sainte-Croix,Unknown,Allée Léopold Goebel,Luxembourg,1635,Unknown,Luxembourg,dentist,dentist,Unknown,https://orthodontie.lu/,Unknown,49.6129227,6.1129783
+Centre de Pédiatrie du Val Sainte-Croix,Unknown,Allée Léopold Goebel,Luxembourg,1635,Unknown,Luxembourg,clinic,clinic,Unknown,https://centredepediatrie.lu/,Unknown,49.6128554,6.112608
+Vassaux Karolina Wydrych,Unknown,Avenue Gaston Diderich,Luxembourg,1420,Unknown,Luxembourg,doctors,doctor,+352 691 624 879,Unknown,Unknown,49.6100077,6.1179705
+Centre médical Luxembourg,Unknown,Rue Astrid,Luxembourg,1143,Unknown,Luxembourg,clinic,clinic,+352 27 02 05,Unknown,Unknown,49.6076336,6.1061257
+Bernacchi Caroline,Unknown,Rue des Aubépines,Luxembourg,1145,Unknown,Luxembourg,doctors,doctor,+352 27 62 20 20,Unknown,Mo-Fr 08:30-17:00,49.6110313,6.0977983
+Ferber Fabienne,Unknown,Avenue Guillaume,Luxembourg,1650,Unknown,Luxembourg,dentist,dentist,+352 44 42 11,https://www.cabinetferber.lu/,Unknown,49.60736,6.1155292
+Centre Médical Belair,Unknown,Rue Alphonse Munchen,Luxembourg,2172,Unknown,Luxembourg,clinic,clinic,+352 45 83 93,http://cmb.lu/fr,Unknown,49.6042836,6.1149737
+Van Winckel Manoëlle,Unknown,Rue Antoine Meyer,Luxembourg,2153,Unknown,Luxembourg,doctors,doctor,+352 27 76 29 16,Unknown,Unknown,49.6035248,6.1151023
+Schiltz Sophie,Unknown,Rue Antoine Meyer,Luxembourg,2153,Unknown,Luxembourg,doctors,doctor,+352 27 76 29 16,Unknown,Unknown,49.6035037,6.1151306
+Becker et Associés,Unknown,Boulevard Pierre Dupong,Luxembourg,1430,Unknown,Luxembourg,dentist,dentist,Unknown,https://cabinet-becker.lu/,Unknown,49.6017633,6.1141285
+Schroeder Romain,Unknown,Rue Marie-Adélaïde,Luxembourg,2128,Unknown,Luxembourg,dentist,dentist,+352 25 28 29,Unknown,Unknown,49.6033176,6.1144859
+Cabinet dentaire Clausen,Unknown,Rue de Clausen,Luxembourg,1342,Unknown,Luxembourg,dentist,dentist,+352 691 161749,https://clausencabinetdentaire.lu/,Mo-Sa 09:00-18:00,49.6140035,6.1447027
+Pagano Rémi,Unknown,Rue Jean-Pierre Koenig,Luxembourg,1865,Unknown,Luxembourg,doctors,doctor,+352 26 26 341,Unknown,Unknown,49.6233539,6.121365
+Sevenig Marc,Unknown,Rue Jean-Pierre Koenig,Luxembourg,1865,Unknown,Luxembourg,doctors,doctor,+352 26 26 341,Unknown,Unknown,49.6233266,6.121379
+Felten Paul,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Unknown,49.6200419,6.1199557
+Pharmacie de Limpertsberg,Unknown,Avenue Victor Hugo,Luxembourg,1750,Unknown,Luxembourg,pharmacy,pharmacy,Unknown,https://www.pharmacie.lu/pharmacie/pharmacie-de-limpertsberg/,"Mo-Tu 08:00-12:15,13:45-18:00; We 08:00-12:15; Th-Fr 08:00-12:15,13:45-18:00;Sa 08:30-12:00",49.6184769,6.1249473
+Erpelding Jeff R.,Unknown,Avenue Victor Hugo,Luxembourg,1750,Unknown,Luxembourg,doctors,doctor,+352 48 41 31,Unknown,Unknown,49.6225922,6.1203742
+Pouthier Dominique,Unknown,Avenue Victor Hugo,Luxembourg,1750,Unknown,Luxembourg,doctors,doctor,+352 48 41 31,Unknown,Unknown,49.6225673,6.1203897
+Dr Frédéric LEBRUN,Unknown,Unknown,Unknown,Unknown,Unknown,Luxembourg,doctors,doctor,Unknown,Unknown,Mo-Th 08:30-16:30,49.6158446,6.1008395
+Maison médicale,Unknown,Rue des Primeurs,Strassen,2361,Unknown,Luxembourg,doctors,centre,+35220 333 111,https://sante.public.lu/fr/urgences-gardes/services-garde/maisons-medicales.html,Mo-Fr 20:00-07:00; Sa-Su 08:00-07:00; PH 08:00-07:00,49.6215343,6.0938406

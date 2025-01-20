@@ -1,0 +1,17 @@
+Name,Full Address,Street,City,Postcode,State,Country,Amenity,Healthcare,Phone,Website,Opening Hours,Latitude,Longitude
+Pharmacie Fontaine,Unknown,Rue Saint-Jean,Mont-Saint-Guibert,1435,Unknown,Belgium,pharmacy,pharmacy,Unknown,Unknown,"Mo-Fr 08:30-12:30,13:30-19:00; Sa 08:45-12:30",50.6391829,4.6141198
+Pharmacie Bouché,Unknown,Grand'Rue,Mont-Saint-Guibert,1435,Unknown,Belgium,pharmacy,Healthcare Services,Unknown,Unknown,Mo-Fr 08:30-19:00; Sa 09:00-13:00,50.6362785,4.6115017
+Centre Pharmaceutique LLN,Unknown,Traverse d'Ésope,Unknown,Unknown,Unknown,Belgium,pharmacy,Healthcare Services,Unknown,Unknown,Unknown,50.6690391,4.6147456
+Maison médicale,Unknown,Unknown,Unknown,Unknown,Unknown,Belgium,doctors,doctor,Unknown,Unknown,Unknown,50.6371879,4.6091659
+Dr de Bilderling,Unknown,Unknown,Unknown,Unknown,Unknown,Belgium,veterinary,Healthcare Services,Unknown,Unknown,Unknown,50.6372829,4.6117439
+Pharmacie des Bruyeres,Unknown,Place de l'Equerre,Unknown,Unknown,Unknown,Belgium,pharmacy,pharmacy,Unknown,Unknown,"Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-12:30",50.6643096,4.6098038
+Pharmacie Servais,Unknown,Grand Route (N4),Unknown,1435,Unknown,Belgium,pharmacy,Healthcare Services,Unknown,https://www.pharmacieservais.be/,Unknown,50.64368,4.6458038
+Pharmacie de Chastre,Unknown,Route Provinciale,Chastre,1450,Unknown,Belgium,pharmacy,Healthcare Services,Unknown,Unknown,Unknown,50.6094406,4.6489288
+Maison médicale du Biéreau,Unknown,Voie du Roman Pays,Unknown,Unknown,Unknown,Belgium,clinic,clinic,Unknown,https://www.maisonmedicale.be/,Unknown,50.6670662,4.6146261
+Cabinet Dentaire Blanmont,Unknown,Unknown,Unknown,Unknown,Unknown,Belgium,dentist,Healthcare Services,Unknown,Unknown,Unknown,50.6215549,4.639358
+Delie - Cosse,Unknown,Rue du Fraignat,Unknown,Unknown,Unknown,Belgium,doctors,Healthcare Services,Unknown,Unknown,Unknown,50.6755323,4.6390129
+Clinique dentaire Laal Riahi,Unknown,Grand-Rue,Unknown,Unknown,Unknown,Belgium,dentist,Healthcare Services,Unknown,http://christian-laal-riahi.com/,Unknown,50.669512,4.6147436
+Centre de cardiologie Charlemagne,Unknown,Rue de l'Union Européenne,Unknown,Unknown,Unknown,Belgium,clinic,clinic,+32 10 23 87 11,https://www.cardiolln.com,Unknown,50.6700505,4.6136186
+Poste médical de garde,Unknown,Avenue Albert Einstein,Unknown,Unknown,Unknown,Belgium,doctors,doctor,+32 2 385 05 00,http://medecindegardebw.be/,Sa-Su 00:00-24:00; PH 00:00-24:00,50.6650078,4.6293316
+Centre vétérinaire Vetes,Unknown,Unknown,Unknown,Unknown,Unknown,Belgium,veterinary,Healthcare Services,Unknown,Unknown,Unknown,50.6148187,4.6653108
+Centre médical VitaSanté,Unknown,Rue Saint-Jean,Mont-Saint-Guibert,1435,Unknown,Belgium,clinic,clinic,Unknown,Unknown,Unknown,50.6389558,4.6145213

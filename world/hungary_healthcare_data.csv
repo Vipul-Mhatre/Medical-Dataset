@@ -1,0 +1,5 @@
+Name,Full Address,Street,City,Postcode,State,Country,Amenity,Healthcare,Phone,Website,Opening Hours,Latitude,Longitude
+Unknown,Unknown,Béke tér,Pusztavacs,2378,Unknown,Hungary,dentist,dentist,Unknown,Unknown,Tu 14:00-18:00,47.1743192,19.4962852
+Gyermekorvosi Rendelő és Védőnői Szolgálat,Unknown,Béke tér,Pusztavacs,2378,Unknown,Hungary,doctors,Healthcare Services,Unknown,https://pusztavacs.asp.lgov.hu/gyermekorvos,Mo-Th 12:00-14:00; We off,47.1735195,19.4963521
+Gyógyszertár.,Unknown,Unknown,Unknown,Unknown,Unknown,Hungary,pharmacy,pharmacy,Unknown,Unknown,Unknown,47.2103395,19.5510229
+Szent István Gyógyszertár,Unknown,Béke tér,Pusztavacs,2378,Unknown,Hungary,pharmacy,Healthcare Services,Unknown,Unknown,"Mo-Th 11:00-14:00; We,Fr 10:00-12:30",47.1740545,19.4963953
