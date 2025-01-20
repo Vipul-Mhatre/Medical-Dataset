@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 3671739673, 'lat': -9.2733528, 'lon': 25.6033333, 'tags': {'amenity': 'clinic', 'name': 'Kazele'}}"
+"{'type': 'node', 'id': 5240568126, 'lat': -8.731195, 'lon': 25.0054306, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Papa Sayo'}}"
+"{'type': 'node', 'id': 8213557092, 'lat': -8.742385, 'lon': 24.9808517, 'tags': {'addr:housenumber': '28', 'addr:street': 'Avenue du Zaïre', 'amenity': 'doctors', 'description': 'ouverte 24h/24', 'health_facility:CD': 'cs', 'healthcare': 'yes', 'name': 'Centre de Santé Katuba II'}}"
+"{'type': 'node', 'id': 8244032432, 'lat': -8.7340918, 'lon': 25.0158584, 'tags': {'addr:street': 'Avenue des Colons', 'amenity': 'clinic', 'description': 'Ouverte 24h/24', 'name': 'Lupandilo'}}"
+"{'type': 'node', 'id': 9317510607, 'lat': -8.7330604, 'lon': 25.0048913, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Deepack Pharma'}}"

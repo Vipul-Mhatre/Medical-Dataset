@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 4418919131, 'lat': 32.9836781, 'lon': 112.5227487, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南阳天伦医院'}}"
+"{'type': 'node', 'id': 4418933911, 'lat': 32.9876802, 'lon': 112.5115573, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南阳市张仲景国医院'}}"
+"{'type': 'node', 'id': 4418935869, 'lat': 32.9855189, 'lon': 112.5157215, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '张仲景药店'}}"
+"{'type': 'node', 'id': 5011321993, 'lat': 33.7672697, 'lon': 113.191917, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '平顶山湖滨社区卫生服务中心'}}"
+"{'type': 'node', 'id': 5011322000, 'lat': 33.7663668, 'lon': 113.1809452, 'tags': {'amenity': 'hospital', 'name': '湖光社区卫生服务站', 'phone': '+86 375 616 3611'}}"
+"{'type': 'node', 'id': 5104356774, 'lat': 33.8566289, 'lon': 113.2170426, 'tags': {'amenity': 'hospital', 'name': '宝丰县第三人民医院'}}"
+"{'type': 'node', 'id': 8787738798, 'lat': 33.265569, 'lon': 113.0263595, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '爱康医院'}}"
+"{'type': 'node', 'id': 8787738799, 'lat': 33.2548138, 'lon': 113.0135919, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '东城医院'}}"
+"{'type': 'node', 'id': 9754076298, 'lat': 33.22975, 'lon': 112.9901776, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '方城县中医院滨河院区'}}"
+"{'type': 'node', 'id': 11497367691, 'lat': 33.0386751, 'lon': 112.5619583, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'orthopaedics', 'name': '南阳市骨科医院'}}"

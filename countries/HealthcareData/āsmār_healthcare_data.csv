@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 3993237038, 'lat': 35.4802603, 'lon': 71.7411101, 'tags': {'amenity': 'hospital', 'name': 'Hospital'}}"
+"{'type': 'node', 'id': 5037950421, 'lat': 34.7240234, 'lon': 71.5039611, 'tags': {'amenity': 'hospital', 'name': 'Agency Head Quarter Hospital Khar'}}"
+"{'type': 'node', 'id': 5312407027, 'lat': 34.6120271, 'lon': 71.959769, 'tags': {'amenity': 'hospital', 'name': 'DHQ Hospital Btk'}}"
+"{'type': 'node', 'id': 5312436429, 'lat': 34.5817723, 'lon': 71.9336372, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'SAJID MEDICAL STORE'}}"
+"{'type': 'node', 'id': 5312465421, 'lat': 34.6109397, 'lon': 71.9579149, 'tags': {'amenity': 'hospital', 'name': 'DHQ Hospital Btk'}}"
+"{'type': 'node', 'id': 6480240985, 'lat': 34.648123, 'lon': 70.8959614, 'tags': {'amenity': 'clinic', 'name:en': 'Khas Kunar Clinic خاص کنړ کلينيک'}}"
+"{'type': 'node', 'id': 6534025095, 'lat': 35.2027027, 'lon': 71.8774673, 'tags': {'amenity': 'hospital', 'name': 'Sahara Hospital'}}"
+"{'type': 'node', 'id': 6867245685, 'lat': 34.6203502, 'lon': 71.8114428, 'tags': {'amenity': 'clinic', 'name': 'Dr. bakhtzada'}}"
+"{'type': 'node', 'id': 7039265485, 'lat': 34.6161935, 'lon': 71.8246803, 'tags': {'amenity': 'clinic', 'name': 'Dr. Haneef-u-llah'}}"
+"{'type': 'node', 'id': 7231518379, 'lat': 35.2024782, 'lon': 71.8787637, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general;emergency', 'name': 'District Headquarter Hospital'}}"
+"{'type': 'node', 'id': 9912988219, 'lat': 35.6287072, 'lon': 71.7932685, 'tags': {'addr:street': 'Kesu Deh', 'amenity': 'clinic', 'name': 'BHU KESU', 'name:en': 'Basic Health Unit Kesu'}}"

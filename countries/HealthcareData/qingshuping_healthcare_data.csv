@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 3165947376, 'lat': 26.7665661, 'lon': 112.5775076, 'tags': {'amenity': 'hospital', 'name': '衡南县第五人民医院'}}"
+"{'type': 'node', 'id': 3806279583, 'lat': 27.4416055, 'lon': 112.6105275, 'tags': {'addr:city': '衡山县', 'addr:postcode': '421341', 'addr:street': '长青乡', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '衡山县长青乡卫生院'}}"
+"{'type': 'node', 'id': 5622062101, 'lat': 27.4524268, 'lon': 112.1797704, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '国藩医院'}}"
+"{'type': 'node', 'id': 9299395004, 'lat': 27.1262179, 'lon': 112.0953554, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '康复驿站', 'name:en': 'Rehabilitation Station', 'name:zh': '康复驿站'}}"
+"{'type': 'node', 'id': 9336627249, 'lat': 26.8935843, 'lon': 112.6100013, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '衡阳市中心医院'}}"
+"{'type': 'node', 'id': 9706839425, 'lat': 27.7453668, 'lon': 111.9970398, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '娄底市第二人民医院'}}"
+"{'type': 'node', 'id': 10601519953, 'lat': 27.6202384, 'lon': 112.2330514, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '杏子铺中心医院'}}"
+"{'type': 'node', 'id': 11833213818, 'lat': 27.901072, 'lon': 112.5872084, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 11838261336, 'lat': 27.843862, 'lon': 112.6496598, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '楠竹山医院'}}"
+"{'type': 'node', 'id': 11844940292, 'lat': 27.8855242, 'lon': 112.6053521, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '银田镇卫生院'}}"
+"{'type': 'node', 'id': 11847025933, 'lat': 27.8959964, 'lon': 112.5664211, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '永义卫生院'}}"

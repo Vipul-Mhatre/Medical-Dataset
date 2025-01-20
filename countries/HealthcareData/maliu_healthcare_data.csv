@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 5303296303, 'lat': 31.3587997, 'lon': 107.7203894, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '宣汉县人民医院'}}"
+"{'type': 'node', 'id': 5304768635, 'lat': 32.0696699, 'lon': 108.0395588, 'tags': {'amenity': 'hospital', 'name': '万源市中心医院'}}"
+"{'type': 'node', 'id': 5339190637, 'lat': 31.0842977, 'lon': 107.8630346, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '开县人民医院'}}"
+"{'type': 'node', 'id': 5898171255, 'lat': 31.593023, 'lon': 108.3102153, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '测试医院'}}"

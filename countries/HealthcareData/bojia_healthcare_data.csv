@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 3165947376, 'lat': 26.7665661, 'lon': 112.5775076, 'tags': {'amenity': 'hospital', 'name': '衡南县第五人民医院'}}"
+"{'type': 'node', 'id': 5273612921, 'lat': 26.6237566, 'lon': 112.0892226, 'tags': {'amenity': 'hospital', 'name': '羊角塘医院'}}"
+"{'type': 'node', 'id': 5275068524, 'lat': 26.6208697, 'lon': 112.0902874, 'tags': {'amenity': 'hospital', 'name': '防疫站'}}"
+"{'type': 'node', 'id': 9299395004, 'lat': 27.1262179, 'lon': 112.0953554, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '康复驿站', 'name:en': 'Rehabilitation Station', 'name:zh': '康复驿站'}}"
+"{'type': 'node', 'id': 9336627249, 'lat': 26.8935843, 'lon': 112.6100013, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '衡阳市中心医院'}}"

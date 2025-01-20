@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 2498251360, 'lat': 33.1501391, 'lon': 115.5468018, 'tags': {'amenity': 'hospital', 'name': '新集卫生分院'}}"
+"{'type': 'node', 'id': 2498251362, 'lat': 33.1521032, 'lon': 115.5422732, 'tags': {'amenity': 'hospital', 'name': '大新中心卫生院'}}"
+"{'type': 'node', 'id': 3928194811, 'lat': 33.1438542, 'lon': 115.5852536, 'tags': {'amenity': 'clinic', 'name': '大新镇广缙村卫生室'}}"
+"{'type': 'node', 'id': 4769467704, 'lat': 33.2636288, 'lon': 115.3518385, 'tags': {'amenity': 'hospital', 'name': '界首市人民医院'}}"
+"{'type': 'node', 'id': 4989661229, 'lat': 32.7959002, 'lon': 115.4267041, 'tags': {'amenity': 'clinic', 'name': '陈家庙卫生室'}}"
+"{'type': 'node', 'id': 8488422245, 'lat': 32.7719437, 'lon': 115.4727892, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '龙翔大药房'}}"
+"{'type': 'node', 'id': 8490674784, 'lat': 32.7812144, 'lon': 115.4518673, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '土陂乡大陈卫生室'}}"
+"{'type': 'node', 'id': 9334027283, 'lat': 33.6363377, 'lon': 114.6818438, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '康福堂药店(中原路店)'}}"
+"{'type': 'node', 'id': 10002011819, 'lat': 32.77097, 'lon': 115.4729004, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '好心人大药房'}}"
+"{'type': 'node', 'id': 10002011822, 'lat': 32.7721319, 'lon': 115.4725436, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '洪涛药店'}}"
+"{'type': 'node', 'id': 11409417464, 'lat': 33.6254689, 'lon': 114.9539089, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '康升医院'}}"

@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 4135920204, 'lat': -6.1326063, 'lon': -39.8749375, 'tags': {'amenity': 'hospital', 'name': 'Hospital Municipal de Catarina'}}"
+"{'type': 'node', 'id': 7323972885, 'lat': -5.397854, 'lon': -40.3100253, 'tags': {'amenity': 'pharmacy', 'name': 'farmvida'}}"
+"{'type': 'node', 'id': 7324003785, 'lat': -5.3905373, 'lon': -40.3025956, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 7602590315, 'lat': -6.5408195, 'lon': -39.9081886, 'tags': {'amenity': 'pharmacy', 'name': 'Farmácia Saboeiro'}}"
+"{'type': 'node', 'id': 8346410417, 'lat': -5.7435159, 'lon': -39.6275884, 'tags': {'amenity': 'pharmacy', 'name': 'Farmacia Bia Esperança'}}"
+"{'type': 'node', 'id': 9692911917, 'lat': -5.39451, 'lon': -40.313707, 'tags': {'amenity': 'pharmacy', 'name': 'Desconto Farms'}}"

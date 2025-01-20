@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 4780270221, 'lat': 21.8613394, 'lon': 106.7552192, 'tags': {'amenity': 'pharmacy', 'name:vi': 'Nhà Thuôc'}}"
+"{'type': 'node', 'id': 4780440521, 'lat': 21.8585808, 'lon': 106.7590206, 'tags': {'amenity': 'pharmacy', 'name:vi': 'Đinh đức thấu'}}"
+"{'type': 'node', 'id': 5372787721, 'lat': 21.9499432, 'lon': 106.6962045, 'tags': {'amenity': 'pharmacy', 'name:en': 'Pharmacy'}}"
+"{'type': 'node', 'id': 12015889133, 'lat': 22.1100116, 'lon': 106.7551975, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '一心堂'}}"
+"{'type': 'node', 'id': 12034939961, 'lat': 22.1103471, 'lon': 106.756015, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '蓝天药业'}}"
+"{'type': 'node', 'id': 12048648051, 'lat': 22.1095389, 'lon': 106.7569234, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '国源药房'}}"

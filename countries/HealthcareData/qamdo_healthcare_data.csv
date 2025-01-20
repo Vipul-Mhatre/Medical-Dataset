@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 3134776731, 'lat': 31.1293225, 'lon': 97.1820776, 'tags': {'amenity': 'hospital', 'name': '昌都市人民医院'}}"
+"{'type': 'node', 'id': 5139838333, 'lat': 31.1454977, 'lon': 97.1792199, 'tags': {'amenity': 'clinic', 'name': '仁和诊所'}}"
+"{'type': 'node', 'id': 5139862868, 'lat': 31.1452477, 'lon': 97.1791679, 'tags': {'amenity': 'clinic', 'name': '西藏昌都贡培藏药诊所'}}"
+"{'type': 'node', 'id': 5139889472, 'lat': 31.1404497, 'lon': 97.1818545, 'tags': {'amenity': 'hospital', 'name': '民安医院'}}"

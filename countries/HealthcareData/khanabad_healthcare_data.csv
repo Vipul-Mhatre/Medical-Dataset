@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 2370746337, 'lat': 36.6746879, 'lon': 68.9007718, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5522172621, 'lat': 37.2324685, 'lon': 69.0978871, 'tags': {'amenity': 'pharmacy', 'name': 'нохияи Панч марказ'}}"
+"{'type': 'node', 'id': 5841329185, 'lat': 36.7191649, 'lon': 68.8709435, 'tags': {'amenity': 'clinic', 'name': 'شفاخانه رحمان بابا', 'name:en': 'Rahman baba clinic'}}"

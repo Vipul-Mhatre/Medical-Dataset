@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 7035979235, 'lat': 9.0733496, 'lon': 13.6630302, 'tags': {'amenity': 'clinic', 'name': 'Centre de sante integré de lagdo urbain'}}"
+"{'type': 'node', 'id': 7036005745, 'lat': 9.0654273, 'lon': 13.6593747, 'tags': {'amenity': 'clinic', 'name': 'Centre de santé communautaire eelc de lagdo'}}"
+"{'type': 'node', 'id': 7036005746, 'lat': 9.0495162, 'lon': 13.6707205, 'tags': {'amenity': 'clinic', 'name': 'Centre de santé intégré ndjipporde'}}"
+"{'type': 'node', 'id': 7036005747, 'lat': 9.0320129, 'lon': 13.6365654, 'tags': {'amenity': 'clinic', 'name': 'Centre de santé ourokessoum'}}"
+"{'type': 'node', 'id': 7036005748, 'lat': 9.0321177, 'lon': 13.6364631, 'tags': {'amenity': 'clinic', 'name': 'Centre de santé du complexe islamique de lagdo'}}"

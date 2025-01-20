@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 3718263268, 'lat': 27.7688106, 'lon': 99.4267397, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3910130891, 'lat': 27.8064486, 'lon': 99.7065242, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4189362926, 'lat': 27.8186593, 'lon': 99.7026545, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 11966515050, 'lat': 27.702296, 'lon': 99.0471767, 'tags': {'healthcare': 'centre', 'name': '叶枝中心卫生院'}}"

@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 2370746337, 'lat': 36.6746879, 'lon': 68.9007718, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5841329185, 'lat': 36.7191649, 'lon': 68.8709435, 'tags': {'amenity': 'clinic', 'name': 'شفاخانه رحمان بابا', 'name:en': 'Rahman baba clinic'}}"
+"{'type': 'node', 'id': 9713541020, 'lat': 35.4101593, 'lon': 69.6986992, 'tags': {'amenity': 'clinic', 'name:en': 'Peshghor Basic Health Clinic ARCS'}}"
+"{'type': 'node', 'id': 11221694623, 'lat': 35.9485117, 'lon': 68.7124287, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'شفاخانه نساجی و پوهنتون حکیم سنایی'}}"
+"{'type': 'node', 'id': 11640458869, 'lat': 35.9432681, 'lon': 68.7171167, 'tags': {'amenity': 'pharmacy'}}"

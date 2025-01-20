@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 5438439421, 'lat': 9.5193853, 'lon': -6.4823564, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'pharmacie'}}"
+"{'type': 'node', 'id': 5854910772, 'lat': 9.6107744, 'lon': -6.9429841, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Pharmacie Kènèya'}}"
+"{'type': 'node', 'id': 7673088805, 'lat': 9.534971, 'lon': -6.4894327, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 7688748858, 'lat': 9.8317669, 'lon': -6.4504284, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hôpital de Gbon'}}"
+"{'type': 'node', 'id': 7775297702, 'lat': 9.8972449, 'lon': -6.5016827, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 12335714690, 'lat': 9.519513, 'lon': -6.1955674, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de Santé'}}"

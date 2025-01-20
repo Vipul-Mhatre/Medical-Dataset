@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 2012831028, 'lat': 28.1029079, 'lon': 111.9533649, 'tags': {'amenity': 'hospital', 'name': '沩山医院'}}"
+"{'type': 'node', 'id': 6239152471, 'lat': 27.739351, 'lon': 111.3190269, 'tags': {'amenity': 'pharmacy', 'name': '泰安大药房', 'name:en': ""Tai'an Pharmacy""}}"
+"{'type': 'node', 'id': 6239168202, 'lat': 27.739144, 'lon': 111.3152839, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '雪峰诊所', 'name:en': 'Snow Hill Clinic'}}"
+"{'type': 'node', 'id': 6241147167, 'lat': 27.7383164, 'lon': 111.3207212, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '健康南门药店', 'name:en': 'South Gate Pharmacy'}}"
+"{'type': 'node', 'id': 6241147169, 'lat': 27.7372419, 'lon': 111.3195198, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '心健大药房', 'name:en': 'Xinjian Pharmacy'}}"
+"{'type': 'node', 'id': 6241147170, 'lat': 27.7352728, 'lon': 111.3149069, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '新化眼科医院', 'name:en': 'Xinhua Eye Hospital'}}"
+"{'type': 'node', 'id': 6241147172, 'lat': 27.7354149, 'lon': 111.3137174, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '邹医师牙科', 'name:en': 'Dr. Zou Dental Clinic'}}"
+"{'type': 'node', 'id': 6241147174, 'lat': 27.7354367, 'lon': 111.3135354, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '文龙大桥牙科', 'name:en': 'Wenlong Dental Clinic'}}"
+"{'type': 'node', 'id': 6241147176, 'lat': 27.7355966, 'lon': 111.3130187, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '老百姓大药房', 'name:en': 'Laobaixing Pharmacy'}}"

@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 2370746337, 'lat': 36.6746879, 'lon': 68.9007718, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4556088175, 'lat': 37.7393344, 'lon': 69.8442788, 'tags': {'amenity': 'hospital', 'name': 'Беморхонаи рақамӣи'}}"
+"{'type': 'node', 'id': 4979817524, 'lat': 37.4916658, 'lon': 69.4041765, 'tags': {'addr:street': 'Ш. Шохтемур', 'amenity': 'clinic', 'name': 'Поликлиника', 'name:en': 'Clinic', 'name:fa': 'بىمارخانه'}}"
+"{'type': 'node', 'id': 4979935421, 'lat': 37.4928204, 'lon': 69.4030774, 'tags': {'addr:street': 'Рудаки', 'amenity': 'hospital', 'name': 'Ибни Сино', 'name:en': 'Avicenna'}}"
+"{'type': 'node', 'id': 5522172621, 'lat': 37.2324685, 'lon': 69.0978871, 'tags': {'amenity': 'pharmacy', 'name': 'нохияи Панч марказ'}}"
+"{'type': 'node', 'id': 5841329185, 'lat': 36.7191649, 'lon': 68.8709435, 'tags': {'amenity': 'clinic', 'name': 'شفاخانه رحمان بابا', 'name:en': 'Rahman baba clinic'}}"
+"{'type': 'node', 'id': 11968109569, 'lat': 37.4926485, 'lon': 69.4030766, 'tags': {'amenity': 'hospital', 'name': 'Санэпидемстанция район Фархар'}}"

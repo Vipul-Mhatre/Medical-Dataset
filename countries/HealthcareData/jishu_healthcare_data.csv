@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 3963729662, 'lat': 43.8939027, 'lon': 127.3413266, 'tags': {'amenity': 'hospital', 'name': '吉林市第九人民医院'}}"
+"{'type': 'node', 'id': 4005751625, 'lat': 44.4170791, 'lon': 126.9420645, 'tags': {'amenity': 'hospital', 'name': '爱民医院'}}"
+"{'type': 'node', 'id': 4011265547, 'lat': 44.4096091, 'lon': 126.938732, 'tags': {'amenity': 'hospital', 'name': '市医院住院处'}}"
+"{'type': 'node', 'id': 4011265548, 'lat': 44.4093406, 'lon': 126.9387109, 'tags': {'amenity': 'hospital', 'name': '市医院门诊楼'}}"
+"{'type': 'node', 'id': 4021032028, 'lat': 44.4051416, 'lon': 126.9474279, 'tags': {'amenity': 'hospital', 'name': '中医院'}}"

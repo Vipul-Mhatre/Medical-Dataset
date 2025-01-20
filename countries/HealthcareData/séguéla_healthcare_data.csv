@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 7319310306, 'lat': 8.0551659, 'lon': -6.1876369, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 7323333584, 'lat': 8.0614075, 'lon': -6.1893389, 'tags': {'healthcare': 'yes', 'name': 'SSSU-SAJ Mankono'}}"
+"{'type': 'node', 'id': 7323372000, 'lat': 8.0619418, 'lon': -6.1890872, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Dispensaire et Pharmacie Social de la Miséricorde'}}"
+"{'type': 'node', 'id': 7342538887, 'lat': 8.0229602, 'lon': -6.1788861, 'tags': {'amenity': 'hospital', 'fixme': 'No building near this point.  Please verify location', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 8506537559, 'lat': 7.9594725, 'lon': -6.6771216, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Pharmacie Moderne de Seguela', 'phone': '+22508468685'}}"
+"{'type': 'node', 'id': 11853406570, 'lat': 7.9578045, 'lon': -6.6808984, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'CHU de Séguéla', 'name:en': ""Côte d'Ivoire""}}"

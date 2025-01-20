@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 2905434108, 'lat': 29.5821081, 'lon': 103.4373203, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9654319256, 'lat': 29.4180908, 'lon': 103.5479892, 'tags': {'alt_name': '乐山市第五人民医院', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '沙湾区人民医院'}}"
+"{'type': 'node', 'id': 10780093101, 'lat': 29.9857738, 'lon': 102.9908938, 'tags': {'addr:housenumber': '358', 'addr:street': '城后路', 'disused:amenity': 'hospital', 'healthcare': 'hospital', 'name': '雅安市人民医院(第一院区)', 'phone': '+86 835 286 2826', 'website': 'https://www.yasyy.com/'}}"
+"{'type': 'node', 'id': 10780093103, 'lat': 30.0046875, 'lon': 103.0536405, 'tags': {'addr:housenumber': '9', 'addr:street': '安康路', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '雅安市人民医院(第二院区)', 'website': 'https://www.yasyy.com/'}}"
+"{'type': 'node', 'id': 10780570702, 'lat': 30.0036979, 'lon': 103.0242363, 'tags': {'addr:street': '宁雅路', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '雅安河北医院', 'old_name': '雅安市红十字医院'}}"
+"{'type': 'node', 'id': 11074131817, 'lat': 30.000896, 'lon': 103.0002746, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '南二路社区卫生服务中心', 'name:zh': '南二路社区卫生服务中心', 'note': '晚上关门，没有住院功能，所以是OSM定义下的诊所而非医院', 'official_name': '雅安市雨城区南二路社区卫生服务中心', 'official_name:zh': '雅安市雨城区南二路社区卫生服务中心'}}"
+"{'type': 'node', 'id': 11365907020, 'lat': 29.5983702, 'lon': 103.4826048, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '峨眉山市人民医院'}}"

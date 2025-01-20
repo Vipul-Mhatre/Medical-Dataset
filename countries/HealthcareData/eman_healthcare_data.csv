@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 5367995808, 'lat': 19.9174648, 'lon': 109.6892337, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '社区服务诊所'}}"
+"{'type': 'node', 'id': 6038806154, 'lat': 19.4354741, 'lon': 109.308784, 'tags': {'addr:city': '儋州市', 'addr:district': '雅星镇', 'addr:postcode': '571727', 'addr:province': '海南省', 'addr:street': '八一总场医院', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '海南省国营八一总场医院', 'operator': '儋州市卫生局'}}"

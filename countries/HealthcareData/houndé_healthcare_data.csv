@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 769143457, 'lat': 10.9763543, 'lon': -3.2479584, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'La Maternité'}}"
+"{'type': 'node', 'id': 3325851828, 'lat': 11.1478213, 'lon': -3.0743465, 'tags': {'amenity': 'pharmacy', 'dispensing': 'no', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 5416625531, 'lat': 11.4857152, 'lon': -3.523925, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie des Arènes'}}"
+"{'type': 'node', 'id': 5416626631, 'lat': 11.6846433, 'lon': -3.0967176, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 8933534800, 'lat': 11.4292418, 'lon': -3.556353, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"

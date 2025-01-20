@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 7498370921, 'lat': 36.6982115, 'lon': 119.1258632, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '潍坊市急救中心'}}"
+"{'type': 'node', 'id': 7792966512, 'lat': 35.9917339, 'lon': 119.4010203, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '和平药业'}}"
+"{'type': 'node', 'id': 7794466592, 'lat': 35.9892582, 'lon': 119.4046567, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '力生源大药房'}}"
+"{'type': 'node', 'id': 7794466593, 'lat': 35.9886567, 'lon': 119.4042026, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '海王医药'}}"
+"{'type': 'node', 'id': 7795684781, 'lat': 36.0036519, 'lon': 119.3882707, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '邱家庄卫生室'}}"
+"{'type': 'node', 'id': 8569323898, 'lat': 36.6894718, 'lon': 119.1239021, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '奎文区梨园街道社区卫生服务中心'}}"
+"{'type': 'node', 'id': 8569323909, 'lat': 36.6674214, 'lon': 119.1196889, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '奎文区廿里堡街道社区卫生服务中心', 'phone': '+86 536 852 0007'}}"
+"{'type': 'node', 'id': 8825554884, 'lat': 36.6931139, 'lon': 119.1685181, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '高新区新城街道府佑社区十甲社区卫生室;潍坊高新区人民医院新城第二接种门诊'}}"

@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 5275757222, 'lat': -5.6234566, 'lon': -45.7671257, 'tags': {'addr:street': 'Rua Tiradentes, Esquina com a Rui Barbosa', 'amenity': 'pharmacy', 'name': 'Drogaria Kawe', 'opening_hours': '24/7', 'phone': '+55 98 9 3613-9024'}}"
+"{'type': 'node', 'id': 5276412825, 'lat': -5.6222962, 'lon': -45.7691334, 'tags': {'addr:street': 'Av. Getúlio Vargas', 'amenity': 'hospital', 'name': 'Posto de Saúde'}}"
+"{'type': 'node', 'id': 6219309466, 'lat': -5.0161665, 'lon': -44.9934442, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7084940950, 'lat': -5.4511869, 'lon': -45.0323646, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9251450906, 'lat': -4.9889233, 'lon': -44.689479, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9477474160, 'lat': -4.9601843, 'lon': -45.358484, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS da Sumaúma'}}"
+"{'type': 'node', 'id': 9477474165, 'lat': -4.8799088, 'lon': -45.2966261, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS da Lagoa do Sindô II'}}"
+"{'type': 'node', 'id': 9477515907, 'lat': -4.9936844, 'lon': -45.3812597, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hospital Municipal José Vieira de Melo'}}"
+"{'type': 'node', 'id': 9477515908, 'lat': -4.9939499, 'lon': -45.3855708, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS da Sede'}}"

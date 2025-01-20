@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 5147841531, 'lat': -3.3465587, 'lon': -64.7081998, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS', 'operator': 'Sistema Único de Saúde', 'operator:short': 'SUS', 'operator:wikidata': 'Q7531056', 'operator:wikipedia': 'pt:Sistema Único de Saúde'}}"
+"{'type': 'node', 'id': 5147841538, 'lat': -3.3462227, 'lon': -64.707107, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Drogaria Amazonas', 'name:en': 'Drogaria Amazonas', 'name:pt': 'Drogaria Amazonas'}}"
+"{'type': 'node', 'id': 5147853322, 'lat': -3.3526064, 'lon': -64.7281557, 'tags': {'addr:street': 'Estrada do Bexiga SN', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'HOSPITAL REGIONAL DE TEFÉ'}}"
+"{'type': 'node', 'id': 5147855621, 'lat': -3.3458695, 'lon': -64.7073093, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Drogaria Canhoto', 'name:en': 'Drogaria Canhoto', 'name:pt': 'Drogaria Canhoto'}}"
+"{'type': 'node', 'id': 5147855622, 'lat': -3.3466273, 'lon': -64.7090485, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Drogaria Modelo', 'name:en': 'Drogaria Modelo', 'name:pt': 'Drogaria Modelo'}}"
+"{'type': 'node', 'id': 10300290379, 'lat': -3.2151345, 'lon': -64.8150153, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Unidade Hospitalar de Alvaraes - Hospital São Joaquim - HSJ'}}"
+"{'type': 'node', 'id': 10605416551, 'lat': -3.2127374, 'lon': -64.807836, 'tags': {'amenity': 'pharmacy', 'name': 'Drogaria Lucas Farma'}}"
+"{'type': 'node', 'id': 11096992612, 'lat': -3.3008586, 'lon': -64.7800094, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS Vila Nogueira'}}"

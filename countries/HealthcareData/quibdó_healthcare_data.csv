@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 4602114719, 'lat': 5.2651622, 'lon': -76.5557439, 'tags': {'FIXME': 'approximate location', 'amenity': 'hospital', 'emergency': 'yes', 'name': 'IPS ESE Hospital San José de Tadó'}}"
+"{'type': 'node', 'id': 4757205375, 'lat': 6.311033, 'lon': -76.132915, 'tags': {'amenity': 'hospital', 'name': 'HOSPITAL'}}"
+"{'type': 'node', 'id': 4757205390, 'lat': 6.113337, 'lon': -75.984712, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'HOSPITAL'}}"
+"{'type': 'node', 'id': 5480578524, 'lat': 5.8506715, 'lon': -76.020469, 'tags': {'amenity': 'pharmacy', 'name': 'Droguería Sana que Sana'}}"
+"{'type': 'node', 'id': 6033264164, 'lat': 5.6850489, 'lon': -76.6610014, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'PUESTO DE SALUD SAN VICENTE'}}"
+"{'type': 'node', 'id': 6496551986, 'lat': 5.6816478, 'lon': -76.6578801, 'tags': {'amenity': 'hospital', 'name': 'Centro de Salud Niño Jesús'}}"
+"{'type': 'node', 'id': 6852822390, 'lat': 5.8502749, 'lon': -76.0211047, 'tags': {'amenity': 'pharmacy', 'name:en': 'Pharmacy Uribe'}}"
+"{'type': 'node', 'id': 6852823388, 'lat': 5.8497988, 'lon': -76.0204872, 'tags': {'amenity': 'pharmacy', 'name:en': 'Pharmacy'}}"
+"{'type': 'node', 'id': 8071498918, 'lat': 5.3784181, 'lon': -76.0016112, 'tags': {'amenity': 'hospital', 'name': 'Puesto de Salud Río Mistrató'}}"

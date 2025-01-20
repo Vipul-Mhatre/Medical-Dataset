@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 9764933992, 'lat': 33.3880962, 'lon': 104.9303482, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 9770490108, 'lat': 33.3988021, 'lon': 104.9139605, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '永康诊所'}}"
+"{'type': 'node', 'id': 9770490168, 'lat': 33.3900963, 'lon': 104.9209295, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '武都仁爱医院'}}"

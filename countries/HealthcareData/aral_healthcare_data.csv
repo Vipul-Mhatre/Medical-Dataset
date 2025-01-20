@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 5416891121, 'lat': 46.797483, 'lon': 61.6625396, 'tags': {'addr:housenumber': '22', 'addr:street': 'Абулхаир хана', 'amenity': 'pharmacy', 'email': 'zhanarik@rambler.ru', 'name': 'Жанар және Компания', 'name:en': 'Zhanar & Company', 'name:ru': 'Жанар и Компания', 'opening_hours': 'Mo-Su 09:00-24:00'}}"
+"{'type': 'node', 'id': 7887234258, 'lat': 46.7934033, 'lon': 61.6569297, 'tags': {'amenity': 'pharmacy', 'contact:email': 'zabota@europharma.kz', 'contact:instagram': 'https://www.instagram.com/europharma/', 'contact:phone': '+7 701 604 1908;3303', 'contact:website': 'https://europharma.kz/', 'name': 'Europharma', 'opening_hours': '24/7', 'operator': 'AK NIET GROUP'}}"

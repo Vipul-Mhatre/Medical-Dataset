@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 6088138792, 'lat': -15.3324306, 'lon': -43.6718437, 'tags': {'addr:postcode': '39508-000', 'addr:street': 'Avenida Joaquim Garcia Ladeia', 'addr:suburb': 'Centro', 'amenity': 'hospital', 'email': 'jaiba@nortecnet.com.br', 'healthcare': 'hospital', 'name': 'Hospital Municipal de Jaiba', 'operator:ref:vatin': 'BR25209149000106', 'phone': '+55 38 3833 1480', 'ref:CNES': '2117479'}}"
+"{'type': 'node', 'id': 12165384256, 'lat': -15.5964828, 'lon': -43.6011875, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': 'Unidade Basica de Saude'}}"

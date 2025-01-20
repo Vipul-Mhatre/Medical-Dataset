@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 4452300825, 'lat': 7.9757767, 'lon': -75.202216, 'tags': {'addr:city': 'Caucasia', 'amenity': 'pharmacy', 'dispensing': 'no', 'healthcare': 'pharmacy', 'name': 'Farmacia Pasteur'}}"
+"{'type': 'node', 'id': 4744061322, 'lat': 7.9891728, 'lon': -75.1989891, 'tags': {'addr:housenumber': '12-69', 'addr:street': 'Diagonal 20 C', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Clínica Pajonal', 'name:es': 'Clínica Pajonal', 'opening_hours': '24/7', 'phone': '+57 4 8390069'}}"
+"{'type': 'node', 'id': 4896000051, 'lat': 7.6405314, 'lon': -75.5223343, 'tags': {'amenity': 'hospital', 'name': 'PUESTO DE SALUD'}}"
+"{'type': 'node', 'id': 5101605421, 'lat': 7.9935666, 'lon': -75.1989539, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Farmacia Pasteur', 'name:es': 'Farmacia Pasteur'}}"
+"{'type': 'node', 'id': 5470980221, 'lat': 7.9893036, 'lon': -75.1937554, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Droguería Inglesa', 'phone': '+57 4 8394063'}}"
+"{'type': 'node', 'id': 7563967359, 'lat': 8.850693, 'lon': -75.2791056, 'tags': {'addr:city': 'La Unión', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': 'ESE Hospital La Unión'}}"
+"{'type': 'node', 'id': 7857150495, 'lat': 8.8785667, 'lon': -75.7963397, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': 'Hospital San Diego'}}"
+"{'type': 'node', 'id': 9290884907, 'lat': 7.9816266, 'lon': -75.1986969, 'tags': {'addr:city': 'Caucasia', 'addr:housenumber': '11', 'addr:street': 'Carrera 13', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'La economía'}}"
+"{'type': 'node', 'id': 9926009517, 'lat': 7.9684222, 'lon': -75.2011659, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'hospital Regional'}}"
+"{'type': 'node', 'id': 9932439217, 'lat': 7.9747791, 'lon': -75.2020437, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'healthcare:speciality': 'orthodontics;dentist', 'name': 'Odonto Especialistas'}}"
+"{'type': 'node', 'id': 10238087304, 'lat': 8.8825669, 'lon': -75.7983083, 'tags': {'amenity': 'hospital', 'name': 'Hospital'}}"
+"{'type': 'node', 'id': 11570664528, 'lat': 7.9764185, 'lon': -75.4194783, 'tags': {'amenity': 'pharmacy', 'operator': 'Cruz Verde'}}"

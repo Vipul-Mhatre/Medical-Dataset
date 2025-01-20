@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 4304894214, 'lat': 23.6507847, 'lon': 53.7044864, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4305002090, 'lat': 23.6410841, 'lon': 53.7081815, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4404651890, 'lat': 24.092105, 'lon': 53.4929778, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4781474521, 'lat': 24.0921956, 'lon': 53.493076, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 4838741421, 'lat': 23.1471115, 'lon': 53.8074803, 'tags': {'amenity': 'hospital', 'internet_access': 'wlan', 'name': 'مستشفى ليوا', 'name:ar': 'مستشفى ليوا', 'name:en': 'Liwa hospital'}}"
+"{'type': 'node', 'id': 4838741422, 'lat': 23.1328239, 'lon': 53.799262, 'tags': {'amenity': 'pharmacy', 'name': 'صيدلية جنيد', 'name:ar': 'صيدلية جنيد', 'name:en': 'Junaid Pharmacy', 'operator': 'Shakeel Ahmed'}}"
+"{'type': 'node', 'id': 5372953624, 'lat': 23.6598245, 'lon': 53.7280371, 'tags': {'amenity': 'pharmacy', 'name:en': 'Bawabat Al Shifa Pharmacy'}}"
+"{'type': 'node', 'id': 5372954824, 'lat': 23.6534743, 'lon': 53.7044952, 'tags': {'amenity': 'pharmacy', 'name:en': 'Madinat Zayed Al Ahliya Pharmacy'}}"
+"{'type': 'node', 'id': 6181312617, 'lat': 23.6238178, 'lon': 53.7157808, 'tags': {'amenity': 'pharmacy', 'name': 'صيدلية المنارة', 'name:ar': 'صيدلية المنارة', 'name:en': 'Al Manara Pharmacy'}}"
+"{'type': 'node', 'id': 7259046186, 'lat': 23.7978909, 'lon': 54.1628714, 'tags': {'amenity': 'hospital', 'name': 'مستشفى', 'name:en': 'infinity'}}"
+"{'type': 'node', 'id': 7259046187, 'lat': 23.6581824, 'lon': 53.7276116, 'tags': {'amenity': 'hospital', 'name': 'مستشفى'}}"
+"{'type': 'node', 'id': 8275218617, 'lat': 23.1327573, 'lon': 53.7991704, 'tags': {'addr:housenumber': 'Building 1', 'amenity': 'clinic', 'name:en': 'Liwa Medical Centre L.L.C.', 'phone': '+971 2 882 2877'}}"

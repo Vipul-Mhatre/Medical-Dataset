@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 3131222138, 'lat': 49.7695012, 'lon': -94.4879155, 'tags': {'amenity': 'clinic', 'name': 'Nothrwestern Health Unit'}}"
+"{'type': 'node', 'id': 6610435286, 'lat': 49.7672994, 'lon': -94.4905124, 'tags': {'addr:street': 'Main Street South', 'amenity': 'pharmacy', 'brand': 'I.D.A.', 'brand:wikidata': 'Q65553883', 'healthcare': 'pharmacy', 'name': 'I.D.A.'}}"

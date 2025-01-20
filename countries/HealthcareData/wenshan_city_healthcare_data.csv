@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 3826222709, 'lat': 22.9259553, 'lon': 104.7377041, 'tags': {'amenity': 'pharmacy', 'name': '利民药店', 'name:en': 'Limin Pharmacy'}}"
+"{'type': 'node', 'id': 4739879024, 'lat': 22.7849984, 'lon': 104.5824129, 'tags': {'amenity': 'hospital', 'internet_access': 'wlan', 'name': 'Trạm y tế xã Bản Phùng', 'name:en': 'Bản Phùng Medical station', 'name:vi': 'Trạm y tế xã Bản Phùng'}}"
+"{'type': 'node', 'id': 6461135023, 'lat': 23.3860731, 'lon': 104.2057278, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '也医院'}}"

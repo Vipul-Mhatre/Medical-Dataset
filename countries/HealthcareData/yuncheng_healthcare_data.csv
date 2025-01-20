@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 4662879348, 'lat': 35.0427873, 'lon': 110.9932887, 'tags': {'addr:city': '运城市', 'addr:housenumber': '388', 'addr:street': '人民北路', 'amenity': 'hospital', 'name': '运城市眼科医院'}}"
+"{'type': 'node', 'id': 6052758282, 'lat': 35.5802427, 'lon': 110.6657764, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '阳村卫生院'}}"
+"{'type': 'node', 'id': 6052766292, 'lat': 35.5788989, 'lon': 110.66549, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '圣济堂药店'}}"
+"{'type': 'node', 'id': 6052766300, 'lat': 35.5804726, 'lon': 110.6656943, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '中国电信'}}"
+"{'type': 'node', 'id': 6158787867, 'lat': 35.2411065, 'lon': 111.1108491, 'tags': {'amenity': 'hospital', 'name': '夏县第二人民医院'}}"
+"{'type': 'node', 'id': 10596711100, 'lat': 35.1019341, 'lon': 111.0357582, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '校医室', 'operator': '秦大夫'}}"
+"{'type': 'node', 'id': 12281089507, 'lat': 35.0491608, 'lon': 110.9869908, 'tags': {'amenity': 'pharmacy', 'brand': '老百姓大药房', 'brand:en': 'LBX Pharmacy', 'brand:zh': '老百姓大药房', 'healthcare': 'pharmacy', 'name': '老百姓大药房', 'name:en': 'LBX Pharmacy', 'name:zh': '老百姓大药房'}}"

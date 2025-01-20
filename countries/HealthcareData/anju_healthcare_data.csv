@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 261726319, 'lat': 39.008136, 'lon': 125.7430936, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 526959269, 'lat': 39.0066357, 'lon': 125.7620939, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 527087871, 'lat': 39.0196839, 'lon': 125.7767307, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 527460433, 'lat': 39.0316507, 'lon': 125.7308028, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 539047231, 'lat': 39.0156659, 'lon': 125.7519774, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 2310420843, 'lat': 39.5556636, 'lon': 126.0585041, 'tags': {'amenity': 'hospital', 'source': 'http://www.hrnk.org/publications/hrnk-publications.php'}}"
+"{'type': 'node', 'id': 4683252700, 'lat': 39.0093168, 'lon': 125.7474802, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 5067523224, 'lat': 39.6929508, 'lon': 125.214354, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name:en': 'Jongigu hospital'}}"
+"{'type': 'node', 'id': 5069119831, 'lat': 39.0996244, 'lon': 125.3769325, 'tags': {'amenity': 'hospital', 'name:en': 'Jungsan  county hospital'}}"
+"{'type': 'node', 'id': 5485334794, 'lat': 39.0607656, 'lon': 125.7587161, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '약국 (2층)', 'name:en': 'Pharmacy (2nd Floor)', 'name:ko': '약국 (2층)'}}"
+"{'type': 'node', 'id': 5508284428, 'lat': 39.7087448, 'lon': 125.8896758, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

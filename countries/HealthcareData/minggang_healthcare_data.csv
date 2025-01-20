@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4448658490, 'lat': 32.1284738, 'lon': 114.0682682, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '信阳市中心医院', 'name:zh': '信阳市中心医院'}}"
+"{'type': 'node', 'id': 11409092470, 'lat': 33.1313831, 'lon': 114.010437, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '遂平县妇幼保健院'}}"
+"{'type': 'node', 'id': 11983403778, 'lat': 33.0110112, 'lon': 114.0010756, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '校医院'}}"

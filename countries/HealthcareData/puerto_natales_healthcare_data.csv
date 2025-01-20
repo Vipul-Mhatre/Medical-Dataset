@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 1653735484, 'lat': -51.7273495, 'lon': -72.5033174, 'tags': {'addr:city': 'Puerto Natales', 'addr:housenumber': '599', 'addr:street': 'Manuel Bulnes', 'amenity': 'pharmacy', 'brand': 'Farmacias Ahumada', 'brand:wikidata': 'Q5856069', 'healthcare': 'pharmacy', 'name': 'Farmacias Ahumada', 'operator': 'FASA S.A.'}}"
+"{'type': 'node', 'id': 2699438591, 'lat': -51.5298312, 'lon': -72.3428438, 'tags': {'addr:city': 'Río Turbio', 'addr:street': 'Avenida Gendarmería Nacional', 'alt_name': 'CIC Río Turbio', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'CIC Padre Mujica'}}"
+"{'type': 'node', 'id': 3066160542, 'lat': -51.7272555, 'lon': -72.5015448, 'tags': {'addr:city': 'Puerto Natales', 'addr:housenumber': '331', 'addr:street': 'Manuel Baquedano', 'amenity': 'pharmacy', 'brand': 'Cruz Verde', 'brand:wikidata': 'Q5856071', 'healthcare': 'pharmacy', 'name': 'Cruz Verde'}}"
+"{'type': 'node', 'id': 3066160543, 'lat': -51.7281352, 'lon': -72.5006949, 'tags': {'addr:housenumber': '701', 'addr:street': 'Esmeralda', 'amenity': 'pharmacy', 'name': 'Farmacia Natales'}}"
+"{'type': 'node', 'id': 3395565255, 'lat': -51.2553777, 'lon': -72.3437437, 'tags': {'addr:country': 'CL', 'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Posta de Salud Rural Cerro Castillo (Torres del Paine)'}}"
+"{'type': 'node', 'id': 3466724284, 'lat': -51.5930486, 'lon': -72.2192434, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'CIC 28 de Noviembre'}}"
+"{'type': 'node', 'id': 7312559855, 'lat': -51.6062278, 'lon': -72.3323483, 'tags': {'addr:country': 'CL', 'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Posta de Salud Rural Dorotea'}}"
+"{'type': 'node', 'id': 10126933100, 'lat': -51.5791889, 'lon': -72.2172448, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Consultorio Externo'}}"
+"{'type': 'node', 'id': 10126933105, 'lat': -51.5840075, 'lon': -72.2157723, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Farmacia Del Rosario'}}"

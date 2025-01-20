@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 5454555599, 'lat': 41.6644454, 'lon': 123.3430078, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '雪松大药房'}}"
+"{'type': 'node', 'id': 5456841730, 'lat': 41.6584404, 'lon': 123.3357242, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '成大方圆药房'}}"
+"{'type': 'node', 'id': 6028906020, 'lat': 41.1025297, 'lon': 122.992841, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'name': '鞍山市中心医院'}}"
+"{'type': 'node', 'id': 6833728190, 'lat': 41.7463003, 'lon': 123.3952158, 'tags': {'amenity': 'clinic', 'name': 'Roicare'}}"
+"{'type': 'node', 'id': 7860764698, 'lat': 41.0990177, 'lon': 122.9816938, 'tags': {'healthcare': 'yes', 'name': '鞍山市中心血站'}}"
+"{'type': 'node', 'id': 8481603399, 'lat': 41.0878292, 'lon': 123.0057822, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '鞍山市华康医院'}}"
+"{'type': 'node', 'id': 9268983118, 'lat': 41.0074916, 'lon': 122.9962565, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '鞍山市心理卫生专科医院'}}"
+"{'type': 'node', 'id': 10595421569, 'lat': 41.8117446, 'lon': 123.3647041, 'tags': {'addr:district': '铁西区', 'addr:province': '辽宁省', 'addr:street': '齐贤北街', 'amenity': 'dentist', 'healthcare': 'dentist', 'healthcare:speciality': 'dentist', 'name': '时代美学口腔门诊部', 'opening_hours': '08:00-20:00', 'phone': '+86 24 3103 8572'}}"
+"{'type': 'node', 'id': 10595421572, 'lat': 41.8121537, 'lon': 123.3651082, 'tags': {'addr:city': '笃工街道', 'addr:district': '铁西区', 'addr:province': '辽宁省', 'addr:street': '齐贤北街', 'amenity': 'pharmacy', 'drive_through': 'no', 'healthcare': 'pharmacy', 'name': '成大方圆连锁药店', 'phone': '+86 180 4020 8602'}}"

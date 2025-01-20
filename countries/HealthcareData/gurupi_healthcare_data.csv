@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 8428559274, 'lat': -11.7154175, 'lon': -49.0903763, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Drogaria Popular'}}"
+"{'type': 'node', 'id': 9510862264, 'lat': -11.8003204, 'lon': -49.5269913, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9511091496, 'lat': -11.7208576, 'lon': -49.0761517, 'tags': {'addr:city': 'Gurupi', 'addr:housenumber': '176', 'addr:postcode': '77423-150', 'addr:street': 'Rua Ministro Alfredo Nasser', 'addr:suburb': 'Centro', 'amenity': 'hospital', 'fax': '+55 63 312 3019', 'healthcare': 'hospital', 'name': 'Hospital e Maternidade Santa Catarina', 'phone': '+55 63 312 4666', 'ref:CNES': '5052424', 'ref:vatin': 'BR27149281000103'}}"
+"{'type': 'node', 'id': 9520293019, 'lat': -12.144969, 'lon': -49.165296, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9954034997, 'lat': -11.7297948, 'lon': -49.0637332, 'tags': {'addr:city': 'Gurupi', 'addr:housenumber': '1650', 'addr:postcode': '77405090', 'addr:street': 'Rua Presidente Castelo Branco', 'addr:suburb': 'Setor Central', 'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'Consultorio Dra Natalia Andrade', 'opening_hours': 'Mo-Sa 08:00-18:00', 'operator': 'Natália Andrade'}}"

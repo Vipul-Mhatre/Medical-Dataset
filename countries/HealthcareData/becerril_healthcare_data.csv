@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 3100445654, 'lat': 9.6603069, 'lon': -73.7476821, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3100445661, 'lat': 9.6601641, 'lon': -73.7479052, 'tags': {'amenity': 'hospital', 'name': 'Hospital'}}"
+"{'type': 'node', 'id': 3100445664, 'lat': 9.6603069, 'lon': -73.7486477, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3100445665, 'lat': 9.6602223, 'lon': -73.7487603, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4573694889, 'lat': 10.3328716, 'lon': -73.1816241, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 6955955486, 'lat': 9.1922213, 'lon': -72.6670508, 'tags': {'amenity': 'hospital', 'name': 'Ambulatorio Rural'}}"

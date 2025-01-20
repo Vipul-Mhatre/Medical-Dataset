@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 5029708922, 'lat': -2.5182433, 'lon': -66.0979716, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hospital Municipal de Fonte Boa', 'name:pt': 'Hospital Municipal de Fonte Boa'}}"
+"{'type': 'node', 'id': 6819881322, 'lat': -1.8601237, 'lon': -65.5910004, 'tags': {'addr:postcode': '69490-000', 'addr:street': 'Avenida 25 de Março', 'amenity': 'hospital', 'internet_access': 'wlan', 'name': 'Unidade Mista de Maraã', 'opening_hours': '24/7'}}"
+"{'type': 'node', 'id': 6819919085, 'lat': -1.8598962, 'lon': -65.5907062, 'tags': {'addr:postcode': '69490-000', 'addr:street': 'Avenida 25 de Março', 'amenity': 'hospital', 'name': 'Unidade Mista de Maraã', 'opening_hours': '24/7'}}"

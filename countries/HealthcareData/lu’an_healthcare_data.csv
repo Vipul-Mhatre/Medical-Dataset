@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 2878642519, 'lat': 31.8416369, 'lon': 115.8743059, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '豫安医院'}}"
+"{'type': 'node', 'id': 2973013632, 'lat': 31.8025585, 'lon': 116.8667501, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 10088188972, 'lat': 31.8500164, 'lon': 117.1366205, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '合肥高新区杨林社区卫生服务站'}}"
+"{'type': 'node', 'id': 10117637228, 'lat': 31.7025347, 'lon': 117.1581148, 'tags': {'healthcare': 'rehabilitation', 'name': '肥西县康华儿童康复中心', 'phone': '+86 176 8110 4888'}}"

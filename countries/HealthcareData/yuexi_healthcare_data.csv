@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 5221717887, 'lat': 31.2075165, 'lon': 107.511612, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '达川人民医院南城医院'}}"
+"{'type': 'node', 'id': 5222971280, 'lat': 31.2228314, 'lon': 107.5154301, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '达州市中心医院'}}"
+"{'type': 'node', 'id': 5303296303, 'lat': 31.3587997, 'lon': 107.7203894, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '宣汉县人民医院'}}"
+"{'type': 'node', 'id': 5339190637, 'lat': 31.0842977, 'lon': 107.8630346, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '开县人民医院'}}"

@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 4634891890, 'lat': 27.7978503, 'lon': 114.9282402, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '新钢医院', 'name:zh': '新钢医院'}}"
+"{'type': 'node', 'id': 5246669541, 'lat': 27.2176726, 'lon': 115.1307285, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'gynaecology', 'name': '吉水县妇幼保健院'}}"

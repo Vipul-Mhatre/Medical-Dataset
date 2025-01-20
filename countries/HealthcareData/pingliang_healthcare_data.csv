@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 4484085287, 'lat': 34.9872928, 'lon': 106.2012839, 'tags': {'addr:city': '天水市', 'addr:housenumber': '35', 'addr:place': '张家川县', 'addr:province': '甘肃省', 'addr:street': '人民东路', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '张家川县中医院'}}"
+"{'type': 'node', 'id': 4484085288, 'lat': 34.9937665, 'lon': 106.2059826, 'tags': {'addr:city': '天水市', 'addr:district': '张家川县', 'addr:housenumber': '2', 'addr:province': '甘肃省', 'addr:street': '解放西路', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '张家川第一人民医院'}}"
+"{'type': 'node', 'id': 4484087450, 'lat': 35.0331654, 'lon': 106.0838735, 'tags': {'addr:city': '天水市', 'addr:housenumber': '2', 'addr:province': '甘肃省', 'addr:street': '西街花寺巷', 'addr:subdistrict': '张家川县', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '张家川县第二人民医院'}}"
+"{'type': 'node', 'id': 4665991380, 'lat': 35.2149893, 'lon': 106.6480132, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4871853460, 'lat': 34.8935653, 'lon': 106.8569997, 'tags': {'amenity': 'hospital', 'name': '陇县中药医院'}}"
+"{'type': 'node', 'id': 12149826214, 'lat': 36.0121387, 'lon': 106.2557144, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '华夏大药房'}}"
+"{'type': 'node', 'id': 12149826281, 'lat': 36.009995, 'lon': 106.2712359, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12149826320, 'lat': 36.009341, 'lon': 106.2759071, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12149826374, 'lat': 36.0072717, 'lon': 106.2889638, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '盛济大药房'}}"
+"{'type': 'node', 'id': 12458893493, 'lat': 34.9884581, 'lon': 106.2041471, 'tags': {'amenity': 'pharmacy', 'brand': '德生堂', 'brand:en': 'JIANKANG LINJU DE SHENG TANG', 'brand:wikidata': 'Q108168942', 'brand:zh': '德生堂', 'healthcare': 'pharmacy', 'name': '德生堂', 'name:en': 'JIANKANG LINJU DE SHENG TANG', 'name:zh': '德生堂'}}"
+"{'type': 'node', 'id': 12458919642, 'lat': 34.9891417, 'lon': 106.2043112, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

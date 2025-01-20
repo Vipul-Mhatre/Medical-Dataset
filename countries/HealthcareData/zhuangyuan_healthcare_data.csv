@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 5132079487, 'lat': 37.6578235, 'lon': 120.989728, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '机场医院'}}"
+"{'type': 'node', 'id': 10544321278, 'lat': 36.779538, 'lon': 121.1632358, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 10609560043, 'lat': 37.5305208, 'lon': 121.3987327, 'tags': {'amenity': 'hospital', 'name': '烟台顺达口腔医院'}}"
+"{'type': 'node', 'id': 11169680152, 'lat': 37.9107782, 'lon': 120.729861, 'tags': {'healthcare': 'yes'}}"
+"{'type': 'node', 'id': 11169680154, 'lat': 37.9139014, 'lon': 120.7375535, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '久安堂大药房'}}"

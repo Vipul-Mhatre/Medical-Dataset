@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 1410209315, 'lat': 10.3256802, 'lon': -3.1785498, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie de la Colline'}}"
+"{'type': 'node', 'id': 6860866042, 'lat': 10.4632541, 'lon': -4.0003002, 'tags': {'amenity': 'hospital', 'name': 'CSPS de Kouéré'}}"
+"{'type': 'node', 'id': 7724786745, 'lat': 9.2304887, 'lon': -3.0639, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Centre de Santé Rural Assoum I'}}"
+"{'type': 'node', 'id': 7724852832, 'lat': 9.6563584, 'lon': -3.2799219, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de Santé Rural de Varale'}}"
+"{'type': 'node', 'id': 7731308162, 'lat': 9.4167669, 'lon': -3.1059321, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7747603027, 'lat': 9.8092513, 'lon': -3.3373953, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hôpital général de Doropo'}}"
+"{'type': 'node', 'id': 8993668707, 'lat': 9.2665402, 'lon': -2.997766, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hôpital Général de Bouna'}}"
+"{'type': 'node', 'id': 9041097662, 'lat': 10.2243063, 'lon': -3.3506477, 'tags': {'amenity': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 9341065389, 'lat': 10.3214791, 'lon': -3.17984, 'tags': {'amenity': 'hospital', 'name': 'Centre Hospitalier Régional de Goaua', 'name:en': 'Regional hospital center of Goaua'}}"
+"{'type': 'node', 'id': 10025879317, 'lat': 10.3294062, 'lon': -3.1785375, 'tags': {'amenity': 'clinic', 'name': 'Centre médical de Gaoua', 'name:en': 'Medical center of Gaoua', 'opening_hours': '24/7'}}"
+"{'type': 'node', 'id': 10751464160, 'lat': 9.8262678, 'lon': -2.6839137, 'tags': {'amenity': 'hospital'}}"

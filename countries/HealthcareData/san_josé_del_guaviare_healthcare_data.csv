@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 2478255034, 'lat': 2.571049, 'lon': -72.6444933, 'tags': {'amenity': 'pharmacy', 'name': 'Drogueria El Ahorro'}}"
+"{'type': 'node', 'id': 2478255036, 'lat': 2.5714371, 'lon': -72.6448711, 'tags': {'amenity': 'pharmacy', 'name': 'Minerva'}}"
+"{'type': 'node', 'id': 4089093900, 'lat': 2.3312367, 'lon': -72.6323616, 'tags': {'amenity': 'hospital', 'name': 'El Retorno', 'name:es': 'El Retorno hospital'}}"
+"{'type': 'node', 'id': 7689381213, 'lat': 2.0616736, 'lon': -72.8726567, 'tags': {'healthcare': 'yes', 'name': 'Puesto de Salud - sin servicio'}}"
+"{'type': 'node', 'id': 8971313209, 'lat': 1.9588834, 'lon': -72.6543689, 'tags': {'amenity': 'hospital', 'name': 'E.S.E Maria Cristina Cobo Mahecha'}}"

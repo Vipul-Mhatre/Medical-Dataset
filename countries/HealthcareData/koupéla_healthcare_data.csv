@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 3424408221, 'lat': 11.5036765, 'lon': 0.0560616, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'source': 'bing;survey'}}"
+"{'type': 'node', 'id': 3650215073, 'lat': 12.1826997, 'lon': -0.3574875, 'tags': {'amenity': 'pharmacy', 'dispensing': 'no', 'name': 'Pharmacie du Kouritenga', 'source': 'survey'}}"
+"{'type': 'node', 'id': 5667754721, 'lat': 11.789795, 'lon': -0.9558778, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'CSPS de Sinikieré', 'name:fr': 'CSPS de Sinikieré'}}"
+"{'type': 'node', 'id': 10825151104, 'lat': 11.7258809, 'lon': -0.1981484, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Moaga Centre de Santé Et de Promotion Sociale'}}"
+"{'type': 'node', 'id': 10825223445, 'lat': 11.8361234, 'lon': -0.515013, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Sabtenga Centre de Santé Et de Promotion Sociale'}}"
+"{'type': 'node', 'id': 12476503099, 'lat': 11.6206116, 'lon': -0.3773975, 'tags': {'amenity': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 12496915531, 'lat': 11.7467846, 'lon': -0.257704, 'tags': {'amenity': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"

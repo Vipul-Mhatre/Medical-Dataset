@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 4365160965, 'lat': -6.4168375, 'lon': -43.5439816, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 7070480032, 'lat': -5.8103111, 'lon': -44.3711092, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7150979684, 'lat': -6.3630155, 'lon': -44.3629465, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 7672023972, 'lat': -6.5023804, 'lon': -43.7022365, 'tags': {'addr:city': 'são João dos patos', 'addr:housenumber': '1329', 'addr:postcode': '65665000', 'addr:street': 'rua Gonçalves Moreira', 'addr:suburb': 'centro', 'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general', 'name': 'posto de saúde', 'opening_hours': 'Mo-Sa 08:00-18:00', 'opening_hours:covid19': 'restricted', 'operator': 'hospital', 'operator:type': 'public'}}"

@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 5224570690, 'lat': 31.7381407, 'lon': 104.5816791, 'tags': {'amenity': 'hospital', 'name': '香泉乡卫生院'}}"
+"{'type': 'node', 'id': 5224570692, 'lat': 31.7688166, 'lon': 104.5992207, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '香泉乡卫生院'}}"
+"{'type': 'node', 'id': 5224570696, 'lat': 31.7360147, 'lon': 104.5779777, 'tags': {'amenity': 'clinic', 'name': '香泉村卫生站'}}"
+"{'type': 'node', 'id': 5225914812, 'lat': 31.9073562, 'lon': 104.4286564, 'tags': {'amenity': 'hospital', 'name': '漩坪乡卫生院'}}"
+"{'type': 'node', 'id': 5694571011, 'lat': 31.808669, 'lon': 104.4511619, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '曲山镇防保所'}}"
+"{'type': 'node', 'id': 10629575105, 'lat': 31.7656113, 'lon': 104.729255, 'tags': {'addr:street': '太平路中段', 'amenity': 'hospital', 'name': '九〇三医院', 'website': 'https://www.903yy.com.cn/'}}"
+"{'type': 'node', 'id': 11743350977, 'lat': 31.8902592, 'lon': 104.7988083, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '江油市武都镇窦团山村卫生站'}}"

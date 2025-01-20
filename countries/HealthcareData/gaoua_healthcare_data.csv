@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 769143457, 'lat': 10.9763543, 'lon': -3.2479584, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'La Maternité'}}"
+"{'type': 'node', 'id': 1410209315, 'lat': 10.3256802, 'lon': -3.1785498, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie de la Colline'}}"
+"{'type': 'node', 'id': 5077394121, 'lat': 10.533558, 'lon': -2.6997333, 'tags': {'amenity': 'clinic', 'name': ""St. Joseph's Hospital"", 'name:en': ""St. Joseph's Hospital""}}"
+"{'type': 'node', 'id': 7747603027, 'lat': 9.8092513, 'lon': -3.3373953, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hôpital général de Doropo'}}"
+"{'type': 'node', 'id': 8667760640, 'lat': 10.0742319, 'lon': -2.5097067, 'tags': {'amenity': 'clinic', 'description': 'Rabito Clinic is opposite the Airstrip', 'healthcare': 'clinic', 'name': 'Rabito Clinic'}}"
+"{'type': 'node', 'id': 8957046942, 'lat': 10.0519176, 'lon': -2.5390234, 'tags': {'amenity': 'clinic', 'name': 'Homeland Clinic'}}"
+"{'type': 'node', 'id': 8957055909, 'lat': 10.0574927, 'lon': -2.5072258, 'tags': {'amenity': 'pharmacy', 'drive_through': 'no', 'healthcare': 'pharmacy', 'name': 'Pharmaceuticals Ghana Limited', 'survey:date': '2023-12-16'}}"
+"{'type': 'node', 'id': 9041097662, 'lat': 10.2243063, 'lon': -3.3506477, 'tags': {'amenity': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 9341065389, 'lat': 10.3214791, 'lon': -3.17984, 'tags': {'amenity': 'hospital', 'name': 'Centre Hospitalier Régional de Goaua', 'name:en': 'Regional hospital center of Goaua'}}"
+"{'type': 'node', 'id': 9921291278, 'lat': 10.0605771, 'lon': -2.5306126, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 10025879317, 'lat': 10.3294062, 'lon': -3.1785375, 'tags': {'amenity': 'clinic', 'name': 'Centre médical de Gaoua', 'name:en': 'Medical center of Gaoua', 'opening_hours': '24/7'}}"
+"{'type': 'node', 'id': 10751464160, 'lat': 9.8262678, 'lon': -2.6839137, 'tags': {'amenity': 'hospital'}}"

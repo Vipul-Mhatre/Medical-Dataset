@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 4100182690, 'lat': 33.6985009, 'lon': 70.3294684, 'tags': {'amenity': 'clinic', 'name': 'Dr.Gohar Zaman'}}"
+"{'type': 'node', 'id': 4100357989, 'lat': 33.7119636, 'lon': 70.3546732, 'tags': {'addr:street': 'Hospital Area', 'amenity': 'clinic', 'name': 'سدہ', 'opening_hours': 'Mo-Su 10:00-22:00', 'phone': '+92926521666'}}"
+"{'type': 'node', 'id': 4102379790, 'lat': 33.7056875, 'lon': 70.3487047, 'tags': {'amenity': 'clinic', 'name': 'THQ Hospital'}}"
+"{'type': 'node', 'id': 4149296190, 'lat': 33.700341, 'lon': 70.3294827, 'tags': {'amenity': 'pharmacy', 'name': 'علی میڈیکل سٹور'}}"
+"{'type': 'node', 'id': 11028595725, 'lat': 33.3376376, 'lon': 69.9152488, 'tags': {'amenity': 'pharmacy', 'contact:phone': '+93 764 72 44 61; +93 774 47 41 23', 'name': 'نوی کوثر درملتون', 'name:en': 'New Kawsar Pharmacy'}}"

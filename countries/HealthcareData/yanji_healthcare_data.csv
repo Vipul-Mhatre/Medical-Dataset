@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 2598715433, 'lat': 42.7702614, 'lon': 129.421144, 'tags': {'amenity': 'hospital', 'name': '龙井人民医院 룡정인민의원'}}"
+"{'type': 'node', 'id': 3147205219, 'lat': 42.8872971, 'lon': 129.488912, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '延吉惠爱医院', 'name:ko': '연길혜애병원', 'name:zh': '延吉惠爱医院', 'name:zh-Hans': '延吉惠爱医院', 'name:zh-Hant': '延吉惠愛醫院'}}"
+"{'type': 'node', 'id': 10244700185, 'lat': 42.8860758, 'lon': 129.4892499, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '延吉天泉医院', 'name:zh': '延吉天泉医院', 'name:zh-Hans': '延吉天泉医院', 'name:zh-Hant': '延吉天泉醫院'}}"
+"{'type': 'node', 'id': 11609509221, 'lat': 42.700918, 'lon': 129.7585669, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '东方大药房'}}"
+"{'type': 'node', 'id': 11609509222, 'lat': 42.7008979, 'lon': 129.7584955, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '曙光药店'}}"
+"{'type': 'node', 'id': 12143417702, 'lat': 42.9055232, 'lon': 129.5051585, 'tags': {'addr:city': '延边朝鲜族自治州', 'addr:district': '延吉市', 'addr:housenumber': '42', 'addr:province': '吉林省', 'addr:street': '光明街', 'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '人间正道新药大药房', 'outdoor_seating': 'no'}}"
+"{'type': 'node', 'id': 12143922402, 'lat': 42.9032317, 'lon': 129.4924916, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '延边保健大药房', 'outdoor_seating': 'no'}}"
+"{'type': 'node', 'id': 12144068901, 'lat': 42.9048243, 'lon': 129.496594, 'tags': {'amenity': 'pharmacy', 'name': '延边保健大药房', 'outdoor_seating': 'no'}}"
+"{'type': 'node', 'id': 12400294267, 'lat': 42.9013873, 'lon': 129.4895757, 'tags': {'addr:city': '延边朝鲜族自治州', 'addr:district': '延吉市', 'addr:housenumber': '258', 'addr:province': '吉林省', 'addr:street': '延西街', 'amenity': 'dentist', 'healthcare': 'dentist', 'healthcare:speciality': 'dental_oral_maxillo_facial_surgery', 'name': '延吉诺布尔口腔医院 연길노블구강병원', 'name:ko': '연길노블구강병원', 'name:zh': '延吉诺布尔口腔医院'}}"

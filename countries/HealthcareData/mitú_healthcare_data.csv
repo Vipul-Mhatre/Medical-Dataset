@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 8589280600, 'lat': 1.2551895, 'lon': -70.2362283, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'drive_through': 'no', 'healthcare': 'pharmacy', 'name': 'Los Paisas'}}"
+"{'type': 'node', 'id': 9348673020, 'lat': 1.1724051, 'lon': -69.9080333, 'tags': {'healthcare': 'yes', 'name': 'UBA Yaruru'}}"
+"{'type': 'node', 'id': 9348998313, 'lat': 1.092714, 'lon': -70.044924, 'tags': {'amenity': 'clinic', 'healthcare': 'yes', 'name': 'UBA Tayazu'}}"

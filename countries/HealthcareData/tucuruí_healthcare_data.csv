@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 4556801691, 'lat': -3.7776042, 'lon': -49.5687901, 'tags': {'addr:city': 'Breu Branco', 'addr:postcode': '68488000', 'addr:street': 'Minas Gerais', 'addr:suburb': 'Centro', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': 'Hospital Municipal Inácio Gabriel'}}"
+"{'type': 'node', 'id': 5787353370, 'lat': -4.3168115, 'lon': -49.7559654, 'tags': {'amenity': 'clinic', 'name': 'Posto de saúde'}}"
+"{'type': 'node', 'id': 5789933821, 'lat': -3.4219065, 'lon': -49.5877453, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Posto de Saúde'}}"
+"{'type': 'node', 'id': 6441763896, 'lat': -3.8286821, 'lon': -49.6739196, 'tags': {'addr:city': 'Tucuruí', 'addr:street': 'Avenida dos Amazonidas', 'addr:suburb': 'Vila Permanente', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': 'Hospital regional'}}"
+"{'type': 'node', 'id': 6441763906, 'lat': -3.8345216, 'lon': -49.678372, 'tags': {'addr:city': 'Tucuruí', 'addr:street': 'Avenida Engenheiro Raul Garcia Llano', 'addr:suburb': 'Vila Permanente', 'amenity': 'pharmacy', 'dispensing': 'yes', 'drive_through': 'no', 'healthcare': 'pharmacy', 'name': 'Formula Farmacia de Manipulação', 'opening_hours': 'Mo-Sa 08:00-18:00'}}"
+"{'type': 'node', 'id': 9927042414, 'lat': -3.769748, 'lon': -49.5664424, 'tags': {'addr:city': 'Breu Branco', 'addr:street': 'Rua Pastor Araujo', 'addr:suburb': 'Conquista', 'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'vaccination'}}"

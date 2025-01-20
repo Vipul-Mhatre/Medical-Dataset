@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 905028987, 'lat': -25.5450193, 'lon': 26.0828081, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 3446745595, 'lat': -24.8900083, 'lon': 25.8710781, 'tags': {'amenity': 'clinic', 'name': 'Siga Home Based Care', 'opening_hours': '8:00 - 16:30'}}"
+"{'type': 'node', 'id': 3446745596, 'lat': -24.8854218, 'lon': 25.870771, 'tags': {'amenity': 'clinic', 'name': 'Siga Clinic', 'opening_hours': '24/7'}}"
+"{'type': 'node', 'id': 4193256189, 'lat': -25.8373767, 'lon': 25.6351525, 'tags': {'amenity': 'pharmacy', 'opening_hours': 'Mo-Su 08:00-19:30'}}"
+"{'type': 'node', 'id': 4194989969, 'lat': -25.6550656, 'lon': 25.4013255, 'tags': {'amenity': 'clinic', 'name': 'Hebron Clinic', 'opening_hours': 'Mo-Su 07:30-16:30'}}"
+"{'type': 'node', 'id': 4702404167, 'lat': -24.882465, 'lon': 24.9001414, 'tags': {'amenity': 'clinic', 'name': 'Seherelela Health Post'}}"
+"{'type': 'node', 'id': 4706280344, 'lat': -25.4931717, 'lon': 25.513391, 'tags': {'amenity': 'clinic', 'description': 'This is a health post, once a quater a nurse will come and weigh the children of the village and possibly pass out vitamins.', 'name': 'Malokaganyane Health Post'}}"
+"{'type': 'node', 'id': 7021685724, 'lat': -25.8263114, 'lon': 25.6073898, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Health Centre', 'operator': 'North West University', 'operator:type': 'private'}}"
+"{'type': 'node', 'id': 7882627289, 'lat': -25.3288536, 'lon': 26.1231481, 'tags': {'addr:city': 'Motswedi,Zeerust', 'addr:housenumber': 'Stand 577', 'amenity': 'clinic', 'contact:phone': '018 365 9015', 'healthcare': 'clinic', 'name': 'Mokgola clinic'}}"
+"{'type': 'node', 'id': 8672055658, 'lat': -25.8580212, 'lon': 25.6439352, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Lolo Women Clinic'}}"
+"{'type': 'node', 'id': 10825204205, 'lat': -25.3295225, 'lon': 26.1231361, 'tags': {'addr:postcode': '2869', 'amenity': 'clinic', 'opening_hours': '24/7'}}"

@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 8074021417, 'lat': 24.2934383, 'lon': 106.2293448, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '乐里镇卫生院'}}"
+"{'type': 'node', 'id': 11957923708, 'lat': 24.7722506, 'lon': 105.3381304, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': '华康口腔'}}"

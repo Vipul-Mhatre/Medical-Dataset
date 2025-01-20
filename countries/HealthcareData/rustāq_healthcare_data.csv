@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 3838780766, 'lat': 36.8622637, 'lon': 70.2588075, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838782822, 'lat': 36.8622627, 'lon': 70.258806, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838783612, 'lat': 36.862264, 'lon': 70.2588105, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838783780, 'lat': 36.8622597, 'lon': 70.2588058, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838784200, 'lat': 36.8622614, 'lon': 70.2588105, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838784452, 'lat': 36.8622648, 'lon': 70.2588052, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838785195, 'lat': 36.8622637, 'lon': 70.2588066, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4556088175, 'lat': 37.7393344, 'lon': 69.8442788, 'tags': {'amenity': 'hospital', 'name': 'Беморхонаи рақамӣи'}}"
+"{'type': 'node', 'id': 4979817524, 'lat': 37.4916658, 'lon': 69.4041765, 'tags': {'addr:street': 'Ш. Шохтемур', 'amenity': 'clinic', 'name': 'Поликлиника', 'name:en': 'Clinic', 'name:fa': 'بىمارخانه'}}"
+"{'type': 'node', 'id': 4979935421, 'lat': 37.4928204, 'lon': 69.4030774, 'tags': {'addr:street': 'Рудаки', 'amenity': 'hospital', 'name': 'Ибни Сино', 'name:en': 'Avicenna'}}"
+"{'type': 'node', 'id': 11968109569, 'lat': 37.4926485, 'lon': 69.4030766, 'tags': {'amenity': 'hospital', 'name': 'Санэпидемстанция район Фархар'}}"

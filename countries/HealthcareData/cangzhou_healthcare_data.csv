@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 6548867586, 'lat': 38.9807142, 'lon': 117.3645539, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '同诚堂大药房'}}"
+"{'type': 'node', 'id': 8666297481, 'lat': 37.7243144, 'lon': 117.2148477, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '乐陵农药厂卫生室'}}"
+"{'type': 'node', 'id': 8666319428, 'lat': 37.7271976, 'lon': 117.2190755, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '乐陵德医堂中医诊所'}}"
+"{'type': 'node', 'id': 8666319431, 'lat': 37.7259692, 'lon': 117.2203517, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '乐陵姜辉诊所'}}"
+"{'type': 'node', 'id': 8670202487, 'lat': 37.7201344, 'lon': 117.2196928, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '山东省乐陵协和医院'}}"
+"{'type': 'node', 'id': 8670287977, 'lat': 37.7231078, 'lon': 117.2078367, 'tags': {'healthcare': 'rehabilitation', 'name': '宏德康复中心'}}"
+"{'type': 'node', 'id': 8670287978, 'lat': 37.722016, 'lon': 117.2060742, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '乐陵金勇口腔诊所'}}"
+"{'type': 'node', 'id': 8670287981, 'lat': 37.7215121, 'lon': 117.2062158, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '乐陵之昌口腔诊所'}}"
+"{'type': 'node', 'id': 8830904640, 'lat': 38.9862154, 'lon': 117.3618934, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '津南区中医医院'}}"
+"{'type': 'node', 'id': 9196781559, 'lat': 38.3226299, 'lon': 116.8546029, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '运河区嘉然诊所', 'name:en': 'Yunhe District Diana Clinic', 'name:zh': '运河区嘉然诊所'}}"

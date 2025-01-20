@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 1260439349, 'lat': 37.5038939, 'lon': 122.0920084, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 1563921007, 'lat': 37.527785, 'lon': 122.08004, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3353599190, 'lat': 37.2857374, 'lon': 122.5459834, 'tags': {'amenity': 'hospital', 'name': '马道医院'}}"
+"{'type': 'node', 'id': 6163691331, 'lat': 37.5289169, 'lon': 122.0598005, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '校医院'}}"
+"{'type': 'node', 'id': 8018191334, 'lat': 37.3666207, 'lon': 122.5516091, 'tags': {'amenity': 'clinic', 'name': '荣成市成山镇一村卫生室', 'phone': '+86 135 6316 7406'}}"
+"{'type': 'node', 'id': 8081591516, 'lat': 37.3681492, 'lon': 122.5485568, 'tags': {'amenity': 'clinic', 'name': '成山三村中心卫生室'}}"
+"{'type': 'node', 'id': 8140970823, 'lat': 37.4261583, 'lon': 122.1507035, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '华康骨科'}}"
+"{'type': 'node', 'id': 8141474611, 'lat': 37.4420246, 'lon': 122.1530897, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '威海泰和中医院'}}"

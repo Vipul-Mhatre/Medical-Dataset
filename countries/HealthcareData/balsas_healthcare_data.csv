@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 6926668215, 'lat': -7.5276335, 'lon': -46.0522179, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 6934473179, 'lat': -7.5276875, 'lon': -46.0629696, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9144868131, 'lat': -7.36003, 'lon': -46.622207, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 11674157640, 'lat': -7.5265257, 'lon': -46.0457357, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Farmalíder'}}"
+"{'type': 'node', 'id': 11674157648, 'lat': -7.5276249, 'lon': -46.0427356, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12057054465, 'lat': -7.5329943, 'lon': -46.0365038, 'tags': {'addr:housenumber': '199', 'addr:street': 'Praça Getúlio Vargas', 'amenity': 'clinic', 'name': 'Clínica Matter', 'phone': '099 3541-5373', 'website': 'https://www.instagram.com/materclinicabalsas/'}}"

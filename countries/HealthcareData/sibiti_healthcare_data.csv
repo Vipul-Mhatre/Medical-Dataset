@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 5217881924, 'lat': -4.2220638, 'lon': 12.7044245, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hopital Manganzi'}}"
+"{'type': 'node', 'id': 6577029523, 'lat': -4.1678769, 'lon': 13.5193257, 'tags': {'amenity': 'clinic', 'fixme': 'CSI???', 'health_facility:type': 'dispensary'}}"
+"{'type': 'node', 'id': 6577033373, 'lat': -4.2645218, 'lon': 13.8319688, 'tags': {'amenity': 'clinic', 'fixme': 'CSI???', 'name': 'CSI Kinzaba'}}"
+"{'type': 'node', 'id': 6577035919, 'lat': -4.2167896, 'lon': 12.6833463, 'tags': {'amenity': 'clinic', 'health_facility:type': 'dispensary', 'healthcare': 'centre', 'name': 'CSI Dimebeko', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 12269791148, 'lat': -4.304322, 'lon': 13.7814467, 'tags': {'addr:city': 'Ngouédi', 'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general;emergency', 'name': 'Dispensaire de Ngouèdi', 'operator': 'Eglise Evangélique du Congo E.E.C.', 'operator:type': 'religious'}}"

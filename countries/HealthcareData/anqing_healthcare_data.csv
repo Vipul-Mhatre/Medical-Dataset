@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 3958446553, 'lat': 30.5131625, 'lon': 117.0396835, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '海军116医院'}}"
+"{'type': 'node', 'id': 3958483259, 'lat': 30.507036, 'lon': 117.0270697, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安庆市第三人民医院'}}"
+"{'type': 'node', 'id': 3958485419, 'lat': 30.5464138, 'lon': 117.0493366, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安庆市第四人民医院'}}"
+"{'type': 'node', 'id': 8093165207, 'lat': 30.9128899, 'lon': 117.5646324, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '金猴大药房'}}"
+"{'type': 'node', 'id': 8133015005, 'lat': 30.9129367, 'lon': 117.5673977, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '麦迪开大药房周潭店'}}"
+"{'type': 'node', 'id': 8133015006, 'lat': 30.9128201, 'lon': 117.5664566, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '东恒堂大药房'}}"
+"{'type': 'node', 'id': 9068859158, 'lat': 30.5164384, 'lon': 117.0769623, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '迎江区新河社区卫生服务中心'}}"
+"{'type': 'node', 'id': 9068859159, 'lat': 30.5179838, 'lon': 117.0801894, 'tags': {'addr:city': '安庆市', 'addr:district': '迎江区', 'addr:housenumber': '8号', 'addr:province': '安徽省', 'addr:street': '皖江大道', 'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '安庆市红十字博爱医院'}}"
+"{'type': 'node', 'id': 10187963363, 'lat': 31.0502437, 'lon': 117.4411891, 'tags': {'healthcare': 'yes', 'name': '临时核酸检测点'}}"
+"{'type': 'node', 'id': 11754589825, 'lat': 30.8212453, 'lon': 117.2523239, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

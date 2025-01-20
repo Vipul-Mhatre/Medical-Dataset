@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 6731868192, 'lat': 31.0467089, 'lon': 112.2466215, 'tags': {'addr:housenumber': '159', 'addr:street': '湖北省荆门市掇刀区月亮湖路159号', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '荆门市第二人民医院东院', 'phone': '+86 724 690 9800'}}"
+"{'type': 'node', 'id': 6743929888, 'lat': 31.0435244, 'lon': 112.193002, 'tags': {'addr:housenumber': '39', 'addr:street': '湖北省荆门市象山大道39号', 'amenity': 'hospital', 'name': '荆门市第二人民医院', 'phone': '+86 724 263 3000', 'website': 'http://www.jmey.com.cn'}}"
+"{'type': 'node', 'id': 8349005784, 'lat': 31.0470996, 'lon': 112.2469674, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '住院部'}}"

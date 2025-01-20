@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 1279614553, 'lat': 6.0535829, 'lon': -67.2793709, 'tags': {'amenity': 'hospital', 'name': 'Ambulatorio'}}"
+"{'type': 'node', 'id': 3380626215, 'lat': 5.6567207, 'lon': -67.6164328, 'tags': {'amenity': 'clinic', 'name': 'Clínica Amazonas'}}"
+"{'type': 'node', 'id': 3380629738, 'lat': 5.6531761, 'lon': -67.6095663, 'tags': {'addr:city': 'Puerto Ayacucho', 'amenity': 'hospital', 'emergency': 'yes', 'name': 'Módulo'}}"
+"{'type': 'node', 'id': 6858939567, 'lat': 5.9842639, 'lon': -67.39323, 'tags': {'healthcare': 'yes', 'name': 'Ambulatorio Albarical'}}"
+"{'type': 'node', 'id': 8486581417, 'lat': 6.220645, 'lon': -67.4531117, 'tags': {'amenity': 'pharmacy', 'name': 'Supermercado de todo'}}"
+"{'type': 'node', 'id': 11673326569, 'lat': 5.6570467, 'lon': -67.6165698, 'tags': {'healthcare': 'yes', 'name': 'Clínica'}}"
+"{'type': 'node', 'id': 11673355769, 'lat': 5.6600592, 'lon': -67.5913634, 'tags': {'healthcare': 'yes', 'name': 'Centro Médico'}}"
+"{'type': 'node', 'id': 11682603972, 'lat': 5.6746311, 'lon': -67.5828497, 'tags': {'healthcare': 'yes', 'name': 'CPT Morichal'}}"
+"{'type': 'node', 'id': 12246293614, 'lat': 5.666654, 'lon': -67.626518, 'tags': {'healthcare': 'yes', 'name': 'Abulatorio militar'}}"

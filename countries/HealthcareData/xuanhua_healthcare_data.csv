@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 4952049295, 'lat': 40.7596789, 'lon': 114.8838597, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '残疾人劳动服务中心'}}"
+"{'type': 'node', 'id': 4952049296, 'lat': 40.7600177, 'lon': 114.8833814, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '残疾人体育训练中心'}}"
+"{'type': 'node', 'id': 4952049297, 'lat': 40.759674, 'lon': 114.8835262, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '残疾人康复中心'}}"
+"{'type': 'node', 'id': 4952116336, 'lat': 40.7690559, 'lon': 114.8748339, 'tags': {'amenity': 'pharmacy', 'name': '华佗药房'}}"
+"{'type': 'node', 'id': 4954133043, 'lat': 40.7691937, 'lon': 114.8748429, 'tags': {'amenity': 'hospital', 'name': '校医院'}}"
+"{'type': 'node', 'id': 9928719427, 'lat': 40.7585214, 'lon': 114.9064976, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '玉宝墩村卫生室'}}"
+"{'type': 'node', 'id': 11233524202, 'lat': 40.0292056, 'lon': 115.4965477, 'tags': {'healthcare': 'counselling', 'name': '村卫生站', 'note': '什么都没有'}}"

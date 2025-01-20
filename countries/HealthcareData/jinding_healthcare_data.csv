@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 4155509373, 'lat': 26.3198329, 'lon': 99.8501616, 'tags': {'amenity': 'pharmacy', 'name': 'Yi Shou Tang'}}"
+"{'type': 'node', 'id': 6351708508, 'lat': 25.8109178, 'lon': 99.3671217, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 6841099239, 'lat': 26.31916, 'lon': 99.8487944, 'tags': {'amenity': 'pharmacy', 'name:en': 'Hengkang Pharmacy'}}"
+"{'type': 'node', 'id': 6847417023, 'lat': 26.8696884, 'lon': 99.9575073, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 8118525398, 'lat': 26.5294885, 'lon': 99.9109446, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '俊康药店'}}"
+"{'type': 'node', 'id': 8170858150, 'lat': 26.09576, 'lon': 99.7668588, 'tags': {'healthcare': 'centre', 'name': '乔后镇卫生院'}}"
+"{'type': 'node', 'id': 8947698474, 'lat': 26.0929412, 'lon': 99.4353233, 'tags': {'description': 'Small dispensary', 'healthcare': 'centre'}}"
+"{'type': 'node', 'id': 9230403742, 'lat': 26.4601661, 'lon': 99.4212808, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '兰坪县人民医院'}}"
+"{'type': 'node', 'id': 11951654259, 'lat': 27.0538413, 'lon': 100.0745539, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 4543040518, 'lat': 49.7155729, 'lon': 84.2583164, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4543124289, 'lat': 49.7241781, 'lon': 84.2635719, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4543125797, 'lat': 49.7145625, 'lon': 84.2529408, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4543144090, 'lat': 49.7138048, 'lon': 84.2532856, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4543151789, 'lat': 49.7257047, 'lon': 84.2730337, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 5352114922, 'lat': 49.7230609, 'lon': 84.2711373, 'tags': {'amenity': 'pharmacy', 'name': 'Аптека'}}"
+"{'type': 'node', 'id': 5366210021, 'lat': 49.7122679, 'lon': 84.2576449, 'tags': {'amenity': 'pharmacy', 'name': 'Аптека'}}"
+"{'type': 'node', 'id': 7887246417, 'lat': 49.726033, 'lon': 84.274847, 'tags': {'amenity': 'pharmacy', 'contact:email': 'zabota@europharma.kz', 'contact:instagram': 'https://www.instagram.com/europharma/', 'contact:phone': '+7 701 302 1230;3303', 'contact:website': 'https://europharma.kz/', 'name': 'Europharma', 'opening_hours': '24/7', 'operator': 'AK NIET GROUP'}}"
+"{'type': 'node', 'id': 9941510261, 'lat': 49.2099494, 'lon': 84.5103023, 'tags': {'addr:city': 'Улкен Нарын', 'addr:housenumber': '77', 'addr:street': 'улица Абылайхана', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 9941510262, 'lat': 49.2097983, 'lon': 84.5093824, 'tags': {'addr:city': 'Улкен Нарын', 'addr:housenumber': '79', 'addr:street': 'улица Абылайхана', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 10255367268, 'lat': 49.7277563, 'lon': 84.2764502, 'tags': {'amenity': 'doctors', 'contact:email': 'consultant@invivo.kz', 'contact:facebook': 'https://www.facebook.com/invivokz', 'contact:instagram': 'https://www.instagram.com/invivokz/', 'contact:phone': '+7 727 339 0480;+7 778 769 3881', 'contact:vk': 'https://vk.com/public213214447', 'contact:website': 'https://invivo.kz', 'contact:youtube': 'https://www.youtube.com/channel/UCaTl33KX8Bl2stUun0qdajQ', 'healthcare': 'laboratory', 'name': 'Invivo', 'opening_hours': 'Mo-Fr 07:00-14:00', 'operator': 'INVIVO (Инвиво)'}}"

@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 3687765311, 'lat': 24.0841215, 'lon': 52.6467257, 'tags': {'amenity': 'hospital', 'name': 'Ruwais Medical Center', 'name:en': 'Ruwais Medical Center'}}"
+"{'type': 'node', 'id': 4895781122, 'lat': 23.8993421, 'lon': 52.8018261, 'tags': {'amenity': 'hospital', 'name:en': 'Ghayathi Community Hospital'}}"
+"{'type': 'node', 'id': 5197396422, 'lat': 23.8993434, 'lon': 52.801847, 'tags': {'addr:street': 'Ghayathi-Al Ruwais Road', 'amenity': 'hospital', 'internet_access': 'wlan', 'name': 'SEHA-Al Dhafra Hospital', 'name:en': 'Ghayathi Hospital'}}"
+"{'type': 'node', 'id': 6163108275, 'lat': 24.0856678, 'lon': 52.6651871, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'RUWAIS HOSPITAL', 'operator': 'NMC - Brought by ADNOC'}}"
+"{'type': 'node', 'id': 9671096806, 'lat': 24.2765706, 'lon': 52.6211529, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'عيادة صير بني ياس', 'name:en': 'Sir Baniyas Clinic', 'phone': '+97128070000', 'website': 'https://aldhafra.seha.ae/'}}"

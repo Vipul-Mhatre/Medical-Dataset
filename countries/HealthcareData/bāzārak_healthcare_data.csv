@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 4879822822, 'lat': 34.658932, 'lon': 69.0909531, 'tags': {'addr:postcode': '1061', 'amenity': 'clinic', 'healthcare': 'clinic', 'name:en': 'Qala-e-Dasht Clinic', 'opening_hours': 'Sa-Th 08:00-16:00'}}"
+"{'type': 'node', 'id': 5628227026, 'lat': 34.8519447, 'lon': 69.1619555, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 7731877720, 'lat': 34.997471, 'lon': 68.855736, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 7731877721, 'lat': 34.9971898, 'lon': 68.8562992, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 8040044377, 'lat': 35.0917042, 'lon': 69.2736908, 'tags': {'healthcare': 'clinic', 'notes': 'Basic Health Facility (BHC)'}}"
+"{'type': 'node', 'id': 8489144457, 'lat': 34.8290059, 'lon': 69.0746756, 'tags': {'amenity': 'pharmacy', 'name': 'جان محمد خیراندیش'}}"
+"{'type': 'node', 'id': 8881993787, 'lat': 34.7051143, 'lon': 69.0393489, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Behzadi Clinic(مرکز صحی بهزادی)'}}"
+"{'type': 'node', 'id': 9713540817, 'lat': 35.231241, 'lon': 69.3707629, 'tags': {'amenity': 'hospital', 'name:en': 'Emergency Hospital'}}"
+"{'type': 'node', 'id': 9713541020, 'lat': 35.4101593, 'lon': 69.6986992, 'tags': {'amenity': 'clinic', 'name:en': 'Peshghor Basic Health Clinic ARCS'}}"

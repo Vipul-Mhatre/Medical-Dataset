@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 3835841383, 'lat': -23.1811367, 'lon': 27.4885355, 'tags': {'amenity': 'clinic', 'name': 'Machaneng Clinic'}}"
+"{'type': 'node', 'id': 4510770996, 'lat': -22.5429061, 'lon': 27.1016919, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 4510811395, 'lat': -22.54552, 'lon': 27.1058638, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 4510811402, 'lat': -22.5529005, 'lon': 27.1265672, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Bokamoso Private Hospital', 'name:en': 'Bokamoso Private Hospital'}}"
+"{'type': 'node', 'id': 4510821394, 'lat': -22.5561981, 'lon': 27.1322014, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Bethesda Medical Centre', 'name:en': 'Bethesda Medical Centre'}}"
+"{'type': 'node', 'id': 4511740690, 'lat': -22.5429801, 'lon': 27.0878894, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Pharmacy', 'name:en': 'Pharmacy'}}"
+"{'type': 'node', 'id': 5354039151, 'lat': -23.1296069, 'lon': 26.7955498, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Mahalapye District Hospital'}}"

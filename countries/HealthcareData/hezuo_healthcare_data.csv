@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4847683560, 'lat': 35.5827454, 'lon': 103.1826496, 'tags': {'amenity': 'hospital', 'name': '临夏州中医医院'}}"
+"{'type': 'node', 'id': 4872232162, 'lat': 35.4692745, 'lon': 102.9466717, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': '临夏县漠泥沟乡卫生院'}}"
+"{'type': 'node', 'id': 6534903623, 'lat': 35.5950605, 'lon': 103.2065454, 'tags': {'addr:housenumber': '1', 'addr:street': '西关路', 'amenity': 'hospital', 'name': '临夏协和医院'}}"

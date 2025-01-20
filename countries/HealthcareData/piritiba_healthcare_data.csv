@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 3084820013, 'lat': -11.5255448, 'lon': -40.3088431, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3814083215, 'lat': -12.0777817, 'lon': -41.0926239, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3814083784, 'lat': -12.0776028, 'lon': -41.094727, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3859126979, 'lat': -11.812653, 'lon': -39.9045865, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4620742323, 'lat': -12.2846661, 'lon': -41.1684335, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4620742327, 'lat': -12.2827532, 'lon': -41.1665828, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5306925554, 'lat': -11.7124978, 'lon': -40.1487572, 'tags': {'amenity': 'hospital', 'name': 'Clínica IOM'}}"
+"{'type': 'node', 'id': 6394802169, 'lat': -11.4219901, 'lon': -40.2972959, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 10712653872, 'lat': -11.6731956, 'lon': -40.6062581, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Farmácia Mais Saúde Medicamentos'}}"
+"{'type': 'node', 'id': 10712653874, 'lat': -11.6731179, 'lon': -40.606515, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Unidade Básica de Saúde - UBS'}}"
+"{'type': 'node', 'id': 12445571835, 'lat': -12.2820913, 'lon': -40.4922082, 'tags': {'addr:city': 'Ruy Barbosa', 'addr:housenumber': '475', 'addr:street': 'Rua Juvêncio Xavier', 'addr:suburb': 'Jardim Brasília', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'orthopaedics;fisioterapia;general;radiology;emergency;diagnostic_radiology;saúde_reprodutiva', 'name': 'Hospital Regional - Santa Casa Ruy Barbosa', 'opening_hours': '24h', 'phone': '(75) 3252-1092', 'wheelchair': 'yes'}}"

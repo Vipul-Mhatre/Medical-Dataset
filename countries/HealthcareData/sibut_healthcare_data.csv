@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 2670725531, 'lat': 6.03689, 'lon': 18.4038, 'tags': {'addr:city': 'Marali', 'addr:full': 'OUHAM, Bouca, Fafa-Boungou, Marali', 'amenity': 'hospital', 'capacity:beds': '4', 'health_facility:type': 'health_center', 'name': 'Centre de Santé de Marali', 'operator:type': 'government', 'source': 'UNICEF', 'toilets:number': '2'}}"
+"{'type': 'node', 'id': 6303165255, 'lat': 5.6936839, 'lon': 19.2882896, 'tags': {'healthcare': 'clinic', 'name': 'Poste de Santé', 'source': 'RRM'}}"
+"{'type': 'node', 'id': 6303165256, 'lat': 5.7234543, 'lon': 19.1851144, 'tags': {'healthcare': 'yes', 'name': 'Cenrte de Santé', 'source': 'RRM'}}"
+"{'type': 'node', 'id': 6303165258, 'lat': 5.788369, 'lon': 19.4906332, 'tags': {'healthcare': 'yes', 'name': 'Centre de Santé'}}"
+"{'type': 'node', 'id': 7371472722, 'lat': 5.1698512, 'lon': 18.8601217, 'tags': {'amenity': 'hospital', 'health_facility:type': 'health_center'}}"

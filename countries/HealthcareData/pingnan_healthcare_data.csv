@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 4772061321, 'lat': 23.8653927, 'lon': 109.7599533, 'tags': {'amenity': 'hospital', 'name': '妙皇卫生院'}}"
+"{'type': 'node', 'id': 11861167665, 'lat': 24.1406597, 'lon': 110.1829792, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '金秀镇卫生院'}}"
+"{'type': 'node', 'id': 11861167666, 'lat': 24.1404266, 'lon': 110.1831365, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '金秀益通药房'}}"
+"{'type': 'node', 'id': 11861177591, 'lat': 24.1417245, 'lon': 110.1828484, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '桂中大药房'}}"
+"{'type': 'node', 'id': 11880124341, 'lat': 24.1427096, 'lon': 110.1828062, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '大参林'}}"
+"{'type': 'node', 'id': 12065920728, 'lat': 24.1387149, 'lon': 110.184417, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '李瑶医诊所'}}"

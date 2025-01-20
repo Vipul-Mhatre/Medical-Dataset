@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 3838780766, 'lat': 36.8622637, 'lon': 70.2588075, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838782822, 'lat': 36.8622627, 'lon': 70.258806, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838783612, 'lat': 36.862264, 'lon': 70.2588105, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838783780, 'lat': 36.8622597, 'lon': 70.2588058, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838784200, 'lat': 36.8622614, 'lon': 70.2588105, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838784452, 'lat': 36.8622648, 'lon': 70.2588052, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3838785195, 'lat': 36.8622637, 'lon': 70.2588066, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3975513702, 'lat': 36.5556632, 'lon': 70.9199934, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Clinic'}}"
+"{'type': 'node', 'id': 3977599449, 'lat': 36.8437883, 'lon': 70.8538115, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor'}}"
+"{'type': 'node', 'id': 3983437236, 'lat': 36.8309239, 'lon': 70.5430357, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 3985561742, 'lat': 37.1059773, 'lon': 70.5161191, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 3985562767, 'lat': 37.1064491, 'lon': 70.5160825, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"

@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 2799633351, 'lat': 48.2311126, 'lon': -79.0147757, 'tags': {'amenity': 'pharmacy', 'name': 'Uniprix'}}"
+"{'type': 'node', 'id': 2799634613, 'lat': 48.2309092, 'lon': -79.0142636, 'tags': {'amenity': 'pharmacy', 'name': 'Proxim'}}"
+"{'type': 'node', 'id': 2799658927, 'lat': 48.2398285, 'lon': -79.0238838, 'tags': {'amenity': 'pharmacy', 'brand': 'Jean Coutu', 'brand:wikidata': 'Q3117457', 'brand:wikipedia': 'fr:Groupe Jean Coutu', 'healthcare': 'pharmacy', 'name': 'Jean Coutu'}}"
+"{'type': 'node', 'id': 4838414489, 'lat': 48.22839, 'lon': -79.0125951, 'tags': {'addr:city': 'Rouyn-Noranda', 'addr:housenumber': '539', 'addr:postcode': 'J9X 4J3', 'addr:street': 'Avenue Larivière', 'amenity': 'hospital', 'name': 'Clinique vétérinaire Marquis'}}"
+"{'type': 'node', 'id': 6370168891, 'lat': 48.8059221, 'lon': -79.2055127, 'tags': {'amenity': 'pharmacy', 'brand': 'Jean Coutu', 'brand:wikidata': 'Q3117457', 'brand:wikipedia': 'en:Jean Coutu Group', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Jean Coutu'}}"
+"{'type': 'node', 'id': 6658588578, 'lat': 48.2428336, 'lon': -79.0258198, 'tags': {'amenity': 'pharmacy', 'brand': 'Pharmaprix', 'brand:wikidata': 'Q1820137', 'brand:wikipedia': 'fr:Pharmaprix', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Pharmaprix', 'website': 'https://www.pharmaprix.ca/en/store-locator/store/1979', 'website:en': 'https://www.pharmaprix.ca/en/store-locator/store/1979', 'website:fr': 'https://www.pharmaprix.ca/fr/store-locator/store/1979'}}"
+"{'type': 'node', 'id': 6721942490, 'lat': 48.2413075, 'lon': -79.0312795, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Brunet'}}"
+"{'type': 'node', 'id': 12337824203, 'lat': 48.6025389, 'lon': -79.2986241, 'tags': {'healthcare': 'nurse', 'name': 'CLSC de Gallichan'}}"

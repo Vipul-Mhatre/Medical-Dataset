@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 7022565210, 'lat': 0.5206618, 'lon': 25.1930268, 'tags': {'amenity': 'doctors', 'check_date': '2023-05-08', 'healthcare': 'doctor', 'name': 'Centre Médical Genèse 2'}}"
+"{'type': 'node', 'id': 7029924024, 'lat': 0.5342651, 'lon': 25.1961708, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Centre de Santé Imani'}}"
+"{'type': 'node', 'id': 7029924026, 'lat': 0.5279628, 'lon': 25.2004348, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Narcisse Pharma'}}"
+"{'type': 'node', 'id': 7029924029, 'lat': 0.5210092, 'lon': 25.1926468, 'tags': {'amenity': 'health_post', 'health_facility:CD': 'tradi', 'healthcare': 'alternative', 'name': 'Stop Maladie', 'note': 'Maison de soin tradi-moderne'}}"
+"{'type': 'node', 'id': 7033917690, 'lat': 0.5481926, 'lon': 25.1580783, 'tags': {'healthcare': 'clinic', 'name': 'Centre de santé Sotexki'}}"
+"{'type': 'node', 'id': 7044949577, 'lat': 0.5175279, 'lon': 25.2576005, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Centre Médical Kitumaini'}}"
+"{'type': 'node', 'id': 7044960789, 'lat': 0.5065611, 'lon': 25.2235023, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Centre Médical Bethsaida'}}"
+"{'type': 'node', 'id': 8483516961, 'lat': 0.5447176, 'lon': 25.1660098, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'source': 'MSFsurvey', 'source:date': '2020-10'}}"

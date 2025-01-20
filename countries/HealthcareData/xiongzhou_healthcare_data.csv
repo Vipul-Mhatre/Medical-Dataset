@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 4743210598, 'lat': 25.7438809, 'lon': 114.8391848, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4743264548, 'lat': 25.7435863, 'lon': 114.8347331, 'tags': {'amenity': 'pharmacy', 'name': '中联药房'}}"
+"{'type': 'node', 'id': 6699796410, 'lat': 25.7060663, 'lon': 114.737826, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 6699796411, 'lat': 25.7060277, 'lon': 114.7376195, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 8110355995, 'lat': 25.7368578, 'lon': 114.8239986, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 9289672386, 'lat': 25.7268667, 'lon': 114.8116136, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 9811871452, 'lat': 25.73715, 'lon': 114.8159098, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 12026306005, 'lat': 24.9528247, 'lon': 114.0700687, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '始兴县中医院'}}"

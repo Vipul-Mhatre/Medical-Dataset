@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 7934471948, 'lat': 39.6950848, 'lon': 122.9607946, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'traditional_chinese_medicine', 'name': '庄河市中医医院'}}"
+"{'type': 'node', 'id': 7954692032, 'lat': 39.0716753, 'lon': 121.9604687, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7954692033, 'lat': 39.0720234, 'lon': 121.9601437, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7954692034, 'lat': 39.0733876, 'lon': 121.9614953, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 8263759856, 'lat': 39.6774675, 'lon': 122.9687751, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '城关街道日新社区卫生服务中心'}}"
+"{'type': 'node', 'id': 8263759859, 'lat': 39.6664631, 'lon': 122.9725117, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '庄河市中心医院门诊部'}}"
+"{'type': 'node', 'id': 8263759860, 'lat': 39.6669446, 'lon': 122.9723607, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '庄河市中心医院住院部'}}"
+"{'type': 'node', 'id': 8447569615, 'lat': 39.6965784, 'lon': 122.6271138, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '城山卫生院'}}"
+"{'type': 'node', 'id': 8664079775, 'lat': 39.7132462, 'lon': 123.2448309, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '黑岛村卫生所'}}"
+"{'type': 'node', 'id': 8667724109, 'lat': 39.6954948, 'lon': 122.9615129, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '正大药房'}}"

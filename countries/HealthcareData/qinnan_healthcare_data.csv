@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 2611634885, 'lat': 33.2616978, 'lon': 119.9130619, 'tags': {'amenity': 'hospital', 'name': '盐都区第三人民医院'}}"
+"{'type': 'node', 'id': 4973586271, 'lat': 33.1812752, 'lon': 120.1105594, 'tags': {'amenity': 'hospital', 'name': '医院正门'}}"
+"{'type': 'node', 'id': 7073020241, 'lat': 33.2310328, 'lon': 119.3058103, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 11816144867, 'lat': 32.6808434, 'lon': 119.9985773, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '边城卫生院'}}"

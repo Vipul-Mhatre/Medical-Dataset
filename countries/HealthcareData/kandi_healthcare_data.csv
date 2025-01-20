@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 4402436093, 'lat': 11.1276428, 'lon': 2.9304851, 'tags': {'amenity': 'pharmacy', 'name': 'NA SIARA', 'name:en': 'NA SIARA', 'name:fr': 'NA SIARA'}}"
+"{'type': 'node', 'id': 4402557389, 'lat': 11.1326941, 'lon': 2.9266025, 'tags': {'amenity': 'pharmacy', 'name': 'Albarka', 'name:en': 'Albarka', 'name:fr': 'Albarka'}}"
+"{'type': 'node', 'id': 6821955729, 'lat': 11.6475736, 'lon': 2.540068, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 6851651731, 'lat': 11.2980549, 'lon': 2.4344856, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie de Banikoara', 'wheelchair': 'yes'}}"
+"{'type': 'node', 'id': 9028613917, 'lat': 11.1141565, 'lon': 2.9365741, 'tags': {'amenity': 'hospital', 'name': 'Hôpital Arabe'}}"
+"{'type': 'node', 'id': 10567589904, 'lat': 11.1973173, 'lon': 2.3177971, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé'}}"
+"{'type': 'node', 'id': 10567600776, 'lat': 11.1741405, 'lon': 2.2948266, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie'}}"

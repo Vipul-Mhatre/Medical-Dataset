@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 6322545122, 'lat': -16.9474241, 'lon': -50.4464722, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 11030641096, 'lat': -16.9464162, 'lon': -50.4486911, 'tags': {'addr:city': 'Paraúna', 'addr:housenumber': '01', 'addr:postcode': '75980-000', 'addr:street': 'Avenida Rogerio Gomes da Silva ou Rio Branco', 'addr:suburb': 'Centro', 'amenity': 'dentist', 'healthcare': 'dentist', 'healthcare:speciality': 'orthodontics;dental_oral_maxillo_facial_surgery;dentist', 'name': 'Custódio Odontologia', 'opening_hours': 'Mo-Sa 08:00-18:00', 'operator': 'Amadeu Netto', 'wheelchair': 'yes'}}"

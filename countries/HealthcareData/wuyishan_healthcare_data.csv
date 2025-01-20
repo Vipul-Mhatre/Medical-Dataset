@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 2781782171, 'lat': 28.421919, 'lon': 117.60413, 'tags': {'amenity': 'hospital', 'name': '横峰县医院'}}"
+"{'type': 'node', 'id': 2781807081, 'lat': 28.4074003, 'lon': 117.6027326, 'tags': {'amenity': 'hospital', 'name': '阳光医院'}}"
+"{'type': 'node', 'id': 3070164320, 'lat': 28.3882103, 'lon': 117.4413863, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '弋阳县中医院'}}"
+"{'type': 'node', 'id': 3070164321, 'lat': 28.4047404, 'lon': 117.4305612, 'tags': {'amenity': 'hospital', 'name': '弋阳县医院'}}"
+"{'type': 'node', 'id': 3153654667, 'lat': 28.2156314, 'lon': 117.7689236, 'tags': {'amenity': 'hospital', 'name': '上饶市人民医院协作医院'}}"
+"{'type': 'node', 'id': 3153654669, 'lat': 28.2157652, 'lon': 117.7725556, 'tags': {'amenity': 'hospital', 'name': '永平医院'}}"
+"{'type': 'node', 'id': 3382512594, 'lat': 28.4187161, 'lon': 117.6042175, 'tags': {'amenity': 'pharmacy', 'name': '健康药店'}}"
+"{'type': 'node', 'id': 3382512596, 'lat': 28.4133359, 'lon': 117.5838279, 'tags': {'amenity': 'hospital', 'name': '横峰县人民医院(新)'}}"
+"{'type': 'node', 'id': 10127192887, 'lat': 27.7312081, 'lon': 118.0088462, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '武夷山市立医院'}}"
+"{'type': 'node', 'id': 12456051810, 'lat': 28.4219488, 'lon': 118.2015033, 'tags': {'healthcare': 'hospital', 'name': '丰溪卫生院'}}"
+"{'type': 'node', 'id': 12469045993, 'lat': 28.4298295, 'lon': 118.1934466, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '广丰妇产儿童医院'}}"

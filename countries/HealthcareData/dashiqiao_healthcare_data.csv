@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 6028906020, 'lat': 41.1025297, 'lon': 122.992841, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'name': '鞍山市中心医院'}}"
+"{'type': 'node', 'id': 7860764698, 'lat': 41.0990177, 'lon': 122.9816938, 'tags': {'healthcare': 'yes', 'name': '鞍山市中心血站'}}"
+"{'type': 'node', 'id': 8481603399, 'lat': 41.0878292, 'lon': 123.0057822, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '鞍山市华康医院'}}"
+"{'type': 'node', 'id': 9268983118, 'lat': 41.0074916, 'lon': 122.9962565, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '鞍山市心理卫生专科医院'}}"

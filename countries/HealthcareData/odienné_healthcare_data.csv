@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 5854910772, 'lat': 9.6107744, 'lon': -6.9429841, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Pharmacie Kènèya'}}"
+"{'type': 'node', 'id': 7656475964, 'lat': 9.3216279, 'lon': -7.6267695, 'tags': {'healthcare': 'yes'}}"
+"{'type': 'node', 'id': 7660648663, 'lat': 9.5014563, 'lon': -7.5641992, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Service de Santé Scolaire et Universitaire'}}"
+"{'type': 'node', 'id': 7660682750, 'lat': 9.5021886, 'lon': -7.5644312, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Pharmacie du Denguélé'}}"
+"{'type': 'node', 'id': 7662467644, 'lat': 8.9611017, 'lon': -7.5726853, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor'}}"
+"{'type': 'node', 'id': 7662474831, 'lat': 9.3412915, 'lon': -7.7919064, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor'}}"
+"{'type': 'node', 'id': 7662506804, 'lat': 9.085041, 'lon': -7.5937206, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Dispensaire'}}"
+"{'type': 'node', 'id': 7669542177, 'lat': 9.8152551, 'lon': -7.3866812, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Centre de Santé Régional de Banankoro'}}"
+"{'type': 'node', 'id': 7669580430, 'lat': 9.8157817, 'lon': -7.5117928, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Centre de Santé Urbain de Kaniasso'}}"
+"{'type': 'node', 'id': 7669591952, 'lat': 9.8150132, 'lon': -7.5124311, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Dépôt de Pharmacie du Rond-point'}}"
+"{'type': 'node', 'id': 7673084424, 'lat': 9.3412553, 'lon': -7.7904755, 'tags': {'fixme': 'what kind? quel type?', 'healthcare': 'yes'}}"
+"{'type': 'node', 'id': 10128937417, 'lat': 9.4912483, 'lon': -7.564415, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': ""Hôpital des armées d'odienné""}}"

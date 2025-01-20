@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 3851754509, 'lat': 27.7604083, 'lon': 116.0582003, 'tags': {'amenity': 'hospital', 'name': '崇仁县人民医院'}}"
+"{'type': 'node', 'id': 3851756080, 'lat': 27.7564468, 'lon': 116.0551029, 'tags': {'amenity': 'clinic', 'name': '中大社区卫生服务站'}}"
+"{'type': 'node', 'id': 3851776161, 'lat': 27.7722415, 'lon': 116.0947, 'tags': {'amenity': 'hospital', 'name': '崇仁县人民医院'}}"
+"{'type': 'node', 'id': 4437149696, 'lat': 27.1735079, 'lon': 117.0101344, 'tags': {'amenity': 'clinic', 'name': '黎川县德胜镇中心卫生院'}}"

@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 3233309442, 'lat': 38.457756, 'lon': 105.152404, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 9350017130, 'lat': 38.4911811, 'lon': 106.1610928, 'tags': {'healthcare': 'sample_collection', 'name': '核酸检测点'}}"

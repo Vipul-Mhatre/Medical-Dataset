@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 1140337058, 'lat': 33.2646388, 'lon': 114.2662156, 'tags': {'amenity': 'hospital', 'name': '上蔡县医院'}}"
+"{'type': 'node', 'id': 9260486299, 'lat': 33.5953863, 'lon': 114.0291359, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '东芝医院'}}"
+"{'type': 'node', 'id': 9334027283, 'lat': 33.6363377, 'lon': 114.6818438, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '康福堂药店(中原路店)'}}"
+"{'type': 'node', 'id': 9651334244, 'lat': 33.5461252, 'lon': 114.0422429, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '仁济医院'}}"
+"{'type': 'node', 'id': 9651420460, 'lat': 33.5424149, 'lon': 114.0537728, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '开发区疾控中心'}}"
+"{'type': 'node', 'id': 11409092470, 'lat': 33.1313831, 'lon': 114.010437, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '遂平县妇幼保健院'}}"
+"{'type': 'node', 'id': 11409417464, 'lat': 33.6254689, 'lon': 114.9539089, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '康升医院'}}"
+"{'type': 'node', 'id': 11983403778, 'lat': 33.0110112, 'lon': 114.0010756, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '校医院'}}"

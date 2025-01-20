@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 5612838515, 'lat': 36.3769577, 'lon': 114.385049, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '磁州医院磁州骨科医院', 'name:zh': '磁州医院磁州骨科医院'}}"
+"{'type': 'node', 'id': 6413381455, 'lat': 36.3553666, 'lon': 114.3624995, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '固城卫生室', 'name:zh': '固城卫生室'}}"
+"{'type': 'node', 'id': 9450107482, 'lat': 35.9799096, 'lon': 114.9052767, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '内黄县中医院'}}"
+"{'type': 'node', 'id': 9450107505, 'lat': 35.9646798, 'lon': 114.8939262, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '城关镇卫生院'}}"

@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 6034135995, 'lat': 12.3519826, 'lon': -3.6744614, 'tags': {'amenity': 'clinic', 'name': 'CSPS de Toroba', 'name:en': 'TOROBA'}}"
+"{'type': 'node', 'id': 6036682411, 'lat': 12.4761468, 'lon': -3.4457253, 'tags': {'amenity': 'pharmacy', 'name': 'Dépôt CAMEG'}}"
+"{'type': 'node', 'id': 6689616085, 'lat': 12.4626429, 'lon': -3.4607533, 'tags': {'amenity': 'pharmacy', 'name': 'Loba'}}"
+"{'type': 'node', 'id': 6967776019, 'lat': 12.7311547, 'lon': -3.8597336, 'tags': {'amenity': 'hospital', 'name': 'Centre Médical de Nouna'}}"
+"{'type': 'node', 'id': 8196677517, 'lat': 12.2994322, 'lon': -3.5515577, 'tags': {'amenity': 'clinic', 'name': 'CSPS de KARI', 'name:en': 'KARI'}}"
+"{'type': 'node', 'id': 8529600017, 'lat': 12.4644944, 'lon': -3.4609729, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie Bankuy', 'opening_hours': 'Mo-Fr 08:00-13:00,16:00-19:00'}}"
+"{'type': 'node', 'id': 9220049738, 'lat': 12.5660723, 'lon': -4.4267446, 'tags': {'amenity': 'hospital', 'name': 'CScom'}}"
+"{'type': 'node', 'id': 9220167385, 'lat': 12.7213487, 'lon': -4.5578724, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé de Marena'}}"
+"{'type': 'node', 'id': 9220946418, 'lat': 12.6916918, 'lon': -4.6101996, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor'}}"
+"{'type': 'node', 'id': 9221120848, 'lat': 12.6934148, 'lon': -4.6128523, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'cabinet médical'}}"
+"{'type': 'node', 'id': 9332927088, 'lat': 12.4730745, 'lon': -3.4635261, 'tags': {'amenity': 'hospital', 'name': 'CMU'}}"

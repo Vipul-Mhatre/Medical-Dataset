@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 4549772274, 'lat': -5.8923275, 'lon': 22.4020407, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 6068847714, 'lat': -5.9273628, 'lon': 22.3079274, 'tags': {'healthcare': 'yes', 'name': 'Poste de santé de la CASM'}}"
+"{'type': 'node', 'id': 9991327417, 'lat': -5.8933405, 'lon': 22.4168776, 'tags': {'amenity': 'clinic', 'name': 'Clinique de la renaissance'}}"
+"{'type': 'node', 'id': 11395469326, 'lat': -6.1721134, 'lon': 22.2877488, 'tags': {'healthcare': 'yes', 'name': 'Centre de Santé Tshitambu'}}"

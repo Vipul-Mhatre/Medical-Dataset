@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 2038928961, 'lat': -21.4626568, 'lon': -56.1075833, 'tags': {'addr:housenumber': '860', 'addr:postcode': '79230-000', 'addr:street': 'Rua 7 De Setembro', 'addr:suburb': 'São Miguel', 'amenity': 'hospital', 'email': 'hospitalgll@top.com.br', 'emergency': 'yes', 'fax': '+55 67 3269 2132', 'healthcare': 'hospital', 'name': 'Hospital Edelmira Nunes de Oliveira', 'phone': '+55 67 3269 2008', 'ref:CNES': '3249336', 'ref:vatin': 'BR05676386000170', 'source': 'http://www.catalogo.med.br/c/ms/guia-lopes-da-laguna/hospital+edelmira+nunes+de+oliveira-e52890.htm;DATASUS'}}"
+"{'type': 'node', 'id': 2039728073, 'lat': -21.452125, 'lon': -56.1008475, 'tags': {'amenity': 'clinic', 'emergency': 'no', 'name': 'Posto de Saúde'}}"
+"{'type': 'node', 'id': 2039728283, 'lat': -21.4540023, 'lon': -56.1071024, 'tags': {'amenity': 'clinic', 'emergency': 'no', 'name': 'Posto de Saúde Familiar', 'short_name': 'PSF'}}"

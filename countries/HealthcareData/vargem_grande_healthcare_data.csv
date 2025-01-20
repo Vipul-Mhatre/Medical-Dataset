@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 6219359153, 'lat': -3.6227149, 'lon': -44.5559713, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9143438652, 'lat': -3.7372262, 'lon': -43.3631059, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9144637110, 'lat': -3.7031638, 'lon': -43.3775512, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9144646257, 'lat': -3.5737401, 'lon': -43.5000918, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9257666601, 'lat': -3.6382744, 'lon': -44.3819185, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 12416541268, 'lat': -2.9153895, 'lon': -44.3499876, 'tags': {'amenity': 'pharmacy'}}"

@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 2619161747, 'lat': 52.6670634, 'lon': -106.3321165, 'tags': {'amenity': 'hospital', 'building': 'yes', 'source': 'NRCan-CanVec-10.0'}}"
+"{'type': 'node', 'id': 4484822090, 'lat': 53.2012291, 'lon': -105.7313309, 'tags': {'amenity': 'pharmacy', 'brand': 'Shoppers Drug Mart', 'brand:wikidata': 'Q1820137', 'brand:wikipedia': 'en:Shoppers Drug Mart', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Shoppers Drug Mart', 'name:en': 'Shoppers Drug Mart', 'website': 'https://www.shoppersdrugmart.ca/en/store-locator/store/447', 'website:en': 'https://www.shoppersdrugmart.ca/en/store-locator/store/447', 'website:fr': 'https://www.shoppersdrugmart.ca/fr/store-locator/store/447'}}"
+"{'type': 'node', 'id': 6668061341, 'lat': 52.8301518, 'lon': -106.2966067, 'tags': {'healthcare': 'yes', 'name': 'Willow Cree Health Services'}}"
+"{'type': 'node', 'id': 9850855059, 'lat': 52.648746, 'lon': -105.7371497, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'Wakaw Dental', 'phone': '+1 306-233-9999', 'website': 'https://wakawdental.ca/'}}"
+"{'type': 'node', 'id': 10602462439, 'lat': 53.2011616, 'lon': -105.7316324, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Prince Albert Medical Walk-In Clinic'}}"
+"{'type': 'node', 'id': 10602462456, 'lat': 53.2000116, 'lon': -105.7315285, 'tags': {'healthcare': 'optometrist', 'name': 'The Eye Centre'}}"

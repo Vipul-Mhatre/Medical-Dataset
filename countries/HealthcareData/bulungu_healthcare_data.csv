@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 2351249173, 'lat': -4.1151535, 'lon': 18.9112468, 'tags': {'addr:city': 'Kibwanga', 'amenity': 'hospital', 'emergency': 'no', 'name': 'Dispensaire Kibwabga'}}"
+"{'type': 'node', 'id': 5403515000, 'lat': -5.0357748, 'lon': 18.8203112, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Hôpital Pwati', 'note': 'Hôpital Millitaire', 'operator': 'Millitaire'}}"
+"{'type': 'node', 'id': 7809985152, 'lat': -4.3282433, 'lon': 18.2528, 'tags': {'amenity': 'hospital', 'name': 'Hôpital Secondaire de Zaba'}}"
+"{'type': 'node', 'id': 9643444417, 'lat': -4.4230591, 'lon': 18.4270408, 'tags': {'amenity': 'hospital', 'name': 'hopital vanga'}}"

@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 2668720684, 'lat': -14.26768, 'lon': -49.6569843, 'tags': {'amenity': 'hospital', 'name': 'Hospital Municipal de Campos Verdes'}}"
+"{'type': 'node', 'id': 3326898430, 'lat': -14.7175301, 'lon': -49.7531226, 'tags': {'amenity': 'hospital', 'name': 'RS. ZAINAB', 'operator': '14075006'}}"
+"{'type': 'node', 'id': 3666288250, 'lat': -14.5264682, 'lon': -49.1435665, 'tags': {'addr:city': 'Uruaçu', 'addr:housenumber': '26', 'addr:postcode': '76400-000', 'addr:street': 'Rua Quatro de Julho', 'addr:suburb': 'Centro', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hospital Santana', 'phone': '+55 62 3357 1000', 'ref:CNES': '2337142', 'ref:vatin': 'BR02776458000162'}}"
+"{'type': 'node', 'id': 3666288251, 'lat': -14.5260924, 'lon': -49.1436836, 'tags': {'addr:postcode': '76400-000', 'addr:street': 'Rua Adelino Fernandes de Carvalho', 'addr:suburb': 'Centro', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hospital Ortopédico e Especialidades', 'phone': '+55 62 3357 1574', 'ref:CNES': '2337126', 'ref:vatin': 'BR01715614000112'}}"
+"{'type': 'node', 'id': 3666327312, 'lat': -14.5310177, 'lon': -49.1407868, 'tags': {'amenity': 'clinic', 'name': 'Posto de Saúde'}}"
+"{'type': 'node', 'id': 3666327314, 'lat': -14.5312977, 'lon': -49.1311133, 'tags': {'amenity': 'clinic', 'name': 'Posto de Saúde'}}"
+"{'type': 'node', 'id': 5364344748, 'lat': -15.1513479, 'lon': -49.5739423, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': 'Centro e Saúde', 'opening_hours': 'Atendimento normal 07:00-11:00 e 13:00-27:00 , após apenas emergencias', 'operator': 'Luciana de Cassia Coutinho'}}"

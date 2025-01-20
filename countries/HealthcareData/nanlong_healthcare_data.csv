@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 4742496723, 'lat': 30.8341554, 'lon': 106.098632, 'tags': {'amenity': 'clinic', 'name:en': 'Health Management Center'}}"
+"{'type': 'node', 'id': 5894243335, 'lat': 31.8327775, 'lon': 105.6680454, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '杨村镇卫生院'}}"
+"{'type': 'node', 'id': 6382605508, 'lat': 31.7886726, 'lon': 106.6253977, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '巴中市恩阳区人民医院'}}"
+"{'type': 'node', 'id': 6712730085, 'lat': 30.7398208, 'lon': 106.0576606, 'tags': {'amenity': 'hospital', 'name': 'hospital'}}"
+"{'type': 'node', 'id': 8017331528, 'lat': 31.5523498, 'lon': 105.9905255, 'tags': {'amenity': 'hospital', 'name': '阆中市人民医院'}}"
+"{'type': 'node', 'id': 8017332103, 'lat': 31.5767599, 'lon': 105.974451, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 8889723004, 'lat': 30.7670813, 'lon': 106.0546042, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '王定华诊所'}}"
+"{'type': 'node', 'id': 10138414816, 'lat': 31.0749943, 'lon': 106.5958017, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '营山县疾控中心'}}"
+"{'type': 'node', 'id': 12229201154, 'lat': 31.983616, 'lon': 105.6341971, 'tags': {'healthcare': 'yes', 'name': '剑阁县木马镇卫生院'}}"

@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 4209878895, 'lat': -2.5573641, 'lon': -47.5004548, 'tags': {'amenity': 'pharmacy', 'brand': 'Pague Menos', 'brand:wikidata': 'Q7124466', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Pague Menos'}}"
+"{'type': 'node', 'id': 4284551292, 'lat': -2.5570163, 'lon': -47.5042931, 'tags': {'addr:postcode': '68637-000', 'addr:street': 'Rua Ulisses Guimarães', 'amenity': 'hospital', 'email': 'hospitalsantaclara@yahoo.com.br', 'fax': '+55 91 3811 2123', 'healthcare': 'hospital', 'name': 'Hospital Santa Clara', 'operator:ref:vatin': 'BR83268011000184', 'phone': '+55 91 3811 2123', 'ref:CNES': '2616483', 'source:addr': 'DATASUS', 'source:geometry': 'DATASUS;extrapolation'}}"
+"{'type': 'node', 'id': 4365306511, 'lat': -1.7776306, 'lon': -48.7893109, 'tags': {'amenity': 'hospital', 'name': 'Unidade de Saúde da Família Colonia Dr. João Miranda'}}"
+"{'type': 'node', 'id': 5000977822, 'lat': -2.5596154, 'lon': -47.4868289, 'tags': {'addr:street': 'R - 13', 'amenity': 'hospital', 'name': 'UBSRC', 'name:pt': 'UBSRC'}}"
+"{'type': 'node', 'id': 5788187031, 'lat': -2.8490038, 'lon': -48.2379441, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Cemit´rrio Jaqueira'}}"
+"{'type': 'node', 'id': 9051784617, 'lat': -2.5605047, 'lon': -47.5038367, 'tags': {'amenity': 'clinic', 'name': 'PA IPIXUNA'}}"
+"{'type': 'node', 'id': 9056491217, 'lat': -2.9481574, 'lon': -47.8151657, 'tags': {'amenity': 'hospital', 'name': 'Canaã', 'name:en': 'Felix Benício Ribeiro'}}"
+"{'type': 'node', 'id': 9702926064, 'lat': -1.8231732, 'lon': -47.7596271, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Posto de saúde USF', 'operator': 'Laysa Lopes'}}"
+"{'type': 'node', 'id': 11651325701, 'lat': -1.8832743, 'lon': -48.76536, 'tags': {'addr:street': 'Avenida das Palmeiras', 'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Farmácia Droga Ben'}}"

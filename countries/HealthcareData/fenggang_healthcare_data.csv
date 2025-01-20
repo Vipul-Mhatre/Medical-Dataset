@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 3579685593, 'lat': 28.2075047, 'lon': 115.9841811, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '一品堂大药房'}}"
+"{'type': 'node', 'id': 3579700543, 'lat': 28.2072413, 'lon': 115.9855136, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '开心人大药房白土店'}}"
+"{'type': 'node', 'id': 3579700544, 'lat': 28.2084026, 'lon': 115.9850741, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '白土中心卫生院'}}"
+"{'type': 'node', 'id': 3851754509, 'lat': 27.7604083, 'lon': 116.0582003, 'tags': {'amenity': 'hospital', 'name': '崇仁县人民医院'}}"
+"{'type': 'node', 'id': 3851756080, 'lat': 27.7564468, 'lon': 116.0551029, 'tags': {'amenity': 'clinic', 'name': '中大社区卫生服务站'}}"
+"{'type': 'node', 'id': 3851776161, 'lat': 27.7722415, 'lon': 116.0947, 'tags': {'amenity': 'hospital', 'name': '崇仁县人民医院'}}"
+"{'type': 'node', 'id': 4671843163, 'lat': 27.9761385, 'lon': 116.1590575, 'tags': {'amenity': 'hospital', 'name': '三桥医院'}}"
+"{'type': 'node', 'id': 4671957015, 'lat': 27.9865749, 'lon': 116.2267336, 'tags': {'amenity': 'hospital', 'name': '临川区温泉镇第一卫生院'}}"
+"{'type': 'node', 'id': 4672021797, 'lat': 27.9438342, 'lon': 116.293703, 'tags': {'amenity': 'hospital', 'name': '临川区中医医院'}}"

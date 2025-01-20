@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 4742496723, 'lat': 30.8341554, 'lon': 106.098632, 'tags': {'amenity': 'clinic', 'name:en': 'Health Management Center'}}"
+"{'type': 'node', 'id': 4930090002, 'lat': 30.4777226, 'lon': 106.6346042, 'tags': {'amenity': 'hospital', 'name': '广安市中医院'}}"
+"{'type': 'node', 'id': 6712730085, 'lat': 30.7398208, 'lon': 106.0576606, 'tags': {'amenity': 'hospital', 'name': 'hospital'}}"
+"{'type': 'node', 'id': 7526502897, 'lat': 30.1642104, 'lon': 106.4228679, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '合川区涞滩镇卫生院'}}"
+"{'type': 'node', 'id': 7570098506, 'lat': 30.1695369, 'lon': 106.5560877, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '上游村卫生室'}}"
+"{'type': 'node', 'id': 8889723004, 'lat': 30.7670813, 'lon': 106.0546042, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '王定华诊所'}}"
+"{'type': 'node', 'id': 10138414816, 'lat': 31.0749943, 'lon': 106.5958017, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '营山县疾控中心'}}"

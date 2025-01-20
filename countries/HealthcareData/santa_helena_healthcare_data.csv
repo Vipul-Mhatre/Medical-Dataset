@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 5008602025, 'lat': -2.5193965, 'lon': -45.0809297, 'tags': {'addr:street': 'Avenida Tarquino Lopes', 'amenity': 'pharmacy', 'name': 'preço bom'}}"
+"{'type': 'node', 'id': 5064528922, 'lat': -2.5165244, 'lon': -45.0790951, 'tags': {'addr:street': 'Rua Benjamin Constante', 'amenity': 'clinic', 'name': 'Medical Clinic', 'opening_hours': 'Mo-Sa 07:00-19:00', 'phone': '+559833816342'}}"
+"{'type': 'node', 'id': 5401236522, 'lat': -2.5153075, 'lon': -45.7826132, 'tags': {'alt_name': 'Unidade Mista de Saúde Ditoso Ferraz', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Unidade Mista de Saúde do Paruá'}}"
+"{'type': 'node', 'id': 6173156185, 'lat': -1.8259272, 'lon': -44.8667167, 'tags': {'amenity': 'hospital', 'name': 'Santa Casa Misericórdia de Cururupu'}}"
+"{'type': 'node', 'id': 7901100231, 'lat': -2.8593127, 'lon': -44.756526, 'tags': {'addr:city': 'Cajapió', 'addr:postcode': '65230000', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Eudorico Amaral de Matos', 'opening_hours': '8 horas - 19 horas', 'operator': 'Rejane Serra', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 9241590658, 'lat': -2.5935489, 'lon': -45.9638639, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 12288230748, 'lat': -2.4517865, 'lon': -44.7861445, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12288230750, 'lat': -2.4510979, 'lon': -44.785893, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12288230751, 'lat': -2.4509908, 'lon': -44.7860421, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"

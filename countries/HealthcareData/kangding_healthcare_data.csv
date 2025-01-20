@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 2298727433, 'lat': 30.0571392, 'lon': 101.9639152, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 4245617091, 'lat': 30.04592, 'lon': 101.9584839, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name:en': 'Kechuang Pharmacy'}}"
+"{'type': 'node', 'id': 4304490895, 'lat': 30.0232228, 'lon': 101.9601282, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 5182917096, 'lat': 30.0400556, 'lon': 101.9588327, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '康定藏医院'}}"

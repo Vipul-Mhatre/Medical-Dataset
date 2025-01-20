@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 8146020255, 'lat': 23.3132931, 'lon': 112.6718076, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '医务室'}}"
+"{'type': 'node', 'id': 12147171588, 'lat': 23.3488806, 'lon': 112.703531, 'tags': {'amenity': 'pharmacy', 'branch': '沙田园大药房', 'healthcare': 'pharmacy', 'name': '廣芝林'}}"

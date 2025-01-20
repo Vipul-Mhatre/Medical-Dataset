@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 1950367967, 'lat': 31.5649334, 'lon': 114.1133528, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '大悟县中医院'}}"
+"{'type': 'node', 'id': 1950367968, 'lat': 31.5562053, 'lon': 114.1189325, 'tags': {'amenity': 'hospital', 'name': '大悟县人民医院'}}"
+"{'type': 'node', 'id': 1950665536, 'lat': 31.5698365, 'lon': 114.1185939, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '大悟卫校附属医院'}}"
+"{'type': 'node', 'id': 4448658490, 'lat': 32.1284738, 'lon': 114.0682682, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '信阳市中心医院', 'name:zh': '信阳市中心医院'}}"
+"{'type': 'node', 'id': 10026172137, 'lat': 31.2789577, 'lon': 113.6862016, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'fertility', 'name': '安陆市妇幼保健院'}}"
+"{'type': 'node', 'id': 10026196634, 'lat': 31.2658648, 'lon': 113.6983084, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安陆市普爱医院'}}"

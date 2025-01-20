@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 2847494772, 'lat': 30.2232224, 'lon': 111.2062756, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'name': '潘家湾乡卫生院'}}"
+"{'type': 'node', 'id': 3771541280, 'lat': 30.1836921, 'lon': 111.3599183, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'name': '王家畈镇卫生院'}}"
+"{'type': 'node', 'id': 3772786949, 'lat': 30.1991727, 'lon': 111.4055434, 'tags': {'amenity': 'hospital', 'emergency': 'no'}}"
+"{'type': 'node', 'id': 4814712335, 'lat': 29.5905494, 'lon': 111.3764474, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '石门县中医院'}}"
+"{'type': 'node', 'id': 4814712336, 'lat': 29.5860067, 'lon': 111.3638337, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '石门县人民医院'}}"
+"{'type': 'node', 'id': 5055220052, 'lat': 30.0488042, 'lon': 112.4295759, 'tags': {'amenity': 'hospital', 'name': '江陵县人民医院'}}"
+"{'type': 'node', 'id': 5356088243, 'lat': 29.0422926, 'lon': 112.3672304, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '草尾镇医院'}}"
+"{'type': 'node', 'id': 5356110387, 'lat': 29.0549167, 'lon': 112.2992132, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南嘴镇卫生院'}}"
+"{'type': 'node', 'id': 7228943862, 'lat': 28.9578065, 'lon': 111.6920176, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '常德德星医院', 'name:en': 'Changde Dexing Hospital'}}"
+"{'type': 'node', 'id': 7228943876, 'lat': 28.9577608, 'lon': 111.6968896, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '常德市第二人民医院', 'name:en': ""The Second People's Hospital of Changde""}}"
+"{'type': 'node', 'id': 7860222492, 'lat': 29.0644335, 'lon': 112.3207152, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '益汉大药房'}}"
+"{'type': 'node', 'id': 7860222536, 'lat': 29.0629784, 'lon': 112.3214588, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '湘丰大药房'}}"

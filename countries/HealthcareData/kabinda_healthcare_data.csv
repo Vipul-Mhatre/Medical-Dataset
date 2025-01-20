@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 10316650420, 'lat': -6.498368, 'lon': 23.9956818, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'HGR Kalambayi Kabanga'}}"
+"{'type': 'node', 'id': 10316713303, 'lat': -6.2117996, 'lon': 24.032141, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Centre de Santé Nkumba, ZS Kabinda'}}"
+"{'type': 'node', 'id': 10628562805, 'lat': -6.3376629, 'lon': 24.5247196, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé Lualaba'}}"
+"{'type': 'node', 'id': 10651343905, 'lat': -6.2219177, 'lon': 24.0021551, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé Kamayi'}}"
+"{'type': 'node', 'id': 10651344005, 'lat': -6.2641746, 'lon': 23.9864737, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé Lukangu'}}"
+"{'type': 'node', 'id': 10692822312, 'lat': -6.7471951, 'lon': 23.9537189, 'tags': {'amenity': 'hospital', 'name': 'Hôpital General de référence de Ngandajika'}}"

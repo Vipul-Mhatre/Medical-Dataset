@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 4772061321, 'lat': 23.8653927, 'lon': 109.7599533, 'tags': {'amenity': 'hospital', 'name': '妙皇卫生院'}}"
+"{'type': 'node', 'id': 8818045136, 'lat': 24.29161, 'lon': 109.450661, 'tags': {'alt_name': '柳州市人民医院康复院区', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '柳州市康复医院'}}"
+"{'type': 'node', 'id': 11347721954, 'lat': 24.3705861, 'lon': 109.5279435, 'tags': {'healthcare': 'yes', 'name': '卫生所'}}"
+"{'type': 'node', 'id': 11347721958, 'lat': 24.3702965, 'lon': 109.5275834, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '龙泉发药店'}}"

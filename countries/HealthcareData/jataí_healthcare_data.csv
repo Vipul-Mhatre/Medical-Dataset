@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 1697744775, 'lat': -17.8806164, 'lon': -51.7167788, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 1697754233, 'lat': -17.8817975, 'lon': -51.7148852, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 2075173619, 'lat': -18.2954178, 'lon': -51.144521, 'tags': {'amenity': 'hospital', 'source': 'IBGE'}}"

@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 2678344486, 'lat': -6.788045, 'lon': -43.5708244, 'tags': {'addr:city': 'Guadalupe', 'addr:postcode': '64840-000', 'addr:street': 'Rua do Parque de Vaquejada', 'amenity': 'pharmacy', 'name': 'Farmácia Santa Teresinha', 'operator': 'Tiago Almeida'}}"
+"{'type': 'node', 'id': 2678739515, 'lat': -6.7746357, 'lon': -43.5604591, 'tags': {'addr:city': 'Guadalupe', 'addr:postcode': '64840-000', 'amenity': 'hospital', 'name': 'Ambulatório da CHESF'}}"
+"{'type': 'node', 'id': 4365160965, 'lat': -6.4168375, 'lon': -43.5439816, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 7150979684, 'lat': -6.3630155, 'lon': -44.3629465, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 7672023972, 'lat': -6.5023804, 'lon': -43.7022365, 'tags': {'addr:city': 'são João dos patos', 'addr:housenumber': '1329', 'addr:postcode': '65665000', 'addr:street': 'rua Gonçalves Moreira', 'addr:suburb': 'centro', 'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general', 'name': 'posto de saúde', 'opening_hours': 'Mo-Sa 08:00-18:00', 'opening_hours:covid19': 'restricted', 'operator': 'hospital', 'operator:type': 'public'}}"

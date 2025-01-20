@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 5805653227, 'lat': 45.543927, 'lon': 131.8724249, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '密山市人民医院', 'name:ru': 'Городская больница'}}"
+"{'type': 'node', 'id': 5805653332, 'lat': 45.5495868, 'lon': 131.8516238, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '裴德医院'}}"
+"{'type': 'node', 'id': 11052674871, 'lat': 45.5452049, 'lon': 131.8699262, 'tags': {'amenity': 'pharmacy', 'brand': '老百姓大药房', 'brand:en': 'LBX Pharmacy', 'brand:wikidata': 'Q109744899', 'brand:zh': '老百姓大药房', 'healthcare': 'pharmacy', 'name': '老百姓大药房', 'name:en': 'LBX Pharmacy', 'name:ru': 'Аптека', 'name:zh': '老百姓大药房'}}"
+"{'type': 'node', 'id': 11052674872, 'lat': 45.5453412, 'lon': 131.8702074, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '康贝大药房', 'name:ru': 'Аптека'}}"
+"{'type': 'node', 'id': 12045052525, 'lat': 45.5405961, 'lon': 131.8744004, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': '马红静口腔诊所'}}"
+"{'type': 'node', 'id': 12045052529, 'lat': 45.5401976, 'lon': 131.8732362, 'tags': {'healthcare': 'physiotherapist', 'name': '岁月无痕养生馆'}}"
+"{'type': 'node', 'id': 12045052543, 'lat': 45.5414088, 'lon': 131.8796431, 'tags': {'healthcare': 'physiotherapist', 'name': '推拿正骨'}}"

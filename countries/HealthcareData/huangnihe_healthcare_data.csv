@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 11637394627, 'lat': 43.3650425, 'lon': 128.2222741, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '人间正道新药大药房'}}"
+"{'type': 'node', 'id': 11637931413, 'lat': 43.3575895, 'lon': 128.2327385, 'tags': {'healthcare': 'hospital', 'name': '敦化市东方医院'}}"

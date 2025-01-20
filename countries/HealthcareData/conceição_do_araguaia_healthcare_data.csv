@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 9561398938, 'lat': -8.4008449, 'lon': -48.9148137, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 11218897367, 'lat': -8.7339152, 'lon': -48.7515327, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hospital'}}"

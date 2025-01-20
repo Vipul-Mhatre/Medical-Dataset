@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 4418919131, 'lat': 32.9836781, 'lon': 112.5227487, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南阳天伦医院'}}"
+"{'type': 'node', 'id': 4418933911, 'lat': 32.9876802, 'lon': 112.5115573, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南阳市张仲景国医院'}}"
+"{'type': 'node', 'id': 4418935869, 'lat': 32.9855189, 'lon': 112.5157215, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '张仲景药店'}}"
+"{'type': 'node', 'id': 8787738798, 'lat': 33.265569, 'lon': 113.0263595, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '爱康医院'}}"
+"{'type': 'node', 'id': 8787738799, 'lat': 33.2548138, 'lon': 113.0135919, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '东城医院'}}"
+"{'type': 'node', 'id': 9754076298, 'lat': 33.22975, 'lon': 112.9901776, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '方城县中医院滨河院区'}}"
+"{'type': 'node', 'id': 11497367691, 'lat': 33.0386751, 'lon': 112.5619583, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'orthopaedics', 'name': '南阳市骨科医院'}}"
+"{'type': 'node', 'id': 11513929963, 'lat': 32.760127, 'lon': 112.3423349, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '旧莫李营村诊所'}}"
+"{'type': 'node', 'id': 11513929964, 'lat': 32.7603944, 'lon': 112.3424521, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '莫李营村卫生所'}}"

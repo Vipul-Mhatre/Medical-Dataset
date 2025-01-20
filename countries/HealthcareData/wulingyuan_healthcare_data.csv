@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 4465697293, 'lat': 29.1090547, 'lon': 110.4750874, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 10604097429, 'lat': 29.1838514, 'lon': 110.4580108, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '张家界市人民医院'}}"

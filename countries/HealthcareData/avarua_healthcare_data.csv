@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 872471411, 'lat': -21.2206253, 'lon': -159.828808, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Phab Pharmacy', 'opening_hours': 'Mo-Th 09:30-17:00; Fr 09:30-18:00; Sa 10:00-14:00'}}"
+"{'type': 'node', 'id': 2936559269, 'lat': -21.2582742, 'lon': -159.732909, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"

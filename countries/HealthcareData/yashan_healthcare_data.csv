@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 9026969913, 'lat': 22.3968034, 'lon': 109.2781615, 'tags': {'healthcare': 'yes', 'name': '灵山县疾病预防控制中心'}}"
+"{'type': 'node', 'id': 10822824876, 'lat': 22.6380922, 'lon': 110.1516055, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '玉林市第一人民医院'}}"
+"{'type': 'node', 'id': 10859957260, 'lat': 22.6206539, 'lon': 110.1712732, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '桂芝堂药业'}}"

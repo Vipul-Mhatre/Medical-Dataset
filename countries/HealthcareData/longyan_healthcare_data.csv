@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 3049800607, 'lat': 24.5255475, 'lon': 117.665254, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '中國人民解放軍聯勤保障部隊第九〇九醫院'}}"
+"{'type': 'node', 'id': 4004419455, 'lat': 25.3235738, 'lon': 117.2490401, 'tags': {'amenity': 'hospital', 'name': '美山村卫生所'}}"
+"{'type': 'node', 'id': 9966755284, 'lat': 24.5176007, 'lon': 117.6884172, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9966755289, 'lat': 24.5154723, 'lon': 117.6404894, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9966755291, 'lat': 24.5170785, 'lon': 117.6495145, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 10015111602, 'lat': 24.5004717, 'lon': 116.4059401, 'tags': {'amenity': 'pharmacy', 'brand': '大参林', 'brand:en': 'dashenlin', 'brand:wikidata': 'Q106239645', 'brand:zh': '大参林', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '大参林', 'name:en': 'dashenlin', 'name:zh': '大参林'}}"
+"{'type': 'node', 'id': 10048463411, 'lat': 25.1013591, 'lon': 117.0438895, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '一七五醫院'}}"
+"{'type': 'node', 'id': 10048463412, 'lat': 25.101968, 'lon': 117.0246142, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '龍岩市第一醫院'}}"
+"{'type': 'node', 'id': 10092469421, 'lat': 24.5171738, 'lon': 117.3790713, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 11381157963, 'lat': 24.5092565, 'lon': 117.6551001, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

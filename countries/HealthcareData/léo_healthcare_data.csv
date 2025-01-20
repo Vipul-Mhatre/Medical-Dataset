@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 5077394121, 'lat': 10.533558, 'lon': -2.6997333, 'tags': {'amenity': 'clinic', 'name': ""St. Joseph's Hospital"", 'name:en': ""St. Joseph's Hospital""}}"
+"{'type': 'node', 'id': 7061825258, 'lat': 11.1050958, 'lon': -2.0983994, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie Sissili', 'source': 'survey;note 1971556'}}"
+"{'type': 'node', 'id': 8734375220, 'lat': 10.4877135, 'lon': -2.5008112, 'tags': {'healthcare': 'general,_maternity,_etc.', 'name': 'Bussie Health Centre'}}"
+"{'type': 'node', 'id': 8755584108, 'lat': 11.6819297, 'lon': -2.7406731, 'tags': {'amenity': 'hospital', 'name': 'CSPS de Pig-Poré', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 8780827466, 'lat': 11.6031951, 'lon': -2.761825, 'tags': {'amenity': 'hospital', 'name': 'Centre Médical', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 10217669314, 'lat': 11.4269861, 'lon': -2.4036536, 'tags': {'amenity': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"

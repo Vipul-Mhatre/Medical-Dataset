@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 5063640834, 'lat': 35.882858, 'lon': 111.5230119, 'tags': {'addr:city': '临汾市', 'addr:district': '襄汾县', 'addr:postcode': '041500', 'addr:province': '山西省', 'addr:street': '安李村', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': '安李卫生所'}}"
+"{'type': 'node', 'id': 5620223297, 'lat': 36.0883178, 'lon': 111.5092145, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '永旺脑病医院'}}"
+"{'type': 'node', 'id': 11411915181, 'lat': 36.144154, 'lon': 112.2413903, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安泽县中医院'}}"
+"{'type': 'node', 'id': 11411915182, 'lat': 36.1421181, 'lon': 112.2421559, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安泽县人民医院'}}"

@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 3393514702, 'lat': 25.0316253, 'lon': 98.5095903, 'tags': {'addr:postcode': '679100', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '腾冲健君医院', 'wheelchair': 'limited'}}"
+"{'type': 'node', 'id': 3394718884, 'lat': 25.0189181, 'lon': 98.4970269, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '腾冲市妇幼保健院'}}"
+"{'type': 'node', 'id': 3682199914, 'lat': 24.9721892, 'lon': 98.8642717, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4728968290, 'lat': 23.9914584, 'lon': 97.9114696, 'tags': {'amenity': 'clinic', 'name:en': 'Dr. Phyo Wai Oo'}}"
+"{'type': 'node', 'id': 5018273602, 'lat': 24.8069715, 'lon': 98.2984214, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '梁河县人民医院'}}"
+"{'type': 'node', 'id': 5018273654, 'lat': 24.8116859, 'lon': 98.2985462, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '梁河县疾控中心'}}"
+"{'type': 'node', 'id': 6325197390, 'lat': 25.1102781, 'lon': 99.1730395, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12513681278, 'lat': 23.9154723, 'lon': 97.9920789, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'ကျေးလက်ကျန်းမာရေးဌာနခွဲ၊မော်\u200cတောင်း', 'name:my': 'ကျေးလက်ကျန်းမာရေးဌာနခွဲ၊မော်\u200cတောင်း'}}"

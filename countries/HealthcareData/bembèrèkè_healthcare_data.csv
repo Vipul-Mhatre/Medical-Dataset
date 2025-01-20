@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 4172407669, 'lat': 9.7687595, 'lon': 2.2771226, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 4172410891, 'lat': 9.7559234, 'lon': 2.5496338, 'tags': {'amenity': 'clinic', 'source': 'http://eaururalebenin.org/donnees/infrastructures/'}}"
+"{'type': 'node', 'id': 4172410939, 'lat': 9.8057917, 'lon': 2.44372, 'tags': {'amenity': 'clinic', 'source': 'http://eaururalebenin.org/donnees/infrastructures/'}}"
+"{'type': 'node', 'id': 6328515989, 'lat': 9.9351012, 'lon': 3.2102751, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'waterway': 'dam'}}"
+"{'type': 'node', 'id': 7159313985, 'lat': 10.2415479, 'lon': 2.6774953, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie Bwendora'}}"
+"{'type': 'node', 'id': 9603507795, 'lat': 9.9347444, 'lon': 3.2103133, 'tags': {'amenity': 'hospital', 'name': 'Centre de Santé Communal de Nikki'}}"
+"{'type': 'node', 'id': 9605995379, 'lat': 9.9161317, 'lon': 3.0389908, 'tags': {'amenity': 'hospital', 'name': 'Centre de Sante de Sérékali'}}"
+"{'type': 'node', 'id': 9606061722, 'lat': 9.904161, 'lon': 2.9389221, 'tags': {'amenity': 'hospital', 'name': 'Centre de Sante de Biro'}}"
+"{'type': 'node', 'id': 10242581624, 'lat': 10.2292778, 'lon': 1.9999811, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé de Péhunco'}}"
+"{'type': 'node', 'id': 12193119467, 'lat': 9.789306, 'lon': 2.6349847, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé'}}"
+"{'type': 'node', 'id': 12195224935, 'lat': 9.7477631, 'lon': 2.4402585, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé'}}"
+"{'type': 'node', 'id': 12195244310, 'lat': 9.7475658, 'lon': 2.4404377, 'tags': {'healthcare': 'nurse', 'name': 'Maternité'}}"

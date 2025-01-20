@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 5555944380, 'lat': 4.5063773, 'lon': 12.120318, 'tags': {'healthcare': 'centre', 'name': 'Centre médical'}}"
+"{'type': 'node', 'id': 7340410718, 'lat': 4.0546964, 'lon': 12.2434181, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de santé intégré de Mengueme Si', 'operator': 'Ministère de la santé publique', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 11933108947, 'lat': 4.9219713, 'lon': 12.3044982, 'tags': {'amenity': 'hospital', 'name': 'Hôpital de la caisse'}}"

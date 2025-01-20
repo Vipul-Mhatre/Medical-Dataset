@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 3393514702, 'lat': 25.0316253, 'lon': 98.5095903, 'tags': {'addr:postcode': '679100', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '腾冲健君医院', 'wheelchair': 'limited'}}"
+"{'type': 'node', 'id': 3394718884, 'lat': 25.0189181, 'lon': 98.4970269, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '腾冲市妇幼保健院'}}"
+"{'type': 'node', 'id': 3682199914, 'lat': 24.9721892, 'lon': 98.8642717, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5018273602, 'lat': 24.8069715, 'lon': 98.2984214, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '梁河县人民医院'}}"
+"{'type': 'node', 'id': 5018273654, 'lat': 24.8116859, 'lon': 98.2985462, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '梁河县疾控中心'}}"
+"{'type': 'node', 'id': 7858159689, 'lat': 25.88313, 'lon': 98.12934, 'tags': {'COVID_BED': 'no', 'COVID_ICU': 'no', 'COVID_TEST': 'yes', 'HF_ID': 'COV0005', 'HF_N_EN': 'Chipwi Township Hospital', 'HF_TYPE': 'Township', 'RoadConn': 'Connected', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': 'Chipwi Township Hospital', 'name:en': 'Chipwi Township Hospital', 'name:my': 'ချီပွေမြို့နယ်ဆေးရုံ', 'operator': 'Ministry of Health and Sports', 'operator:type': 'government', 'operator:wikidata': 'Q28954031'}}"

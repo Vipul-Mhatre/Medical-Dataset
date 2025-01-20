@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 2024738707, 'lat': 36.1665598, 'lon': 120.4977705, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '校医院', 'name:zh': '校医院', 'name:zh-Hans': '校医院', 'name:zh-Hant': '校醫院', 'operator': '中国海洋大学', 'operator:type': 'government', 'wheelchair': 'yes'}}"
+"{'type': 'node', 'id': 4336716597, 'lat': 36.6290528, 'lon': 120.1810392, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5332537311, 'lat': 36.3076032, 'lon': 120.4982585, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '琴岛学院医务室'}}"
+"{'type': 'node', 'id': 9085948110, 'lat': 36.3586831, 'lon': 120.6851264, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '校医院', 'name:zh': '校医院', 'name:zh-Hans': '校医院', 'name:zh-Hant': '校醫院', 'operator': '山东大学', 'operator:type': 'government', 'wheelchair': 'yes'}}"
+"{'type': 'node', 'id': 9468397058, 'lat': 37.1895547, 'lon': 119.9358089, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '莱州市爱尔眼科医院'}}"
+"{'type': 'node', 'id': 11452276359, 'lat': 36.1681972, 'lon': 120.4209479, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '辉瑞堂大药房'}}"
+"{'type': 'node', 'id': 12415901487, 'lat': 36.2403781, 'lon': 120.6644705, 'tags': {'healthcare': 'yes', 'name': '曲家庄社区卫生室'}}"

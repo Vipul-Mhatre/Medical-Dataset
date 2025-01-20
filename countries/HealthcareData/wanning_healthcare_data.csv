@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 4739788004, 'lat': 19.3626785, 'lon': 110.0990965, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '屯昌县人民医院'}}"
+"{'type': 'node', 'id': 4739789261, 'lat': 19.3614178, 'lon': 110.0980149, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '屯昌县妇婴医院'}}"
+"{'type': 'node', 'id': 4790348926, 'lat': 18.6746717, 'lon': 110.345813, 'tags': {'amenity': 'pharmacy', 'name:ru': 'Аптека 2 этаж'}}"
+"{'type': 'node', 'id': 6973118319, 'lat': 19.31858, 'lon': 109.9419698, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南坤卫生院'}}"
+"{'type': 'node', 'id': 6973239425, 'lat': 19.2141286, 'lon': 110.0114899, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '枫木中心卫生院'}}"
+"{'type': 'node', 'id': 7158629085, 'lat': 18.5502198, 'lon': 110.1153946, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'opening_hours': '24/7'}}"
+"{'type': 'node', 'id': 10026519178, 'lat': 19.3194987, 'lon': 109.9467112, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '农场药店'}}"

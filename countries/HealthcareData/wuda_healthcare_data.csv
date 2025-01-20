@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 2757609426, 'lat': 39.0199095, 'lon': 106.3649869, 'tags': {'amenity': 'hospital', 'name': '市第二醫院'}}"
+"{'type': 'node', 'id': 2757609669, 'lat': 39.0199779, 'lon': 106.3655194, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 2757746944, 'lat': 39.0177882, 'lon': 106.3694688, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 2757796710, 'lat': 39.0133873, 'lon': 106.3752985, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 2757990206, 'lat': 39.0205731, 'lon': 106.3671367, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3236671179, 'lat': 39.6601319, 'lon': 106.8133046, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3236671180, 'lat': 39.6638408, 'lon': 106.8093331, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

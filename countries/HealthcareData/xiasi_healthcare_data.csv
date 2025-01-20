@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 5894243335, 'lat': 31.8327775, 'lon': 105.6680454, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '杨村镇卫生院'}}"
+"{'type': 'node', 'id': 6831607698, 'lat': 32.4376912, 'lon': 105.8201247, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 8013573283, 'lat': 32.44632, 'lon': 105.8270556, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9053565220, 'lat': 32.4377274, 'lon': 105.8333373, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor'}}"
+"{'type': 'node', 'id': 12229201154, 'lat': 31.983616, 'lon': 105.6341971, 'tags': {'healthcare': 'yes', 'name': '剑阁县木马镇卫生院'}}"

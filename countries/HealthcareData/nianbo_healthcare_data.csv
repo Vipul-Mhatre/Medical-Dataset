@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 627757065, 'lat': 36.6133678, 'lon': 101.780727, 'tags': {'addr:city': '西宁市', 'addr:housenumber': '55', 'addr:postcode': '810000', 'addr:province': '青海', 'addr:street': '南大街', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Red Cross Hospital', 'website': 'https://qhrch.com/', 'wikidata': 'Q43896053'}}"
+"{'type': 'node', 'id': 5178234622, 'lat': 36.6177692, 'lon': 101.8051193, 'tags': {'amenity': 'hospital', 'name:en': 'Qinghai Province Cancer Hospital'}}"
+"{'type': 'node', 'id': 6684134419, 'lat': 36.59859, 'lon': 101.8016267, 'tags': {'amenity': 'pharmacy'}}"

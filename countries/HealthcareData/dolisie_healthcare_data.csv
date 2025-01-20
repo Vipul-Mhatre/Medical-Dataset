@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 3323401286, 'lat': -4.5335448, 'lon': 12.1130175, 'tags': {'amenity': 'pharmacy', 'dispensing': 'no', 'name': 'Banque alimentaire de Mboukou'}}"
+"{'type': 'node', 'id': 3323401453, 'lat': -4.7170378, 'lon': 12.0892127, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé de Dembouanou'}}"
+"{'type': 'node', 'id': 3323401455, 'lat': -4.1355492, 'lon': 12.0633501, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé intégré de Kakamoeka'}}"
+"{'type': 'node', 'id': 3323401456, 'lat': -4.1243192, 'lon': 12.1405804, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé intégré de Manzi'}}"
+"{'type': 'node', 'id': 4878880912, 'lat': -4.1914599, 'lon': 12.6661084, 'tags': {'amenity': 'hospital', 'name': 'Hopital Militaire', 'operator': 'Hopital'}}"
+"{'type': 'node', 'id': 5217881924, 'lat': -4.2220638, 'lon': 12.7044245, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hopital Manganzi'}}"
+"{'type': 'node', 'id': 6577035919, 'lat': -4.2167896, 'lon': 12.6833463, 'tags': {'amenity': 'clinic', 'health_facility:type': 'dispensary', 'healthcare': 'centre', 'name': 'CSI Dimebeko', 'operator:type': 'public'}}"

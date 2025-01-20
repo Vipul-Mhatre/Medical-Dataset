@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 9005243225, 'lat': 38.4857105, 'lon': 102.1957063, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9014714801, 'lat': 37.9347702, 'lon': 102.6430325, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9987675310, 'lat': 38.1780945, 'lon': 103.261512, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南湖镇卫生院'}}"
+"{'type': 'node', 'id': 10039388221, 'lat': 38.0742765, 'lon': 102.5852904, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '永昌镇白云村卫生室'}}"

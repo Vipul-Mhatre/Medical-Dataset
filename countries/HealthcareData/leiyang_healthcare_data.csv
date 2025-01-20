@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 3165947376, 'lat': 26.7665661, 'lon': 112.5775076, 'tags': {'amenity': 'hospital', 'name': '衡南县第五人民医院'}}"
+"{'type': 'node', 'id': 4648594091, 'lat': 25.9788212, 'lon': 113.2293761, 'tags': {'addr:city': '资兴市', 'addr:postcode': '423400', 'addr:street': '晋宁路', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '资兴市妇幼保健院', 'name:en': 'Zixing Maternity And Child Health Hospital', 'name:ja': '資興市母子保健院', 'phone': '+86 735 332 2629'}}"
+"{'type': 'node', 'id': 4648594092, 'lat': 25.9784499, 'lon': 113.2374979, 'tags': {'addr:city': '资兴市', 'addr:postcode': '423400', 'addr:street': '晋宁路', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '资兴市第一人民医院', 'name:en': ""Zixing No.1 People's Hospital"", 'name:ja': '資興市第一人民病院', 'phone': '+86 735 332 2417'}}"
+"{'type': 'node', 'id': 4648594101, 'lat': 25.9709309, 'lon': 113.2282175, 'tags': {'addr:city': '资兴市', 'addr:postcode': '423400', 'addr:street': '汉宁路', 'amenity': 'hospital', 'name': '资兴市疾病预防控制中心', 'name:en': 'Zixing Municipal Center For Disease Control And Prevention', 'name:ja': '資興市疾病予防管理センター', 'phone': '+86 735 332 2373'}}"
+"{'type': 'node', 'id': 9336627249, 'lat': 26.8935843, 'lon': 112.6100013, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '衡阳市中心医院'}}"

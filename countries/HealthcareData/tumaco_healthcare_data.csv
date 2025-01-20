@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 922049542, 'lat': 1.8102698, 'lon': -78.7700337, 'tags': {'amenity': 'hospital', 'name': 'Medicina Legal'}}"
+"{'type': 'node', 'id': 4474963589, 'lat': 1.2873243, 'lon': -78.8352173, 'tags': {'amenity': 'pharmacy', 'name': 'Farmacia Económica', 'opening_hours': 'Mo-Su 07:00-20:00'}}"
+"{'type': 'node', 'id': 4483865789, 'lat': 1.2854238, 'lon': -78.8334373, 'tags': {'amenity': 'pharmacy', 'name': 'Sana Sana', 'name:es': 'Sana Sana'}}"
+"{'type': 'node', 'id': 5001717221, 'lat': 1.2880567, 'lon': -78.8355234, 'tags': {'addr:street': 'Imbabura', 'amenity': 'pharmacy', 'email': 'jachomen7@hotmail.com', 'name': 'Farmacia Milagreña', 'name:es': 'Farmacia Milagreña', 'opening_hours': '24/7', 'operator': 'Violeta Espinoza', 'phone:mobile': '0996739427'}}"
+"{'type': 'node', 'id': 5523977963, 'lat': 1.2515492, 'lon': -78.9853807, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 5788272753, 'lat': 1.2857644, 'lon': -78.8344093, 'tags': {'addr:street': 'Imbabura', 'amenity': 'pharmacy', 'name': 'FARMACIAS CRUZ AZUL', 'name:en': 'Pharmacys', 'operator': 'claro', 'phone': '0992460207', 'website': 'http://farmaciascruzazul.com'}}"
+"{'type': 'node', 'id': 8433651817, 'lat': 1.6969514, 'lon': -78.2501323, 'tags': {'addr:street': 'Calle 2', 'amenity': 'hospital', 'name': 'E.S.E LAS MERCEDES'}}"

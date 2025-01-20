@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 1781330451, 'lat': 50.1009945, 'lon': 118.0318481, 'tags': {'amenity': 'pharmacy', 'dispensing': 'no', 'name': 'Аптечный киоск', 'opening_hours': 'Mo-Fr 09:00-19:00', 'operator': 'МУП Центральная аптека'}}"
+"{'type': 'node', 'id': 3195647409, 'lat': 50.0835673, 'lon': 118.0376549, 'tags': {'amenity': 'pharmacy', 'opening_hours': 'Mo-Fr 08:00-14:00,14:30-20:00; Sa,Su 10:00-14:00,14:30-18:00'}}"
+"{'type': 'node', 'id': 3195647423, 'lat': 50.089113, 'lon': 118.0277827, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3202539101, 'lat': 50.0984731, 'lon': 118.0435611, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4334005936, 'lat': 50.0882755, 'lon': 118.0273501, 'tags': {'amenity': 'pharmacy', 'name': 'Эконом Фарм'}}"
+"{'type': 'node', 'id': 4334022849, 'lat': 50.1002729, 'lon': 118.0402268, 'tags': {'amenity': 'pharmacy', 'name': 'Эконом Фарм'}}"
+"{'type': 'node', 'id': 4744640443, 'lat': 49.6365405, 'lon': 117.3362876, 'tags': {'addr:city': 'Забайкальск', 'addr:postcode': '674650', 'addr:street': 'Железнодорожная улица', 'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4949783842, 'lat': 49.9282298, 'lon': 116.8464067, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 5609791322, 'lat': 50.0946708, 'lon': 118.0372915, 'tags': {'amenity': 'pharmacy', 'name': '""Центральная""', 'name:en': 'Pharmacy ""Central""'}}"
+"{'type': 'node', 'id': 5609794822, 'lat': 50.0956751, 'lon': 118.035426, 'tags': {'amenity': 'pharmacy', 'name': '""Ригла""', 'name:en': '""Rigla""'}}"
+"{'type': 'node', 'id': 7235050876, 'lat': 50.091358, 'lon': 118.0218608, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Поликлиника № 4'}}"
+"{'type': 'node', 'id': 10246460922, 'lat': 50.0973419, 'lon': 118.0330968, 'tags': {'amenity': 'pharmacy', 'contact:email': 'mail@gupas.ru', 'contact:phone': '+7 302 2285268;+7 302 2285280;+7 914 4402413', 'contact:website': 'https://gupas.tilda.ws/page21347312.html', 'name': 'Аптечный склад', 'opening_hours': '24/7'}}"

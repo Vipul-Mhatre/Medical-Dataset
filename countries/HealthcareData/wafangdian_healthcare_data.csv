@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 7954692032, 'lat': 39.0716753, 'lon': 121.9604687, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7954692033, 'lat': 39.0720234, 'lon': 121.9601437, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7954692034, 'lat': 39.0733876, 'lon': 121.9614953, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 8447569615, 'lat': 39.6965784, 'lon': 122.6271138, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '城山卫生院'}}"

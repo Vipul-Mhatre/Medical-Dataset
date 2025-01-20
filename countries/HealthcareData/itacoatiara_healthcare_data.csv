@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 2346907484, 'lat': -2.5670116, 'lon': -57.8724281, 'tags': {'amenity': 'hospital', 'name': 'Hospital Rosa Fabiano Falabella'}}"
+"{'type': 'node', 'id': 4193510639, 'lat': -3.1268739, 'lon': -58.1560195, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 6366409052, 'lat': -3.1424985, 'lon': -58.4461939, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Drogaria do Carmo'}}"
+"{'type': 'node', 'id': 6366436670, 'lat': -3.1368248, 'lon': -58.4436158, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'José Mendes'}}"
+"{'type': 'node', 'id': 11108823207, 'lat': -3.1293263, 'lon': -58.4450213, 'tags': {'contact:facebook': 'https://www.facebook.com/people/Futfisio-Fisioterapia-Especializada/100067383256741/', 'healthcare': 'physiotherapist', 'name': 'Futfisio'}}"
+"{'type': 'node', 'id': 11175342918, 'lat': -3.1444859, 'lon': -58.4467378, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 11175342919, 'lat': -3.1462239, 'lon': -58.4394204, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 11175342920, 'lat': -3.1259406, 'lon': -58.4369098, 'tags': {'healthcare': 'yes'}}"
+"{'type': 'node', 'id': 11175342921, 'lat': -3.123697, 'lon': -58.4305122, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"

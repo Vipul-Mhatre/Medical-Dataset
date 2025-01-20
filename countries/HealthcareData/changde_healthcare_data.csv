@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 4814712335, 'lat': 29.5905494, 'lon': 111.3764474, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '石门县中医院'}}"
+"{'type': 'node', 'id': 4814712336, 'lat': 29.5860067, 'lon': 111.3638337, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '石门县人民医院'}}"
+"{'type': 'node', 'id': 5356088243, 'lat': 29.0422926, 'lon': 112.3672304, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '草尾镇医院'}}"
+"{'type': 'node', 'id': 5356110387, 'lat': 29.0549167, 'lon': 112.2992132, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南嘴镇卫生院'}}"
+"{'type': 'node', 'id': 5609473947, 'lat': 28.5246627, 'lon': 112.1441312, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '保和堂药店'}}"
+"{'type': 'node', 'id': 5609473955, 'lat': 28.5187483, 'lon': 112.1503535, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '桃江资江医院'}}"
+"{'type': 'node', 'id': 7228943862, 'lat': 28.9578065, 'lon': 111.6920176, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '常德德星医院', 'name:en': 'Changde Dexing Hospital'}}"
+"{'type': 'node', 'id': 7228943876, 'lat': 28.9577608, 'lon': 111.6968896, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '常德市第二人民医院', 'name:en': ""The Second People's Hospital of Changde""}}"
+"{'type': 'node', 'id': 7860222492, 'lat': 29.0644335, 'lon': 112.3207152, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '益汉大药房'}}"
+"{'type': 'node', 'id': 7860222536, 'lat': 29.0629784, 'lon': 112.3214588, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '湘丰大药房'}}"

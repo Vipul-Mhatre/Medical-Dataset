@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 5860037551, 'lat': 26.6349691, 'lon': 118.1709694, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 5860248408, 'lat': 26.6421379, 'lon': 118.1757431, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '人民医院'}}"
+"{'type': 'node', 'id': 10738647515, 'lat': 26.5825427, 'lon': 118.739982, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 10738647516, 'lat': 26.5656078, 'lon': 118.734101, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

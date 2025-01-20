@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 5686475173, 'lat': -1.5513724, 'lon': 13.2218123, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5686481796, 'lat': -1.5642851, 'lon': 13.230052, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 10812687227, 'lat': -1.8251036, 'lon': 13.0100698, 'tags': {'addr:city': 'Bakoumba', 'addr:province': 'Haut-Ogooué', 'amenity': 'pharmacy', 'name': 'Dépôt pharmacetique'}}"
+"{'type': 'node', 'id': 11760963295, 'lat': -1.3889208, 'lon': 13.1547585, 'tags': {'amenity': 'pharmacy', 'name': 'Alexandre NDENGUE'}}"

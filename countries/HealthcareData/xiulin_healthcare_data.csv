@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 2769096052, 'lat': 30.3395963, 'lon': 112.2124842, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '荆州市胸科医院（传染病医院）', 'operator': '荆州市卫生健康委员会', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 2771807126, 'lat': 30.3115978, 'lon': 112.2536719, 'tags': {'amenity': 'hospital', 'name': '荆州市第一人民医院'}}"
+"{'type': 'node', 'id': 2771807127, 'lat': 30.3311424, 'lon': 112.2235493, 'tags': {'amenity': 'hospital', 'name': '荆州市第一人民医院慈济分院', 'note': '原荆州市第四人民医院'}}"
+"{'type': 'node', 'id': 2771807128, 'lat': 30.2967601, 'lon': 112.275995, 'tags': {'amenity': 'hospital', 'name': '荆州市第三人民医院'}}"
+"{'type': 'node', 'id': 2771807129, 'lat': 30.3228064, 'lon': 112.2477317, 'tags': {'amenity': 'hospital', 'name': '荆州市第二人民医院'}}"
+"{'type': 'node', 'id': 5055220052, 'lat': 30.0488042, 'lon': 112.4295759, 'tags': {'amenity': 'hospital', 'name': '江陵县人民医院'}}"
+"{'type': 'node', 'id': 5356088243, 'lat': 29.0422926, 'lon': 112.3672304, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '草尾镇医院'}}"
+"{'type': 'node', 'id': 5356110387, 'lat': 29.0549167, 'lon': 112.2992132, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南嘴镇卫生院'}}"
+"{'type': 'node', 'id': 7860222492, 'lat': 29.0644335, 'lon': 112.3207152, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '益汉大药房'}}"
+"{'type': 'node', 'id': 7860222536, 'lat': 29.0629784, 'lon': 112.3214588, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '湘丰大药房'}}"

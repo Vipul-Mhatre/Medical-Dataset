@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 1461724319, 'lat': -20.2394863, 'lon': -56.3766086, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4791918122, 'lat': -20.4705645, 'lon': -55.7943516, 'tags': {'addr:housenumber': '185', 'addr:postcode': '79200-000', 'addr:street': 'Rua José Bonifácio', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'CASSEMS', 'name:pt': 'CASSEMS', 'phone': '06732417429', 'ref:CNES': '5851351', 'ref:vatin': 'BR04311093000550'}}"
+"{'type': 'node', 'id': 5258440167, 'lat': -20.238409, 'lon': -56.3810108, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 5713524915, 'lat': -20.4760895, 'lon': -55.7930152, 'tags': {'addr:city': 'Aquidauana', 'addr:housenumber': '728', 'addr:postcode': '79200000', 'addr:street': 'Rua Sete de Setembro', 'addr:suburb': 'Centro', 'amenity': 'pharmacy', 'brand': 'Pague Menos', 'brand:wikidata': 'Q7124466', 'brand:wikipedia': 'pt:Pague Menos', 'healthcare': 'pharmacy', 'name': 'Pague Menos', 'operator': 'Pague Menos Aquidauana'}}"
+"{'type': 'node', 'id': 9061342279, 'lat': -20.4591155, 'lon': -55.7845987, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Laboratório Municipal'}}"
+"{'type': 'node', 'id': 9078217250, 'lat': -20.4826954, 'lon': -55.7847988, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'ESF Guanandy'}}"
+"{'type': 'node', 'id': 11328141201, 'lat': -20.4780322, 'lon': -55.7945007, 'tags': {'addr:city': 'Aquidauana', 'addr:housenumber': '398', 'addr:postcode': '79200000', 'addr:street': 'Rua Augusto Mascarenhas', 'addr:suburb': 'Centro', 'amenity': 'dentist', 'healthcare': 'dentist', 'healthcare:speciality': 'orthodontics', 'name': 'Dra. Camila Moroto', 'opening_hours': 'Mo-Fr 10:00-19:00'}}"

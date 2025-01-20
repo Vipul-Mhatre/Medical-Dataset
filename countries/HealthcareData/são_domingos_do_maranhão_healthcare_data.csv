@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 6219309466, 'lat': -5.0161665, 'lon': -44.9934442, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7070480032, 'lat': -5.8103111, 'lon': -44.3711092, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7084940950, 'lat': -5.4511869, 'lon': -45.0323646, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9175284576, 'lat': -5.1565405, 'lon': -43.9010959, 'tags': {'addr:city': 'São João do Sóter', 'addr:street': 'Rua Grande', 'addr:suburb': 'Povoado Axixá', 'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general', 'name': 'UBS Maria da Índia'}}"
+"{'type': 'node', 'id': 9251450906, 'lat': -4.9889233, 'lon': -44.689479, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"

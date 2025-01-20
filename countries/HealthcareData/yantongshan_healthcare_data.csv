@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 3374258805, 'lat': 43.9091408, 'lon': 125.385849, 'tags': {'amenity': 'hospital', 'name': '校医院'}}"
+"{'type': 'node', 'id': 4412863236, 'lat': 43.7930094, 'lon': 125.4053731, 'tags': {'amenity': 'pharmacy', 'name': '药店'}}"
+"{'type': 'node', 'id': 4412863240, 'lat': 43.793983, 'lon': 125.4045947, 'tags': {'amenity': 'hospital', 'name': '校医院'}}"
+"{'type': 'node', 'id': 5668602142, 'lat': 43.850277, 'lon': 125.3912057, 'tags': {'addr:city': '长春市', 'addr:district': '经济技术开发区', 'addr:province': '吉林省', 'addr:street': '东南湖大路 Nanhu East Rd', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '长春骨伤医院'}}"
+"{'type': 'node', 'id': 11096889738, 'lat': 43.9667411, 'lon': 125.4191806, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '北湖开发区社区卫生服务中心'}}"
+"{'type': 'node', 'id': 11096889739, 'lat': 43.9665804, 'lon': 125.4195613, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '太平社区卫生服务中心'}}"
+"{'type': 'node', 'id': 12238532028, 'lat': 43.9041899, 'lon': 125.3397747, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

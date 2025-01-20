@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 3259870230, 'lat': 13.0862504, 'lon': -1.0849815, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Pharmacie du Rond Point'}}"
+"{'type': 'node', 'id': 3260043467, 'lat': 13.0815144, 'lon': -1.086018, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'name': 'Pharmacie Adonai'}}"
+"{'type': 'node', 'id': 3260043468, 'lat': 13.0876801, 'lon': -1.1031198, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'name': 'Pharmacie Sanma'}}"
+"{'type': 'node', 'id': 3650215073, 'lat': 12.1826997, 'lon': -0.3574875, 'tags': {'amenity': 'pharmacy', 'dispensing': 'no', 'name': 'Pharmacie du Kouritenga', 'source': 'survey'}}"
+"{'type': 'node', 'id': 4804846422, 'lat': 13.086559, 'lon': -1.086778, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie Tanko'}}"
+"{'type': 'node', 'id': 6899257185, 'lat': 12.941474, 'lon': -0.6563018, 'tags': {'amenity': 'hospital', 'name': 'CSPS de Koumenstenga-Mossi'}}"
+"{'type': 'node', 'id': 7135969727, 'lat': 12.9484675, 'lon': -0.7644993, 'tags': {'amenity': 'hospital', 'name': 'CSPS de Lédéré', 'operator': 'MS'}}"
+"{'type': 'node', 'id': 7136092452, 'lat': 12.9900921, 'lon': -0.8144152, 'tags': {'amenity': 'hospital', 'name': 'CSPS de Koanguen-Sangro', 'operator': 'MS'}}"
+"{'type': 'node', 'id': 11131977536, 'lat': 12.3568966, 'lon': -1.1673886, 'tags': {'amenity': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 12208987818, 'lat': 12.2533676, 'lon': -1.1185697, 'tags': {'amenity': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 12222557451, 'lat': 12.0009061, 'lon': -1.2473103, 'tags': {'amenity': 'hospital', 'name': 'CSPS', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 12231836601, 'lat': 12.0860385, 'lon': -1.2393442, 'tags': {'amenity': 'hospital', 'name': 'Dispensaire', 'operator': 'Public'}}"

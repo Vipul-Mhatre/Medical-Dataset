@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 6219359153, 'lat': -3.6227149, 'lon': -44.5559713, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 6381941120, 'lat': -3.5792707, 'lon': -44.9610435, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS João Firmino Vaz Filho', 'operator': 'Prefeitura de Vitória do Mearim'}}"
+"{'type': 'node', 'id': 7901100231, 'lat': -2.8593127, 'lon': -44.756526, 'tags': {'addr:city': 'Cajapió', 'addr:postcode': '65230000', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Eudorico Amaral de Matos', 'opening_hours': '8 horas - 19 horas', 'operator': 'Rejane Serra', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 9257666601, 'lat': -3.6382744, 'lon': -44.3819185, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9772472899, 'lat': -4.0479652, 'lon': -44.9367626, 'tags': {'addr:city': 'LAGO VERDE', 'addr:street': 'AVENIDA', 'addr:suburb': 'CENTRO', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': 'HOSPITAL JOANA ALMEIDA'}}"
+"{'type': 'node', 'id': 12416541268, 'lat': -2.9153895, 'lon': -44.3499876, 'tags': {'amenity': 'pharmacy'}}"

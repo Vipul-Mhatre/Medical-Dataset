@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 5083621634, 'lat': -3.2201273, 'lon': 25.8557841, 'tags': {'amenity': 'clinic', 'name': 'RS Amisi'}}"
+"{'type': 'node', 'id': 5083621640, 'lat': -3.2532667, 'lon': 25.8482552, 'tags': {'amenity': 'clinic', 'fixme': 'precise location unknown', 'name': 'CSR Bilundu'}}"
+"{'type': 'node', 'id': 5084127590, 'lat': -3.4415271, 'lon': 25.7828843, 'tags': {'amenity': 'clinic', 'fixme': 'precise location unknown', 'name': 'CS Difuma II'}}"
+"{'type': 'node', 'id': 5088755375, 'lat': -3.3961585, 'lon': 25.8389837, 'tags': {'amenity': 'clinic', 'fixme': 'precise location unknown', 'name': 'CS Lweki'}}"
+"{'type': 'node', 'id': 11025920505, 'lat': -2.9692466, 'lon': 25.9215548, 'tags': {'amenity': 'clinic', 'name': 'Hôpital Mapon'}}"

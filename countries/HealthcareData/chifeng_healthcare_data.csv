@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 6334687930, 'lat': 42.2565509, 'lon': 118.8875423, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '赤峰市疾控中心'}}"
+"{'type': 'node', 'id': 8302023513, 'lat': 42.0409378, 'lon': 118.7823088, 'tags': {'amenity': 'clinic', 'name': '锦山镇驼店村卫生室', 'name:en': 'Jinshanzhen Tuodiancun Health Room', 'name:zh': '锦山镇驼店村卫生室'}}"
+"{'type': 'node', 'id': 8308099442, 'lat': 42.0275672, 'lon': 119.3266752, 'tags': {'amenity': 'hospital', 'name': '平庄镇中心卫生院', 'name:en': 'Pingzhuangzhen Central Health Station', 'name:zh': '平庄镇中心卫生院'}}"
+"{'type': 'node', 'id': 9248166896, 'lat': 42.2775112, 'lon': 118.9622972, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '人川药店'}}"
+"{'type': 'node', 'id': 9248172192, 'lat': 42.2773275, 'lon': 118.9622833, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '小白治牙'}}"
+"{'type': 'node', 'id': 9248172223, 'lat': 42.2782099, 'lon': 118.9625148, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 10153009222, 'lat': 42.2910793, 'lon': 118.8767874, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

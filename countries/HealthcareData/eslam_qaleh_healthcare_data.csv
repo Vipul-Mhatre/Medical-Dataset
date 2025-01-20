@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 4428241950, 'lat': 35.2425845, 'lon': 60.6172176, 'tags': {'amenity': 'clinic', 'name': 'درمانگاه امام صادق'}}"
+"{'type': 'node', 'id': 10175326131, 'lat': 34.7381592, 'lon': 60.7880724, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'شبکه بهداشت تایباد'}}"
+"{'type': 'node', 'id': 10175326187, 'lat': 34.7446669, 'lon': 60.7919157, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه تامین اجتماعی'}}"
+"{'type': 'node', 'id': 12309481128, 'lat': 35.2430417, 'lon': 60.6240226, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'مطب دکتر بابک الیاسی', 'opening_hours': '09:00-21:00', 'phone': '09155075843'}}"

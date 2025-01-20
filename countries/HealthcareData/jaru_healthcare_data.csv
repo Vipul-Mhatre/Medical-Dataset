@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4493283392, 'lat': -10.8774308, 'lon': -61.948126, 'tags': {'addr:housenumber': '1530', 'addr:postcode': '76900-079', 'addr:street': 'Rua Almirante Barroso', 'addr:suburb': 'Centro', 'alt_name': 'HCR', 'amenity': 'hospital', 'email': 'sus@hospitalhcr.com.br', 'fax': '+55 69 422 2216', 'healthcare': 'hospital', 'name': 'Hospital Cândido Rondon', 'phone': '+55 69 3422 1545', 'ref:CNES': '3152928', 'ref:vatin': 'BR05549728000190'}}"
+"{'type': 'node', 'id': 6147893770, 'lat': -9.931641, 'lon': -63.0570788, 'tags': {'addr:city': 'Ariquemes', 'addr:street': 'Rua Albine Henrique', 'addr:suburb': 'Marechal Rondon', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Posto de Saúde'}}"
+"{'type': 'node', 'id': 12054069418, 'lat': -10.8870134, 'lon': -61.92482, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Unidade Básica de Saúde - L1 Maringá', 'operator': 'government', 'operator:type': 'government'}}"

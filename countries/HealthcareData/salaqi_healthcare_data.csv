@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 10718562950, 'lat': 40.5620028, 'lon': 109.9375701, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '万泉佳苑社区卫生站'}}"
+"{'type': 'node', 'id': 10718562983, 'lat': 40.5460282, 'lon': 109.9713342, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '交界营子村卫生室'}}"
+"{'type': 'node', 'id': 10718562984, 'lat': 40.5414004, 'lon': 109.963309, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '黄草洼村卫生室'}}"
+"{'type': 'node', 'id': 10720861618, 'lat': 40.6691509, 'lon': 109.8376241, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '青松小区社区卫生服务站'}}"
+"{'type': 'node', 'id': 10720861619, 'lat': 40.5901941, 'lon': 110.0212159, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '胜利社区卫生服务站'}}"
+"{'type': 'node', 'id': 10720861624, 'lat': 40.587334, 'lon': 110.022509, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '通顺社区卫生站'}}"
+"{'type': 'node', 'id': 10720861626, 'lat': 40.5623975, 'lon': 110.0129554, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '南海社区卫生服务站'}}"
+"{'type': 'node', 'id': 10720861627, 'lat': 40.6564862, 'lon': 109.8958148, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '民主社区卫生服务站'}}"
+"{'type': 'node', 'id': 10720861628, 'lat': 40.6612546, 'lon': 109.8958798, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '民主路一号社区卫生服务站'}}"
+"{'type': 'node', 'id': 10720861630, 'lat': 40.6707326, 'lon': 109.8795556, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '北嘉社区卫生服务中心'}}"
+"{'type': 'node', 'id': 10763084491, 'lat': 40.590139, 'lon': 110.0595244, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '奥宇新城社区卫生服务站'}}"
+"{'type': 'node', 'id': 11336021385, 'lat': 40.6397008, 'lon': 109.9605089, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '三道沙河村卫生室'}}"

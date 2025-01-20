@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 9280461480, 'lat': 34.9603264, 'lon': 109.578764, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9841625111, 'lat': 34.5155882, 'lon': 109.4746852, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '乡亲大药房'}}"

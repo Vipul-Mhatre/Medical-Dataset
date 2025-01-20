@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 8516746612, 'lat': 14.439657, 'lon': -0.6686908, 'tags': {'amenity': 'hospital', 'name': 'CSPS de Boukessi', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 8520302205, 'lat': 14.6933814, 'lon': -0.249204, 'tags': {'amenity': 'hospital', 'name': 'CSPS de Soukoundou', 'operator': 'Public'}}"
+"{'type': 'node', 'id': 8520685765, 'lat': 14.666, 'lon': -0.4398367, 'tags': {'amenity': 'hospital', 'name': ""CSPS d'Oursi"", 'operator': 'Public'}}"
+"{'type': 'node', 'id': 10196579910, 'lat': 14.024372, 'lon': 0.5594073, 'tags': {'healthcare': 'yes', 'name': 'Case de Santé de Sékomé'}}"

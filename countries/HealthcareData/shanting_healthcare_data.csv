@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 3296326431, 'lat': 34.8193193, 'lon': 117.2962128, 'tags': {'amenity': 'pharmacy', 'name': '百健药品超市'}}"
+"{'type': 'node', 'id': 3296334063, 'lat': 34.8186962, 'lon': 117.2962047, 'tags': {'amenity': 'pharmacy', 'name': '济世堂药房'}}"
+"{'type': 'node', 'id': 3296388040, 'lat': 34.8180326, 'lon': 117.2962014, 'tags': {'amenity': 'pharmacy', 'name': '天缘药品超市'}}"
+"{'type': 'node', 'id': 10743213849, 'lat': 35.5816057, 'lon': 116.9609223, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '辰欣大药房'}}"

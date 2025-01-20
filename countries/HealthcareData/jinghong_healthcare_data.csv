@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 12114445343, 'lat': 21.443751, 'lon': 101.1695864, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'ສຸກສາລາ ບວກຄຸ', 'name:en': 'Bouakhou Health Center', 'operator': 'Ministry of Health', 'operator:type': 'government'}}"
+"{'type': 'node', 'id': 12114445344, 'lat': 21.32659, 'lon': 100.8765415, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'ສຸກສາລາ ຈ່ຽງແຂງ', 'name:en': 'Chiangkheng Health Center', 'operator': 'Ministry of Health', 'operator:type': 'government'}}"
+"{'type': 'node', 'id': 12114445345, 'lat': 21.3314075, 'lon': 101.1698924, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'ສຸກສາລາ ກຸ່ມມອມ', 'name:en': 'Koummom Health Center', 'operator': 'Ministry of Health', 'operator:type': 'government'}}"

@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 2795552717, 'lat': -7.54502, 'lon': -72.5819803, 'tags': {'addr:city': 'Guajará', 'addr:postcode': '69895-000', 'addr:street': 'Avenida Getúlio Vargas', 'addr:suburb': 'Centro', 'amenity': 'hospital', 'email': 'hospitalguajara18@gmail.com', 'healthcare': 'hospital', 'operator:ref:vatin': 'BR22812242000112', 'phone': '+55 97 99170 1612', 'ref:CNES': '2017997'}}"
+"{'type': 'node', 'id': 9173556517, 'lat': -7.5952475, 'lon': -72.6832828, 'tags': {'addr:housenumber': '5121', 'addr:postcode': '69859-000', 'addr:street': 'Avenida Vinte e Cinco de Agosto', 'amenity': 'hospital', 'name': 'Hospital Regional do Juruá', 'opening_hours': '24/7', 'phone': '(68) 3322-5516'}}"

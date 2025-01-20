@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4812841621, 'lat': -21.4412142, 'lon': 27.4576844, 'tags': {'amenity': 'clinic', 'name': 'Masedi Clinic', 'name:en': 'Masedi Clinic', 'operator': 'Botswana Government Property'}}"
+"{'type': 'node', 'id': 5227766948, 'lat': -21.961604, 'lon': 28.4110441, 'tags': {'addr:city': 'Bobonong', 'addr:street': 'Bag 13', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Borotsi Clinic'}}"
+"{'type': 'node', 'id': 5232083285, 'lat': -21.9835923, 'lon': 28.4365187, 'tags': {'addr:housenumber': 'Box', 'addr:street': '334', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Mabaleng Clinic'}}"

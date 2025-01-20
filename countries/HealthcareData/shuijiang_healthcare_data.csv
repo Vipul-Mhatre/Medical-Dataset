@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 5936522431, 'lat': 28.9180721, 'lon': 106.9919765, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 12090045811, 'lat': 28.9458322, 'lon': 106.7106097, 'tags': {'addr:district': '綦江区', 'addr:housenumber': '103号', 'addr:province': '重庆市', 'addr:street': '三酒路', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '重庆103医院', 'phone': '(023)48206434'}}"
+"{'type': 'node', 'id': 12090071542, 'lat': 28.94607, 'lon': 106.7106114, 'tags': {'addr:city': '重庆市', 'addr:district': '綦江区', 'addr:housenumber': '103号', 'addr:province': '重庆市', 'addr:street': '三酒路', 'amenity': 'hospital', 'building': 'hospital', 'healthcare': 'hospital', 'name': '重庆103医院', 'phone': '(023)48206434'}}"

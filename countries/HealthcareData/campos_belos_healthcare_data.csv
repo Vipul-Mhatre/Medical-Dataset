@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 5236195022, 'lat': -13.4003502, 'lon': -46.3158795, 'tags': {'amenity': 'pharmacy', 'name': 'Drogaria São Domingos'}}"
+"{'type': 'node', 'id': 5236197421, 'lat': -13.399727, 'lon': -46.3168059, 'tags': {'amenity': 'pharmacy', 'name': 'Drogaria Popular'}}"
+"{'type': 'node', 'id': 8205967096, 'lat': -13.3322336, 'lon': -46.7857159, 'tags': {'addr:city': 'Monte alegre de goias', 'addr:postcode': '73830000', 'addr:street': 'Avenida da Prata', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Drogaria Popular'}}"

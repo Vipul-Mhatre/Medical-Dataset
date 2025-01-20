@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 1849281871, 'lat': 4.448544, 'lon': 14.3726569, 'tags': {'healthcare': 'yes', 'name': 'Hopital de Batouri'}}"
+"{'type': 'node', 'id': 3779854152, 'lat': 4.5780067, 'lon': 13.701261, 'tags': {'amenity': 'clinic'}}"

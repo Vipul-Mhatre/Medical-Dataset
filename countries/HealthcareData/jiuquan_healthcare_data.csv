@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 1619042497, 'lat': 39.7491954, 'lon': 98.5153727, 'tags': {'amenity': 'hospital', 'name': '酒泉市第二人民医院'}}"
+"{'type': 'node', 'id': 1619042522, 'lat': 39.74352, 'lon': 98.5032266, 'tags': {'amenity': 'hospital', 'name': '酒泉市第一人民医院'}}"
+"{'type': 'node', 'id': 6867167685, 'lat': 39.796375, 'lon': 98.2621838, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '酒钢医院'}}"
+"{'type': 'node', 'id': 7019599581, 'lat': 39.8081671, 'lon': 98.2304929, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '峪泉镇卫生院'}}"
+"{'type': 'node', 'id': 7019651800, 'lat': 39.7923575, 'lon': 98.2727645, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '嘉峪关市第一人民医院'}}"
+"{'type': 'node', 'id': 8017883933, 'lat': 39.7678986, 'lon': 98.2575695, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '嘉峪关市第二人民医院'}}"

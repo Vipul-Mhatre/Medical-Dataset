@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 2917403472, 'lat': 21.829822, 'lon': 112.5582289, 'tags': {'amenity': 'hospital', 'name': '海宴医院'}}"
+"{'type': 'node', 'id': 2917465732, 'lat': 21.88103, 'lon': 112.43661, 'tags': {'amenity': 'hospital', 'name': '台山人民医院横山分院'}}"
+"{'type': 'node', 'id': 3130516047, 'lat': 22.26761, 'lon': 112.22255, 'tags': {'amenity': 'hospital', 'name': '大田医院(恩平)'}}"
+"{'type': 'node', 'id': 3130516048, 'lat': 22.1905881, 'lon': 112.3441156, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '妇幼保健院(恩平)', 'operator': '公立', 'operator:type': 'government'}}"
+"{'type': 'node', 'id': 3130550143, 'lat': 22.10432, 'lon': 112.22538, 'tags': {'amenity': 'hospital', 'name': '大槐医院(恩平)'}}"
+"{'type': 'node', 'id': 3130550144, 'lat': 22.10389, 'lon': 112.22534, 'tags': {'amenity': 'hospital', 'name': '恩侨医院(恩平)'}}"
+"{'type': 'node', 'id': 3130552423, 'lat': 22.24774, 'lon': 112.37889, 'tags': {'amenity': 'hospital', 'name': '东成人民医院(恩平)'}}"
+"{'type': 'node', 'id': 3130552425, 'lat': 22.29203, 'lon': 112.38134, 'tags': {'amenity': 'hospital', 'name': '圣堂中心医院'}}"
+"{'type': 'node', 'id': 3131090953, 'lat': 22.37683, 'lon': 112.38846, 'tags': {'amenity': 'hospital', 'name': '牛江卫生院(恩平)'}}"
+"{'type': 'node', 'id': 6263425383, 'lat': 22.4908622, 'lon': 112.2198513, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 9944145691, 'lat': 22.5008525, 'lon': 112.2206587, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 9984712553, 'lat': 22.3166665, 'lon': 112.3397447, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '良西医院'}}"

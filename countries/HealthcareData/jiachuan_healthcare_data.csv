@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 3162987880, 'lat': 31.8524903, 'lon': 106.7546753, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '友谊医院'}}"
+"{'type': 'node', 'id': 3162987884, 'lat': 31.859337, 'lon': 106.7473949, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '巴中市巴州区人民医院', 'name:en': ""Bazhong District People's Hospital of Bazhong City""}}"
+"{'type': 'node', 'id': 3162987886, 'lat': 31.8472418, 'lon': 106.7649256, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '广济医院'}}"
+"{'type': 'node', 'id': 5894243335, 'lat': 31.8327775, 'lon': 105.6680454, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '杨村镇卫生院'}}"
+"{'type': 'node', 'id': 6382605508, 'lat': 31.7886726, 'lon': 106.6253977, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '巴中市恩阳区人民医院'}}"
+"{'type': 'node', 'id': 6831607698, 'lat': 32.4376912, 'lon': 105.8201247, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 8013573283, 'lat': 32.44632, 'lon': 105.8270556, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 8017331528, 'lat': 31.5523498, 'lon': 105.9905255, 'tags': {'amenity': 'hospital', 'name': '阆中市人民医院'}}"
+"{'type': 'node', 'id': 8017332103, 'lat': 31.5767599, 'lon': 105.974451, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 8144017768, 'lat': 32.2305621, 'lon': 106.2829771, 'tags': {'addr:city': 'Guangyuan', 'addr:district': 'Wangcang', 'addr:housenumber': '471', 'addr:postcode': '628200', 'addr:province': 'Sichuan', 'addr:street': 'Xinhua Street', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '旺苍县人民医院', 'name:en': ""People's Hospital of Wangcang County"", 'operator:type': 'government', 'phone': '+86 839 420 2817', 'website': 'https://www.wangcang120.com/'}}"
+"{'type': 'node', 'id': 9053565220, 'lat': 32.4377274, 'lon': 105.8333373, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor'}}"
+"{'type': 'node', 'id': 12229201154, 'lat': 31.983616, 'lon': 105.6341971, 'tags': {'healthcare': 'yes', 'name': '剑阁县木马镇卫生院'}}"

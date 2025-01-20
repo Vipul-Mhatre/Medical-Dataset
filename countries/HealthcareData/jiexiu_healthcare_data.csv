@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 3099894543, 'lat': 37.271837, 'lon': 111.7809906, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '汾阳医院'}}"
+"{'type': 'node', 'id': 3101406466, 'lat': 37.2751294, 'lon': 111.7769258, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '儿童医院'}}"
+"{'type': 'node', 'id': 3388962145, 'lat': 37.2058583, 'lon': 112.1783417, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 7317871660, 'lat': 37.4368873, 'lon': 112.030925, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Whenshui Hospital'}}"
+"{'type': 'node', 'id': 7317871663, 'lat': 37.4359438, 'lon': 112.0311074, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Huiming chemist'}}"

@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 2681701314, 'lat': 29.0589013, 'lon': 104.3386392, 'tags': {'addr:housename': '宜宾县观音镇万里乡', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '万里（万青）', 'note': '万里乡集市'}}"
+"{'type': 'node', 'id': 2871642783, 'lat': 29.0225654, 'lon': 104.2389717, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 2905434108, 'lat': 29.5821081, 'lon': 103.4373203, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 3021464357, 'lat': 29.0825614, 'lon': 104.424315, 'tags': {'amenity': 'hospital', 'name': '凤竹'}}"
+"{'type': 'node', 'id': 3329545532, 'lat': 29.0993244, 'lon': 104.3914964, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '惠康医院'}}"
+"{'type': 'node', 'id': 3360774310, 'lat': 29.0969351, 'lon': 104.3964138, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '门诊部'}}"
+"{'type': 'node', 'id': 3523322999, 'lat': 30.0205819, 'lon': 104.1560524, 'tags': {'amenity': 'hospital', 'name': '仁寿县人民医院'}}"
+"{'type': 'node', 'id': 7141500339, 'lat': 29.5899443, 'lon': 103.7460888, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9654319256, 'lat': 29.4180908, 'lon': 103.5479892, 'tags': {'alt_name': '乐山市第五人民医院', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '沙湾区人民医院'}}"
+"{'type': 'node', 'id': 10588044067, 'lat': 29.0858044, 'lon': 104.3868894, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '叙州区第三人民医院'}}"
+"{'type': 'node', 'id': 11365907020, 'lat': 29.5983702, 'lon': 103.4826048, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '峨眉山市人民医院'}}"

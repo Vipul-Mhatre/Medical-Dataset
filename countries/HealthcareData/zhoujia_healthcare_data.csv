@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 4713667485, 'lat': 30.7430509, 'lon': 107.211604, 'tags': {'amenity': 'hospital', 'name': '大竹县中医院'}}"
+"{'type': 'node', 'id': 4728708995, 'lat': 30.8430518, 'lon': 106.9633032, 'tags': {'amenity': 'hospital', 'name': '渠县人民医院'}}"
+"{'type': 'node', 'id': 5241218528, 'lat': 30.3492971, 'lon': 106.9230624, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '邻水县人民医院'}}"
+"{'type': 'node', 'id': 5339190637, 'lat': 31.0842977, 'lon': 107.8630346, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '开县人民医院'}}"
+"{'type': 'node', 'id': 12194378452, 'lat': 29.9964957, 'lon': 108.1080157, 'tags': {'healthcare': 'yes', 'name': '妇幼保健院'}}"

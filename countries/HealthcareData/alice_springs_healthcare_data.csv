@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 2345479275, 'lat': -23.6966794, 'lon': 133.8901679, 'tags': {'healthcare': 'psychotherapist', 'name': 'MHACA', 'old_name': 'Muk Muk Fine Art', 'phone': '+61 8 8950 4600', 'website': 'https://www.mhaca.org.au/'}}"
+"{'type': 'node', 'id': 2377985488, 'lat': -23.6970268, 'lon': 133.8829975, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'old_name': 'Headspace Central Australia'}}"
+"{'type': 'node', 'id': 3798032559, 'lat': -24.1308387, 'lon': 134.3755784, 'tags': {'amenity': 'clinic', 'name': 'Ltyentye Purte Health Centre'}}"
+"{'type': 'node', 'id': 5527150221, 'lat': -23.6984528, 'lon': 133.8832677, 'tags': {'amenity': 'pharmacy', 'brand': 'Priceline Pharmacy', 'brand:wikidata': 'Q7242652', 'brand:wikipedia': 'en:Priceline (Australia)', 'healthcare': 'pharmacy', 'name': 'Priceline Pharmacy'}}"
+"{'type': 'node', 'id': 11330386229, 'lat': -23.7658383, 'lon': 133.9360495, 'tags': {'addr:housenumber': '60', 'addr:postcode': '0873', 'addr:state': 'NT', 'addr:street': 'White Gum Drive', 'addr:suburb': 'Amoonguna', 'addr:unit': 'Lot', 'email': 'info@caac.org.au', 'healthcare': 'clinic', 'name': 'Amoonguna Health Centre', 'operator': 'CENTRAL AUSTRALIAN ABORIGINAL CONGRESS ABORIGINAL CORPORATION', 'operator:type': 'community', 'phone': '+61 8 8952 9327', 'website': 'https://www.caac.org.au/clinic/amoonguna-clinic/'}}"

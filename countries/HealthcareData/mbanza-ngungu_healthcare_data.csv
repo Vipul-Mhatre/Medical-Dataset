@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 6105483465, 'lat': -4.5893606, 'lon': 15.1666624, 'tags': {'healthcare': 'yes', 'name': 'Centre de Santé Kasangulu'}}"
+"{'type': 'node', 'id': 7153015718, 'lat': -5.2553984, 'lon': 14.8529395, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Dispensaire ONATRA'}}"
+"{'type': 'node', 'id': 7153020415, 'lat': -5.2500508, 'lon': 14.8494965, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'EFAT-EBEL'}}"
+"{'type': 'node', 'id': 7216466436, 'lat': -5.238063, 'lon': 14.8737945, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de Santé'}}"
+"{'type': 'node', 'id': 7218685637, 'lat': -5.2424855, 'lon': 14.8775341, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'hopital CBFC LOMA'}}"
+"{'type': 'node', 'id': 7218685641, 'lat': -5.2345241, 'lon': 14.8756709, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de santé maman marie'}}"
+"{'type': 'node', 'id': 7218685642, 'lat': -5.2365929, 'lon': 14.8724226, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de Santé MERMANCE'}}"
+"{'type': 'node', 'id': 7218685643, 'lat': -5.2330828, 'lon': 14.8715932, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de Santé Kimbanguiste'}}"
+"{'type': 'node', 'id': 7218735500, 'lat': -5.2506924, 'lon': 14.8863341, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre Medical EBEYA'}}"
+"{'type': 'node', 'id': 7218859060, 'lat': -5.2541627, 'lon': 14.8607537, 'tags': {'healthcare': 'hospice'}}"
+"{'type': 'node', 'id': 7218859061, 'lat': -5.2523804, 'lon': 14.8588325, 'tags': {'addr:city': 'mbanza ngungu', 'healthcare': 'centre', 'healthcare:speciality': 'maternity;medecine_interne', 'name': 'centre de santé maternité de la cité', 'operator': 'ministere de la santé'}}"

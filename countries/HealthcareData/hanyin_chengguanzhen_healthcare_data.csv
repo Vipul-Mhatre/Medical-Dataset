@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 6565801799, 'lat': 32.6923851, 'lon': 109.0230107, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安康市中心医院'}}"
+"{'type': 'node', 'id': 6565801800, 'lat': 32.6937404, 'lon': 109.0343598, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安康市中医医院'}}"
+"{'type': 'node', 'id': 6565801808, 'lat': 32.707546, 'lon': 109.0142232, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安康市人民医院'}}"
+"{'type': 'node', 'id': 6565801874, 'lat': 32.7006292, 'lon': 108.986109, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '高新医院'}}"
+"{'type': 'node', 'id': 12309263401, 'lat': 32.7355092, 'lon': 109.1010011, 'tags': {'amenity': 'clinic', 'name': '段内医护室'}}"
+"{'type': 'node', 'id': 12317849503, 'lat': 32.710601, 'lon': 109.0160754, 'tags': {'amenity': 'hospital', 'name': '金州医院'}}"
+"{'type': 'node', 'id': 12317851304, 'lat': 32.7110137, 'lon': 109.0179243, 'tags': {'amenity': 'pharmacy', 'name': '百家惠大药房'}}"
+"{'type': 'node', 'id': 12317851305, 'lat': 32.7097276, 'lon': 109.0203989, 'tags': {'amenity': 'clinic', 'name': '西铁安康疾控'}}"

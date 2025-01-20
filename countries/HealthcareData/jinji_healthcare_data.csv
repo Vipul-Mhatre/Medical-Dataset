@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 4811631186, 'lat': 22.8582878, 'lon': 111.4637286, 'tags': {'amenity': 'hospital', 'name': '卫生院'}}"
+"{'type': 'node', 'id': 5577703295, 'lat': 22.6451031, 'lon': 111.109471, 'tags': {'amenity': 'clinic', 'name': '回龙村卫生站'}}"
+"{'type': 'node', 'id': 9882816179, 'lat': 22.6007658, 'lon': 110.7877277, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '容县杨村镇卫生院'}}"
+"{'type': 'node', 'id': 10822824876, 'lat': 22.6380922, 'lon': 110.1516055, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '玉林市第一人民医院'}}"
+"{'type': 'node', 'id': 10859957260, 'lat': 22.6206539, 'lon': 110.1712732, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '桂芝堂药业'}}"

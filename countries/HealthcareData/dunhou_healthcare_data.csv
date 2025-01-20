@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 4659538442, 'lat': 27.1170763, 'lon': 114.9733562, 'tags': {'amenity': 'clinic', 'name': '白塘卫生院'}}"
+"{'type': 'node', 'id': 4659613964, 'lat': 26.9829918, 'lon': 115.1089096, 'tags': {'amenity': 'hospital', 'name': '值夏医院'}}"
+"{'type': 'node', 'id': 5246669541, 'lat': 27.2176726, 'lon': 115.1307285, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'gynaecology', 'name': '吉水县妇幼保健院'}}"
+"{'type': 'node', 'id': 7137247131, 'lat': 27.1085944, 'lon': 114.9732401, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '吉安市妇幼保健院'}}"

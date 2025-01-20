@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 3451784639, 'lat': 4.7806473, 'lon': 22.8605216, 'tags': {'amenity': 'pharmacy', 'dispensing': 'no', 'name': 'Depot Pharmaceutique Barama CDES', 'note': 'Wholesale'}}"
+"{'type': 'node', 'id': 3528950730, 'lat': 4.8549633, 'lon': 22.7896581, 'tags': {'amenity': 'clinic', 'name': 'Poste De Sante Oudandi'}}"
+"{'type': 'node', 'id': 3529009625, 'lat': 4.6646993, 'lon': 22.530453, 'tags': {'amenity': 'clinic', 'name': 'Pds Mabo'}}"
+"{'type': 'node', 'id': 3545491589, 'lat': 4.7424094, 'lon': 22.8290969, 'tags': {'amenity': 'hospital', 'name': 'HURB'}}"
+"{'type': 'node', 'id': 3554954223, 'lat': 5.0992245, 'lon': 22.774062, 'tags': {'alt_name': 'Pk50', 'amenity': 'hospital', 'name': 'Centre de Sante Banabongo Pk50 Bssou'}}"
+"{'type': 'node', 'id': 3670323118, 'lat': 4.9009792, 'lon': 22.6222282, 'tags': {'alt_name': 'Pk33', 'amenity': 'hospital', 'name': 'Poste De Sante Nganzi'}}"
+"{'type': 'node', 'id': 3670534655, 'lat': 5.0664373, 'lon': 22.4123516, 'tags': {'amenity': 'hospital', 'name': 'Poste De Sante Ndanda'}}"
+"{'type': 'node', 'id': 5000266554, 'lat': 4.7435827, 'lon': 22.8277324, 'tags': {'amenity': 'hospital', 'name': 'Hôpital MSF-B'}}"
+"{'type': 'node', 'id': 8904561276, 'lat': 4.6515027, 'lon': 22.2207102, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Poste de santé de Gandakototi'}}"
+"{'type': 'node', 'id': 8942429414, 'lat': 4.3104777, 'lon': 22.5535271, 'tags': {'healthcare': 'yes'}}"

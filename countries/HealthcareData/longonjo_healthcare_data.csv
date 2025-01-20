@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 10011239585, 'lat': -12.7744152, 'lon': 15.728417, 'tags': {'amenity': 'pharmacy', 'name': 'Farmácia Chitunda'}}"
+"{'type': 'node', 'id': 10011239589, 'lat': -12.7781077, 'lon': 15.7356185, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Farmácia Portugal'}}"
+"{'type': 'node', 'id': 10011239608, 'lat': -12.7671085, 'lon': 15.7457305, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Clínica Chissola'}}"
+"{'type': 'node', 'id': 11254722423, 'lat': -12.7685901, 'lon': 15.7430704, 'tags': {'addr:city': 'Huambo', 'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Farmácia central da baixa'}}"

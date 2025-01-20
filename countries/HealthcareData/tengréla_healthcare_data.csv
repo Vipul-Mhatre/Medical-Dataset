@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 2158443110, 'lat': 10.5521808, 'lon': -5.7621084, 'tags': {'amenity': 'clinic', 'fixme': 'Approx. location : should be verified', 'health_facility:type': 'CSRef', 'name': 'Centre de Santé de Référence de Kadiolo', 'pcode': 'ML03R03C000', 'source': 'OMS Survey', 'start_date': '1-Apr-1999', 'who:code_csref': 'ML03R03', 'who:distance': '110', 'who:nbre_village': '0'}}"
+"{'type': 'node', 'id': 3189067704, 'lat': 11.0835415, 'lon': -6.8928284, 'tags': {'amenity': 'clinic', 'fixme': 'Location approximate', 'health_facility:type': 'CSRef', 'name': 'Centre de Santé de Référence de Kolondieba', 'pcode': 'ML03R05C000', 'source': 'OMS Survey', 'start_date': '1-Jan-1994', 'who:code_csref': 'ML03R05', 'who:distance': '200', 'who:nbre_village': '0'}}"
+"{'type': 'node', 'id': 7688748858, 'lat': 9.8317669, 'lon': -6.4504284, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hôpital de Gbon'}}"
+"{'type': 'node', 'id': 7775297702, 'lat': 9.8972449, 'lon': -6.5016827, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9348617818, 'lat': 10.6690329, 'lon': -5.9806407, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'CSCOM de Gouene'}}"
+"{'type': 'node', 'id': 10087697317, 'lat': 11.0787523, 'lon': -6.8768995, 'tags': {'healthcare': 'hospital', 'name': 'CSRef de Kolondieba', 'survey:date': '2022-10-09'}}"
+"{'type': 'node', 'id': 10090231965, 'lat': 11.0859355, 'lon': -6.8873479, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Officine Kolondié'}}"
+"{'type': 'node', 'id': 10090238439, 'lat': 11.0869662, 'lon': -6.9002885, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'CSCom De Kolondieba'}}"
+"{'type': 'node', 'id': 10096194117, 'lat': 10.7447872, 'lon': -6.5032105, 'tags': {'healthcare': 'hospital', 'name': 'CSCom de Kadiana', 'survey:date': '2022-10-12'}}"
+"{'type': 'node', 'id': 10102624118, 'lat': 11.0588715, 'lon': -6.6254424, 'tags': {'healthcare': 'hospital', 'name': 'CSCom de Tousseguela', 'opening_hours': '24/7', 'survey:date': '2022-10-15', 'wheelchair': 'yes'}}"
+"{'type': 'node', 'id': 10196988818, 'lat': 10.8526737, 'lon': -6.4668873, 'tags': {'healthcare': 'birthing_centre', 'name': 'Maternité de Blindio', 'survey:date': '2022-11-17'}}"

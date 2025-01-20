@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 2370746337, 'lat': 36.6746879, 'lon': 68.9007718, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5181579623, 'lat': 37.1275515, 'lon': 68.2298948, 'tags': {'amenity': 'hospital', 'name': 'Духтурхона', 'name:en': 'Doctor Home', 'name:ru': 'Духтурхона'}}"
+"{'type': 'node', 'id': 5344191322, 'lat': 37.1190368, 'lon': 68.2318396, 'tags': {'amenity': 'hospital', 'name': 'Эшдавлат духтур', 'name:ru': 'Эшдавлат духтур'}}"
+"{'type': 'node', 'id': 5522172621, 'lat': 37.2324685, 'lon': 69.0978871, 'tags': {'amenity': 'pharmacy', 'name': 'нохияи Панч марказ'}}"
+"{'type': 'node', 'id': 5841329185, 'lat': 36.7191649, 'lon': 68.8709435, 'tags': {'amenity': 'clinic', 'name': 'شفاخانه رحمان بابا', 'name:en': 'Rahman baba clinic'}}"

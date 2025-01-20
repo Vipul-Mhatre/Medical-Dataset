@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 3410558041, 'lat': -11.1713504, 'lon': -61.9040683, 'tags': {'amenity': 'pharmacy', 'name': 'Farmácia Rondônia'}}"
+"{'type': 'node', 'id': 4493283392, 'lat': -10.8774308, 'lon': -61.948126, 'tags': {'addr:housenumber': '1530', 'addr:postcode': '76900-079', 'addr:street': 'Rua Almirante Barroso', 'addr:suburb': 'Centro', 'alt_name': 'HCR', 'amenity': 'hospital', 'email': 'sus@hospitalhcr.com.br', 'fax': '+55 69 422 2216', 'healthcare': 'hospital', 'name': 'Hospital Cândido Rondon', 'phone': '+55 69 3422 1545', 'ref:CNES': '3152928', 'ref:vatin': 'BR05549728000190'}}"
+"{'type': 'node', 'id': 6944017528, 'lat': -11.3458163, 'lon': -62.2817088, 'tags': {'addr:city': ""Alvorada D'Oeste"", 'addr:postcode': '7693000', 'addr:street': 'Rua Carlos Gomes', 'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': ""Hospital Municipal de Alvorada D'Oeste""}}"
+"{'type': 'node', 'id': 7005944355, 'lat': -11.1714574, 'lon': -61.9020578, 'tags': {'amenity': 'pharmacy', 'name': 'Farmácia Santa Maria'}}"
+"{'type': 'node', 'id': 12054069418, 'lat': -10.8870134, 'lon': -61.92482, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Unidade Básica de Saúde - L1 Maringá', 'operator': 'government', 'operator:type': 'government'}}"

@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 1013434376, 'lat': 4.0765156, 'lon': 11.2097151, 'tags': {'amenity': 'hospital', 'beds': '6', 'consultation': '5/month', 'doctors': '1', 'laboratory': '0', 'medical_service:malaria': 'no', 'medical_service:vct_hiv_counselling_test': 'no', 'name': 'Central Medical de Nkol Poblo', 'pharmacy': '0'}}"
+"{'type': 'node', 'id': 6021352188, 'lat': 4.1663908, 'lon': 11.5351055, 'tags': {'amenity': 'pharmacy', 'name': 'Afamba'}}"
+"{'type': 'node', 'id': 6112301285, 'lat': 4.1651556, 'lon': 11.5342753, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Pharmacie Saint Thomas'}}"
+"{'type': 'node', 'id': 8958138709, 'lat': 4.4141224, 'lon': 11.3805109, 'tags': {'amenity': 'hospital'}}"

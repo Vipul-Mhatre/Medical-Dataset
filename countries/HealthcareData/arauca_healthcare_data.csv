@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 2478261924, 'lat': 7.081111, 'lon': -70.7530393, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 4882516933, 'lat': 7.0816498, 'lon': -70.7507474, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Centro médico Bio Análisis IPS'}}"
+"{'type': 'node', 'id': 9006676656, 'lat': 7.0871928, 'lon': -70.7551006, 'tags': {'amenity': 'clinic', 'healthcare': 'health_post', 'name': 'IPS MEDYTEC Salud', 'phone': '+57 607 8853881'}}"
+"{'type': 'node', 'id': 9412753572, 'lat': 6.6872159, 'lon': -71.3449818, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hospital Juan de jesus Coronel'}}"
+"{'type': 'node', 'id': 11263280355, 'lat': 7.0822668, 'lon': -70.7523638, 'tags': {'amenity': 'pharmacy', 'name': 'Droguería Paz'}}"
+"{'type': 'node', 'id': 11887154841, 'lat': 7.0303006, 'lon': -71.4313736, 'tags': {'amenity': 'clinic', 'description': 'institución prestador de salud', 'name': 'IPS Sikuaso'}}"
+"{'type': 'node', 'id': 11893841954, 'lat': 6.6854376, 'lon': -70.6509009, 'tags': {'amenity': 'clinic', 'name': 'Centro de Salud Las Monas'}}"
+"{'type': 'node', 'id': 12342556093, 'lat': 7.0847798, 'lon': -70.7446726, 'tags': {'healthcare': 'yes', 'name': 'Sikuaso IPSI'}}"

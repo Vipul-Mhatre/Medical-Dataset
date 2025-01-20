@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 3718263268, 'lat': 27.7688106, 'lon': 99.4267397, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3910130891, 'lat': 27.8064486, 'lon': 99.7065242, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 4189362926, 'lat': 27.8186593, 'lon': 99.7026545, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 5430983031, 'lat': 27.1059373, 'lon': 100.2536261, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 6847417023, 'lat': 26.8696884, 'lon': 99.9575073, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 9060649454, 'lat': 26.9912497, 'lon': 100.158843, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '卫生室'}}"
+"{'type': 'node', 'id': 9188746130, 'lat': 26.873252, 'lon': 100.2397366, 'tags': {'amenity': 'pharmacy', 'name': '古城区康骏大药房', 'name:zh': '古城区康骏大药房'}}"
+"{'type': 'node', 'id': 9188747162, 'lat': 26.868678, 'lon': 100.2270578, 'tags': {'amenity': 'hospital', 'name': '华康皮肤泌尿医院', 'name:en': 'Huakangpifuminiao Hospital', 'name:zh': '华康皮肤泌尿医院'}}"
+"{'type': 'node', 'id': 9188820135, 'lat': 26.8685434, 'lon': 100.2399391, 'tags': {'amenity': 'pharmacy', 'name': '益馨大药房', 'name:zh': '益馨大药房'}}"
+"{'type': 'node', 'id': 9231467200, 'lat': 26.9573919, 'lon': 100.2164684, 'tags': {'amenity': 'pharmacy', 'name': '寿堂大药房', 'name:zh': '寿堂大药房'}}"
+"{'type': 'node', 'id': 11951654259, 'lat': 27.0538413, 'lon': 100.0745539, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 11966515050, 'lat': 27.702296, 'lon': 99.0471767, 'tags': {'healthcare': 'centre', 'name': '叶枝中心卫生院'}}"

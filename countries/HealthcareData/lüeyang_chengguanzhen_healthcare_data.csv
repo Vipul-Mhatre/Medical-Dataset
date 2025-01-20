@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 8367596038, 'lat': 33.9090481, 'lon': 106.3018908, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 8367596106, 'lat': 33.9131388, 'lon': 106.3027794, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '中医诊所'}}"
+"{'type': 'node', 'id': 8367596109, 'lat': 33.9128891, 'lon': 106.3027875, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '石佑平诊所'}}"
+"{'type': 'node', 'id': 8367788195, 'lat': 33.7667586, 'lon': 106.0845167, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 8367788197, 'lat': 33.766482, 'lon': 106.0841805, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 8367788200, 'lat': 33.7639198, 'lon': 106.0865732, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 8564438351, 'lat': 33.3343337, 'lon': 106.1497965, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '众友健康药店'}}"
+"{'type': 'node', 'id': 8865927518, 'lat': 33.9157015, 'lon': 106.5198246, 'tags': {'amenity': 'pharmacy', 'name': '众友健康药房'}}"
+"{'type': 'node', 'id': 8865927528, 'lat': 33.916761, 'lon': 106.5193498, 'tags': {'amenity': 'hospital', 'name': '凤县医院'}}"
+"{'type': 'node', 'id': 11924605857, 'lat': 33.1492969, 'lon': 106.6582829, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '勉县医院'}}"

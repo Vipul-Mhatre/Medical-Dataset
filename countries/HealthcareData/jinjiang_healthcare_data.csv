@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 2271333485, 'lat': 20.042578, 'lon': 110.3316124, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '海南省人民医院', 'name:en': ""Hainan Provincial People's Hospital"", 'name:zh': '海南省人民医院'}}"
+"{'type': 'node', 'id': 4733625680, 'lat': 20.0118407, 'lon': 110.1985708, 'tags': {'amenity': 'hospital', 'amenity_1': 'bank', 'amenity_2': 'restaurant', 'amenity_3': '海湾', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 4739788004, 'lat': 19.3626785, 'lon': 110.0990965, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '屯昌县人民医院'}}"
+"{'type': 'node', 'id': 4739789261, 'lat': 19.3614178, 'lon': 110.0980149, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '屯昌县妇婴医院'}}"
+"{'type': 'node', 'id': 5367995808, 'lat': 19.9174648, 'lon': 109.6892337, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '社区服务诊所'}}"
+"{'type': 'node', 'id': 6973118319, 'lat': 19.31858, 'lon': 109.9419698, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南坤卫生院'}}"
+"{'type': 'node', 'id': 6973239425, 'lat': 19.2141286, 'lon': 110.0114899, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '枫木中心卫生院'}}"
+"{'type': 'node', 'id': 10026519178, 'lat': 19.3194987, 'lon': 109.9467112, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '农场药店'}}"
+"{'type': 'node', 'id': 10656725699, 'lat': 19.9917539, 'lon': 110.3347704, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '928医院'}}"

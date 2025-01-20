@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 6451365894, 'lat': 22.6512375, 'lon': 114.7543571, 'tags': {'healthcare': 'yes', 'name': '巽寮滨海旅游度假区榄涌村卫生站'}}"
+"{'type': 'node', 'id': 9270029512, 'lat': 22.836747, 'lon': 114.9866398, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '北京大学深圳医院（深汕门诊部）'}}"
+"{'type': 'node', 'id': 11162640097, 'lat': 22.9546584, 'lon': 115.6408692, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '陆丰眼科医院'}}"

@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 9785227074, 'lat': 41.861713, 'lon': 123.4004574, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '弘道堂卦馆中医按摩'}}"
+"{'type': 'node', 'id': 9785227082, 'lat': 41.8613563, 'lon': 123.4004196, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '朱兴国诊所'}}"

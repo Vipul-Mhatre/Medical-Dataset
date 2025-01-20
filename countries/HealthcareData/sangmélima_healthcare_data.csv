@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 2154302291, 'lat': 3.535583, 'lon': 11.9791255, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de santé de Mefindi', 'source': 'WRI_2005'}}"
+"{'type': 'node', 'id': 5303143122, 'lat': 3.5208244, 'lon': 11.5053473, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie Vimli'}}"
+"{'type': 'node', 'id': 7340161791, 'lat': 3.3445489, 'lon': 12.1805709, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de santé intégré de Akak', 'operator': 'Ministère de la santé'}}"
+"{'type': 'node', 'id': 7340223830, 'lat': 3.5399968, 'lon': 11.9696205, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de santé intégré de Edjom', 'operator': 'Ministère de la santé publique', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 7340336961, 'lat': 3.4233092, 'lon': 12.1382341, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': ""Centre de santé intégré d'Ekoudou"", 'operator': 'Ministère de la santé publique', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 7340406444, 'lat': 3.5053204, 'lon': 12.1036299, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': ""Centre médical autonome d'Endom"", 'operator': 'Ministère de la santé publique', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 7341036553, 'lat': 3.603144, 'lon': 12.0923239, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Centre de santé intégré de Zalom', 'operator': 'Ministère de la santé publique', 'operator:type': 'public'}}"
+"{'type': 'node', 'id': 7801588585, 'lat': 3.5161856, 'lon': 11.5144111, 'tags': {'amenity': 'hospital', 'name': 'Hôpital Rosaire', 'name:fr': 'Hôpital Rosaire'}}"
+"{'type': 'node', 'id': 7801589185, 'lat': 3.5198787, 'lon': 11.5042933, 'tags': {'addr:postcode': '237', 'amenity': 'hospital', 'building': 'yes', 'healthcare': 'hospital', 'name': 'BAM', 'name:en': 'Mbalmayo district hospital', 'name:fr': 'Hôpital de district de mbalmayo'}}"
+"{'type': 'node', 'id': 11482261166, 'lat': 3.5275258, 'lon': 11.5147121, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie Tabita'}}"
+"{'type': 'node', 'id': 11628075542, 'lat': 3.5164171, 'lon': 11.5017427, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"

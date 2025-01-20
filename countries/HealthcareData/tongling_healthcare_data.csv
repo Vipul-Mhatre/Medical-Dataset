@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 8093165207, 'lat': 30.9128899, 'lon': 117.5646324, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '金猴大药房'}}"
+"{'type': 'node', 'id': 8133015005, 'lat': 30.9129367, 'lon': 117.5673977, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '麦迪开大药房周潭店'}}"
+"{'type': 'node', 'id': 8133015006, 'lat': 30.9128201, 'lon': 117.5664566, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '东恒堂大药房'}}"
+"{'type': 'node', 'id': 10187963363, 'lat': 31.0502437, 'lon': 117.4411891, 'tags': {'healthcare': 'yes', 'name': '临时核酸检测点'}}"
+"{'type': 'node', 'id': 10908368989, 'lat': 31.2613345, 'lon': 117.2732211, 'tags': {'healthcare': 'birthing_centre', 'name': '壹嘉国际母婴月子中心'}}"
+"{'type': 'node', 'id': 11754589825, 'lat': 30.8212453, 'lon': 117.2523239, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 11901257965, 'lat': 31.2447601, 'lon': 117.2854993, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '急诊中心'}}"
+"{'type': 'node', 'id': 12065431378, 'lat': 30.315031, 'lon': 118.4140028, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"

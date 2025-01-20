@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 4123693083, 'lat': -15.9072872, 'lon': -44.2967738, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5842562700, 'lat': -16.4153779, 'lon': -44.2197452, 'tags': {'addr:city': 'Coração de Jesus', 'addr:postcode': '39347000', 'addr:street': 'Praça da Matriz', 'addr:suburb': 'Alvação', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS Alvação'}}"
+"{'type': 'node', 'id': 5842603326, 'lat': -16.4154272, 'lon': -44.2189636, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Posto de Medicamentos Alvação'}}"
+"{'type': 'node', 'id': 6110033362, 'lat': -15.4896067, 'lon': -44.3669182, 'tags': {'addr:street': 'Avenida Itapiraçaba', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hospital Santa Helena'}}"
+"{'type': 'node', 'id': 6720148851, 'lat': -16.1315262, 'lon': -44.224833, 'tags': {'addr:postcode': '39373-000', 'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 10128677037, 'lat': -15.954622, 'lon': -44.8649776, 'tags': {'addr:city': 'São Francisco', 'addr:housenumber': '1313', 'addr:postcode': '39300000', 'addr:street': 'Avenida Oscar Caetano', 'addr:suburb': 'Centro', 'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Policlínica Diagnose'}}"

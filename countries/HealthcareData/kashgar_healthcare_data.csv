@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 5086308222, 'lat': 39.4836652, 'lon': 75.9907007, 'tags': {'amenity': 'hospital', 'name:en': ""Xinjiang Kashgar first people's hospital""}}"
+"{'type': 'node', 'id': 5919768186, 'lat': 39.4719527, 'lon': 75.9718562, 'tags': {'addr:housenumber': '285', 'addr:street': 'Seman Lu', 'amenity': 'clinic', 'healthcare': 'clinic', 'name:de': 'Augenklinik', 'name:en': 'Eye Hospital'}}"
+"{'type': 'node', 'id': 6799021789, 'lat': 39.465354, 'lon': 75.9752632, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 6799021790, 'lat': 39.4728471, 'lon': 75.9791614, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 6799022386, 'lat': 39.47305, 'lon': 75.9753827, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 9189782589, 'lat': 39.4786561, 'lon': 75.9949829, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '同仁妇科医院'}}"

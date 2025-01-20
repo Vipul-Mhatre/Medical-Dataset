@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 5177676360, 'lat': 35.9523504, 'lon': 120.179372, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '一丰堂大药房'}}"
+"{'type': 'node', 'id': 5257315522, 'lat': 35.9705451, 'lon': 120.1769684, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '青岛丽人妇产医院'}}"
+"{'type': 'node', 'id': 5344345046, 'lat': 35.9658732, 'lon': 120.1836714, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '青岛拜博口腔医院'}}"
+"{'type': 'node', 'id': 7792966512, 'lat': 35.9917339, 'lon': 119.4010203, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '和平药业'}}"
+"{'type': 'node', 'id': 7794466592, 'lat': 35.9892582, 'lon': 119.4046567, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '力生源大药房'}}"
+"{'type': 'node', 'id': 7794466593, 'lat': 35.9886567, 'lon': 119.4042026, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '海王医药'}}"
+"{'type': 'node', 'id': 7795684781, 'lat': 36.0036519, 'lon': 119.3882707, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '邱家庄卫生室'}}"
+"{'type': 'node', 'id': 9122015396, 'lat': 35.9411447, 'lon': 120.1652594, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '急救中心'}}"
+"{'type': 'node', 'id': 12415129951, 'lat': 35.9848453, 'lon': 120.1645253, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '开发区张敬杰儿科诊所'}}"

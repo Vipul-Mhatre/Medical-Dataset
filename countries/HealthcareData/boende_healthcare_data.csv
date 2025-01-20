@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 7351065296, 'lat': -0.2014246, 'lon': 21.0925121, 'tags': {'amenity': 'doctors', 'health_facility:CD': 'cs', 'healthcare': 'centre', 'name': 'Centre de Santé Iyali Boonde'}}"
+"{'type': 'node', 'id': 7351125567, 'lat': -0.11027, 'lon': 20.6443503, 'tags': {'amenity': 'doctors', 'health_facility:CD': 'cs', 'healthcare': 'centre', 'name': 'Centre de Santé Batanga'}}"
+"{'type': 'node', 'id': 7351769326, 'lat': -0.0443582, 'lon': 21.3491483, 'tags': {'amenity': 'doctors', 'health_facility:CD': 'cs', 'healthcare': 'centre', 'name': 'Centre de Santé Bekili'}}"

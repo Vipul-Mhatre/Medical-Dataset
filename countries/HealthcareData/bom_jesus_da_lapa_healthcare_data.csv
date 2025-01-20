@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 3690743662, 'lat': -13.9102692, 'lon': -42.8433483, 'tags': {'addr:city': 'Matina', 'amenity': 'hospital', 'emergency': 'yes'}}"
+"{'type': 'node', 'id': 3690747946, 'lat': -13.908287, 'lon': -42.8454118, 'tags': {'addr:city': 'Matina', 'amenity': 'hospital', 'name': 'Samu', 'source': 'IBGE Mapa de Setores Urbanos'}}"
+"{'type': 'node', 'id': 3690747952, 'lat': -13.9083755, 'lon': -42.8480872, 'tags': {'addr:city': 'Matina', 'amenity': 'hospital', 'name': 'Programa de Saúde da Família - PSF', 'source': 'IBGE Mapa de Setores Urbanos'}}"
+"{'type': 'node', 'id': 9570964246, 'lat': -13.543937, 'lon': -43.5767947, 'tags': {'addr:city': 'Serra do Ramalho', 'addr:housenumber': '539', 'addr:postcode': '47630-000', 'addr:street': 'Rua Pernambuco', 'addr:suburb': 'centro', 'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'Dra Monessa dias Odontologia', 'opening_hours': 'Mo-Sa 08:00-18:00'}}"

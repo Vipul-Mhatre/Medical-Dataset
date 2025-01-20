@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 1761981595, 'lat': 37.3426141, 'lon': 121.5430635, 'tags': {'amenity': 'pharmacy', 'name': '大药房'}}"
+"{'type': 'node', 'id': 1761981596, 'lat': 37.3431588, 'lon': 121.5422414, 'tags': {'amenity': 'pharmacy', 'name': '诊所'}}"
+"{'type': 'node', 'id': 1761981597, 'lat': 37.3440118, 'lon': 121.5414689, 'tags': {'amenity': 'pharmacy', 'name': '陡崖子卫生室'}}"
+"{'type': 'node', 'id': 2024738707, 'lat': 36.1665598, 'lon': 120.4977705, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '校医院', 'name:zh': '校医院', 'name:zh-Hans': '校医院', 'name:zh-Hant': '校醫院', 'operator': '中国海洋大学', 'operator:type': 'government', 'wheelchair': 'yes'}}"
+"{'type': 'node', 'id': 5332537311, 'lat': 36.3076032, 'lon': 120.4982585, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '琴岛学院医务室'}}"
+"{'type': 'node', 'id': 6468168457, 'lat': 36.8492557, 'lon': 121.6420446, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '白沙滩镇卫生院'}}"
+"{'type': 'node', 'id': 9085948110, 'lat': 36.3586831, 'lon': 120.6851264, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '校医院', 'name:zh': '校医院', 'name:zh-Hans': '校医院', 'name:zh-Hant': '校醫院', 'operator': '山东大学', 'operator:type': 'government', 'wheelchair': 'yes'}}"
+"{'type': 'node', 'id': 10544321278, 'lat': 36.779538, 'lon': 121.1632358, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 12415901487, 'lat': 36.2403781, 'lon': 120.6644705, 'tags': {'healthcare': 'yes', 'name': '曲家庄社区卫生室'}}"

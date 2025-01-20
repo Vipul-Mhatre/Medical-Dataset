@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 7003854964, 'lat': 45.772231, 'lon': 130.9994513, 'tags': {'healthcare': 'yes', 'name': '2号楼'}}"
+"{'type': 'node', 'id': 7003854965, 'lat': 45.7723283, 'lon': 130.9988236, 'tags': {'healthcare': 'yes', 'name': '3号楼'}}"
+"{'type': 'node', 'id': 7003854966, 'lat': 45.772246, 'lon': 131.0001915, 'tags': {'healthcare': 'yes', 'name': '1号楼'}}"
+"{'type': 'node', 'id': 7003854967, 'lat': 45.7729008, 'lon': 130.9988451, 'tags': {'healthcare': 'yes', 'name': '4号楼'}}"
+"{'type': 'node', 'id': 7003854968, 'lat': 45.7730205, 'lon': 130.9995371, 'tags': {'healthcare': 'yes', 'name': '5号楼'}}"
+"{'type': 'node', 'id': 9717191327, 'lat': 45.7635487, 'lon': 131.0174942, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': '宋旻鑫口腔'}}"

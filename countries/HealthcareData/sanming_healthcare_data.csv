@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 2339232751, 'lat': 25.9781344, 'lon': 117.3605655, 'tags': {'amenity': 'hospital', 'name': 'Sanming Gate 3'}}"
+"{'type': 'node', 'id': 5860037551, 'lat': 26.6349691, 'lon': 118.1709694, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 5860248408, 'lat': 26.6421379, 'lon': 118.1757431, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '人民医院'}}"
+"{'type': 'node', 'id': 10127190273, 'lat': 25.9639807, 'lon': 117.3751614, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 10127190274, 'lat': 25.9705315, 'lon': 117.3586825, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 10213014076, 'lat': 25.6987445, 'lon': 117.8491884, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

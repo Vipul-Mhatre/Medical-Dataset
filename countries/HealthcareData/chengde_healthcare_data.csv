@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 9074056561, 'lat': 40.9349582, 'lon': 117.3274451, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '世济医院'}}"
+"{'type': 'node', 'id': 9074056726, 'lat': 40.943772, 'lon': 117.3350573, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 9074380817, 'lat': 40.9225764, 'lon': 117.3158473, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 11140062035, 'lat': 40.9043464, 'lon': 117.9388664, 'tags': {'addr:city': '承德市', 'addr:district': '双桥区', 'addr:province': '河北省', 'addr:street': '滨河路', 'amenity': 'clinic', 'emergency': 'no', 'healthcare': 'clinic', 'healthcare:speciality': 'paediatrics', 'name': '全乐儿科诊所'}}"

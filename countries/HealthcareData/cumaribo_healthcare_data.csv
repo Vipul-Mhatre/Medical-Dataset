@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 4982742521, 'lat': 4.4442007, 'lon': -69.8009086, 'tags': {'amenity': 'hospital', 'name': 'Hospital Local Cumaribo', 'name:es': 'Hospital Local Cumaribo'}}"
+"{'type': 'node', 'id': 5626689221, 'lat': 4.4422433, 'lon': -69.7963977, 'tags': {'amenity': 'clinic', 'name': 'IPS Matsuldani', 'opening_hours': '5 A 5'}}"

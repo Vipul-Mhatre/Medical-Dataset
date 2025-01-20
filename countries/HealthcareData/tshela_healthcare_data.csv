@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 11378439618, 'lat': -5.4979032, 'lon': 12.8448226, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Poste de Santé, Seke Diamu', 'operator': 'G.R.A.F.A.', 'operator:type': 'ngo'}}"
+"{'type': 'node', 'id': 11459451738, 'lat': -5.5439137, 'lon': 12.3013755, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Banco de Urgência'}}"
+"{'type': 'node', 'id': 11459451739, 'lat': -5.5443557, 'lon': 12.3016281, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Consulta Externa'}}"
+"{'type': 'node', 'id': 11459451740, 'lat': -5.5447983, 'lon': 12.3012059, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Entrada Principal'}}"

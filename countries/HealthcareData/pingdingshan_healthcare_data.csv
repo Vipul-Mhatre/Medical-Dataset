@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 5011321993, 'lat': 33.7672697, 'lon': 113.191917, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '平顶山湖滨社区卫生服务中心'}}"
+"{'type': 'node', 'id': 5011322000, 'lat': 33.7663668, 'lon': 113.1809452, 'tags': {'amenity': 'hospital', 'name': '湖光社区卫生服务站', 'phone': '+86 375 616 3611'}}"
+"{'type': 'node', 'id': 5104356774, 'lat': 33.8566289, 'lon': 113.2170426, 'tags': {'amenity': 'hospital', 'name': '宝丰县第三人民医院'}}"
+"{'type': 'node', 'id': 6598494656, 'lat': 34.2241887, 'lon': 113.766381, 'tags': {'addr:housenumber': '52号', 'addr:street': '长社路', 'amenity': 'hospital', 'name': '长葛市人民医院', 'phone': '+86 374 689 9120', 'website': 'http://www.cgsrmyy.cn'}}"
+"{'type': 'node', 'id': 8787738798, 'lat': 33.265569, 'lon': 113.0263595, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '爱康医院'}}"
+"{'type': 'node', 'id': 8787738799, 'lat': 33.2548138, 'lon': 113.0135919, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '东城医院'}}"
+"{'type': 'node', 'id': 9754076298, 'lat': 33.22975, 'lon': 112.9901776, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '方城县中医院滨河院区'}}"
+"{'type': 'node', 'id': 10744866585, 'lat': 34.03945, 'lon': 113.8402402, 'tags': {'healthcare': 'yes', 'name': '社区卫生服务站'}}"
+"{'type': 'node', 'id': 10744866586, 'lat': 34.0381339, 'lon': 113.8387728, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '之仁堂大药房'}}"
+"{'type': 'node', 'id': 10744866588, 'lat': 34.038959, 'lon': 113.8387662, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': '许昌口腔医院东城第二口腔门诊部'}}"
+"{'type': 'node', 'id': 10744866589, 'lat': 34.0397226, 'lon': 113.8387124, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '益和堂大药房'}}"

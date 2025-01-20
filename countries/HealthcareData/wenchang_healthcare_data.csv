@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 2271333485, 'lat': 20.042578, 'lon': 110.3316124, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '海南省人民医院', 'name:en': ""Hainan Provincial People's Hospital"", 'name:zh': '海南省人民医院'}}"
+"{'type': 'node', 'id': 4733625680, 'lat': 20.0118407, 'lon': 110.1985708, 'tags': {'amenity': 'hospital', 'amenity_1': 'bank', 'amenity_2': 'restaurant', 'amenity_3': '海湾', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 10656725699, 'lat': 19.9917539, 'lon': 110.3347704, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '928医院'}}"

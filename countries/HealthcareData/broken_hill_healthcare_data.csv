@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 6283694495, 'lat': -31.9633621, 'lon': 141.4494495, 'tags': {'amenity': 'pharmacy', 'brand': 'Priceline Pharmacy', 'brand:wikidata': 'Q7242652', 'brand:wikipedia': 'en:Priceline (Australia)', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Priceline Pharmacy'}}"
+"{'type': 'node', 'id': 10195921880, 'lat': -31.941025, 'lon': 141.4700658, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Netting Chemist'}}"

@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 4790876621, 'lat': -4.2733225, 'lon': -55.9843862, 'tags': {'addr:street': 'Rua Nova de Santana', 'amenity': 'hospital', 'name': 'Hospital Dom Bosco', 'opening_hours': '24/7'}}"
+"{'type': 'node', 'id': 4790876721, 'lat': -4.2719019, 'lon': -55.9821819, 'tags': {'addr:street': 'Rua Nova de Santana', 'amenity': 'hospital', 'name': 'Hospital Santo Antônio', 'name:en': 'Hospital Santo Antonio', 'opening_hours': '24/7'}}"
+"{'type': 'node', 'id': 6222513390, 'lat': -4.0903078, 'lon': -55.687585, 'tags': {'amenity': 'clinic', 'name': 'Posto de Saúde Nino Costa'}}"
+"{'type': 'node', 'id': 9560309236, 'lat': -4.2981672, 'lon': -55.9619361, 'tags': {'amenity': 'pharmacy', 'name': 'AleFarma Drogaria'}}"
+"{'type': 'node', 'id': 11002568819, 'lat': -4.7049205, 'lon': -55.7420655, 'tags': {'amenity': 'clinic', 'name': 'UBS Areia II', 'official_name': 'Unidade Basica de Saúde Areia II', 'operator': 'Prefeitura Municipal de Trairão', 'postal_code': '68198-000', 'ref:CNES': '6285120', 'source': 'IBGE; DataSUS'}}"
+"{'type': 'node', 'id': 11002568854, 'lat': -4.5703285, 'lon': -56.2598462, 'tags': {'addr:city': 'Trairão', 'addr:country': 'BR', 'addr:district': 'Pimental', 'addr:state': 'Pará', 'amenity': 'clinic', 'name': 'UBS Maria Bibiana da Silva', 'official_name': 'Unidade Basica de Saúde Maria Bibiana da Silva', 'opening_hours': 'Mo-Fr 07:00-11:00', 'operator': 'Prefeitura Municipal de Trairão', 'postal_code': '68198-000', 'ref:CNES': '7740158', 'source': 'IBGE; DataSUS'}}"
+"{'type': 'node', 'id': 11197736711, 'lat': -3.9465091, 'lon': -55.581964, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general', 'name': 'Posto de Saúde de Brasília Legal'}}"

@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 4043683819, 'lat': 34.9186471, 'lon': 118.6412987, 'tags': {'amenity': 'hospital', 'name': '临沭第一人民医院'}}"
+"{'type': 'node', 'id': 12503983562, 'lat': 34.4987061, 'lon': 119.046867, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '东康连锁药店(康祥药店)'}}"
+"{'type': 'node', 'id': 12504108966, 'lat': 34.507732, 'lon': 119.0401986, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '张湾乡后湾村卫生室'}}"
+"{'type': 'node', 'id': 12504555051, 'lat': 34.3791334, 'lon': 118.9591394, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '东海县平明瑞凯兴综合门诊部'}}"
+"{'type': 'node', 'id': 12507108048, 'lat': 34.4464277, 'lon': 119.1340394, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '海州区新坝卫生院'}}"

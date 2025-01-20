@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 3580970250, 'lat': -2.6263657, 'lon': -56.7286637, 'tags': {'amenity': 'hospital', 'name': 'Centro de Saúde Doutor Todda'}}"
+"{'type': 'node', 'id': 5654863449, 'lat': -2.6209723, 'lon': -56.7264893, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'CAPS Parintins'}}"
+"{'type': 'node', 'id': 12513087506, 'lat': -3.2848256, 'lon': -57.0714465, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'POSTO DE SAÚDE FRANCELINO GREGÓRIO', 'operator': 'DSEI', 'operator:type': 'public'}}"

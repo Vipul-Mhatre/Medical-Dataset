@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 5862353394, 'lat': -20.7056651, 'lon': 139.499197, 'tags': {'addr:housenumber': '2a', 'addr:street': 'Ryan Road', 'healthcare': 'centre', 'name': 'Sonic Health Plus', 'opening_hours': 'Mo-Fr 07:00-19:00, 09:00-18:00; Sa, Su 09:00-14:00', 'phone': '+61 7 4749 5300', 'website': 'www.sonichealthplus.com.au/locations/mount-isa-super-clinic'}}"
+"{'type': 'node', 'id': 8936893723, 'lat': -20.7266252, 'lon': 139.4932532, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Pharmacy First'}}"

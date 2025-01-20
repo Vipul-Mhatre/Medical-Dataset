@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 2430259731, 'lat': 32.3962297, 'lon': 119.4472398, 'tags': {'amenity': 'hospital', 'name': '扬州市第一人民医院', 'source': 'Bing'}}"
+"{'type': 'node', 'id': 2611634885, 'lat': 33.2616978, 'lon': 119.9130619, 'tags': {'amenity': 'hospital', 'name': '盐都区第三人民医院'}}"
+"{'type': 'node', 'id': 2701003076, 'lat': 33.0334252, 'lon': 119.1870159, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '银涂镇卫生院'}}"
+"{'type': 'node', 'id': 2702292739, 'lat': 32.9500763, 'lon': 119.1603949, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '塔集镇卫生院'}}"
+"{'type': 'node', 'id': 4973586271, 'lat': 33.1812752, 'lon': 120.1105594, 'tags': {'amenity': 'hospital', 'name': '医院正门'}}"
+"{'type': 'node', 'id': 7073020241, 'lat': 33.2310328, 'lon': 119.3058103, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 9516996694, 'lat': 32.3457869, 'lon': 119.3921073, 'tags': {'alt_name': '医务室;扬子津校区医务室', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': '扬州大学扬子津校区卫生所'}}"
+"{'type': 'node', 'id': 9518509143, 'lat': 32.3465509, 'lon': 119.3916495, 'tags': {'healthcare': 'counselling', 'healthcare:speciality': 'psychiatry', 'name': '心理咨询', 'opening_hours': 'unknown'}}"
+"{'type': 'node', 'id': 11072509523, 'lat': 32.5439663, 'lon': 120.4549734, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '海安市人民医院'}}"
+"{'type': 'node', 'id': 11816144867, 'lat': 32.6808434, 'lon': 119.9985773, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '边城卫生院'}}"
+"{'type': 'node', 'id': 12220741570, 'lat': 32.3913454, 'lon': 119.3768039, 'tags': {'amenity': 'clinic', 'check_date': '2024-10-03', 'healthcare': 'clinic', 'name': '普惠体检', 'name:en': 'Puhui'}}"

@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 4043683819, 'lat': 34.9186471, 'lon': 118.6412987, 'tags': {'amenity': 'hospital', 'name': '临沭第一人民医院'}}"
+"{'type': 'node', 'id': 7041273732, 'lat': 35.2725908, 'lon': 118.5106602, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '山东煤炭疗养院（临沂市河东区中心医院）'}}"
+"{'type': 'node', 'id': 7041273733, 'lat': 35.2713432, 'lon': 118.5106849, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '临沂同仁康复医院'}}"
+"{'type': 'node', 'id': 7041273734, 'lat': 35.2725757, 'lon': 118.5122007, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '汤头街道中心卫生院'}}"
+"{'type': 'node', 'id': 7041273735, 'lat': 35.2716752, 'lon': 118.512059, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '临沂警官疗养院'}}"
+"{'type': 'node', 'id': 7041273737, 'lat': 35.2744824, 'lon': 118.5086637, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '第五疗养区'}}"
+"{'type': 'node', 'id': 7041273738, 'lat': 35.2723745, 'lon': 118.5093723, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '第三疗养区'}}"
+"{'type': 'node', 'id': 7041273739, 'lat': 35.2713884, 'lon': 118.5096003, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '康复疗养大厦'}}"
+"{'type': 'node', 'id': 7792966512, 'lat': 35.9917339, 'lon': 119.4010203, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '和平药业'}}"
+"{'type': 'node', 'id': 7794466592, 'lat': 35.9892582, 'lon': 119.4046567, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '力生源大药房'}}"
+"{'type': 'node', 'id': 7794466593, 'lat': 35.9886567, 'lon': 119.4042026, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '海王医药'}}"
+"{'type': 'node', 'id': 7795684781, 'lat': 36.0036519, 'lon': 119.3882707, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '邱家庄卫生室'}}"

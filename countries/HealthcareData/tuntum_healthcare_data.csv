@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 6219309466, 'lat': -5.0161665, 'lon': -44.9934442, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7070480032, 'lat': -5.8103111, 'lon': -44.3711092, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7084940950, 'lat': -5.4511869, 'lon': -45.0323646, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 7143763546, 'lat': -4.6118581, 'lon': -44.9793081, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 9251450906, 'lat': -4.9889233, 'lon': -44.689479, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9477474165, 'lat': -4.8799088, 'lon': -45.2966261, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS da Lagoa do Sindô II'}}"
+"{'type': 'node', 'id': 9988581098, 'lat': -4.752949, 'lon': -44.9455019, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"

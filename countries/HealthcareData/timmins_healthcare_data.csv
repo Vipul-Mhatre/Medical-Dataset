@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 6709037732, 'lat': 48.4737431, 'lon': -81.3822853, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Timmins Pharmacy'}}"
+"{'type': 'node', 'id': 7091657073, 'lat': 48.4754939, 'lon': -81.3298862, 'tags': {'amenity': 'pharmacy', 'brand': 'Guardian', 'brand:wikidata': 'Q65553864', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Guardian'}}"
+"{'type': 'node', 'id': 7091728400, 'lat': 48.4735774, 'lon': -81.3285973, 'tags': {'amenity': 'pharmacy', 'brand': 'Rexall', 'brand:wikidata': 'Q39045377', 'brand:wikipedia': 'en:Rexall', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Rexall'}}"
+"{'type': 'node', 'id': 7091789479, 'lat': 48.7593497, 'lon': -80.6835229, 'tags': {'amenity': 'pharmacy', 'brand': 'Guardian', 'brand:wikidata': 'Q65553864', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Guardian'}}"
+"{'type': 'node', 'id': 8510704532, 'lat': 48.4782781, 'lon': -81.3373185, 'tags': {'addr:city': 'Timmins', 'addr:housenumber': '100', 'addr:postcode': 'P4N 4X5', 'addr:province': 'Ontario', 'addr:street': 'Waterloo Road', 'healthcare': 'optometrist', 'name': 'R & S Vision Centre', 'phone': '+1 705 267 7327', 'website': 'https://www.rsvisioncentre.com/'}}"
+"{'type': 'node', 'id': 8524777274, 'lat': 48.476651, 'lon': -81.3278704, 'tags': {'addr:city': 'Timmins', 'addr:housenumber': '38', 'addr:postcode': 'P4N 6K6', 'addr:province': 'Ontario', 'addr:street': 'Pine Street North', 'addr:unit': '130', 'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'The 101 Mall Dental Centre'}}"
+"{'type': 'node', 'id': 11835851753, 'lat': 48.4777429, 'lon': -81.211442, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 11904644186, 'lat': 48.4853432, 'lon': -81.3144146, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"

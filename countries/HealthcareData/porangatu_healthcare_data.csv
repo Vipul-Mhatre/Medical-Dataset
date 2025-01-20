@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 3165838933, 'lat': -13.4366652, 'lon': -49.1347491, 'tags': {'amenity': 'hospital', 'name': 'Hospital de Urgência'}}"
+"{'type': 'node', 'id': 3165869382, 'lat': -13.4566353, 'lon': -49.1514606, 'tags': {'amenity': 'hospital', 'name': 'Hospital'}}"
+"{'type': 'node', 'id': 3165907276, 'lat': -13.4432103, 'lon': -49.1474162, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3165907277, 'lat': -13.4420781, 'lon': -49.1468476, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 3165907278, 'lat': -13.4467059, 'lon': -49.1495566, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3165907279, 'lat': -13.4469512, 'lon': -49.1493367, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3165907280, 'lat': -13.4472538, 'lon': -49.1494547, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3165907281, 'lat': -13.4437372, 'lon': -49.1480868, 'tags': {'amenity': 'pharmacy', 'name': 'Farmárcia Terra'}}"
+"{'type': 'node', 'id': 3165907292, 'lat': -13.4385459, 'lon': -49.1482423, 'tags': {'amenity': 'clinic', 'name': 'Policlinica Modelo'}}"
+"{'type': 'node', 'id': 3674052726, 'lat': -13.432364, 'lon': -49.1414947, 'tags': {'amenity': 'hospital', 'name': 'Instituto Médico Samaritano'}}"
+"{'type': 'node', 'id': 3674052789, 'lat': -13.4551878, 'lon': -49.1519955, 'tags': {'amenity': 'hospital'}}"

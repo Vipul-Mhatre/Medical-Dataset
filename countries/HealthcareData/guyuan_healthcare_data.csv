@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 12149826214, 'lat': 36.0121387, 'lon': 106.2557144, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '华夏大药房'}}"
+"{'type': 'node', 'id': 12149826281, 'lat': 36.009995, 'lon': 106.2712359, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12149826320, 'lat': 36.009341, 'lon': 106.2759071, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12149826374, 'lat': 36.0072717, 'lon': 106.2889638, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '盛济大药房'}}"

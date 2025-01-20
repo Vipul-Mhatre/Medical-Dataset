@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 2247445684, 'lat': -26.081726, 'lon': -53.0514427, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Clinica Doutor Cícero Bezerra de Lima'}}"
+"{'type': 'node', 'id': 2959404962, 'lat': -25.8788282, 'lon': -52.9032864, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': 'Hospital dos Trabalhadores Rurais de Verê'}}"
+"{'type': 'node', 'id': 2962084028, 'lat': -25.8821004, 'lon': -52.9094043, 'tags': {'amenity': 'hospital', 'emergency': 'no', 'healthcare': 'hospital', 'name': 'Posto de Saúde de Verê'}}"
+"{'type': 'node', 'id': 3472131549, 'lat': -25.1050961, 'lon': -51.8089397, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 3472131553, 'lat': -25.1057719, 'lon': -51.8088383, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 4955771991, 'lat': -26.0466448, 'lon': -53.0621183, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 5324643226, 'lat': -25.5687962, 'lon': -52.0514164, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'SuFarma'}}"
+"{'type': 'node', 'id': 8693682099, 'lat': -26.0746807, 'lon': -53.0572486, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Instituto do Coração'}}"
+"{'type': 'node', 'id': 9024768177, 'lat': -25.853862, 'lon': -52.5372486, 'tags': {'addr:city': 'Chopinzinho', 'addr:street': 'Rua Coronel Santiago Dantas', 'addr:suburb': 'Centro', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Posto de Saúde Central', 'opening_hours': 'Mo-Fr 08:00-17:00'}}"
+"{'type': 'node', 'id': 9936033489, 'lat': -25.8405645, 'lon': -52.7297987, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 10846308785, 'lat': -25.7454576, 'lon': -53.0569797, 'tags': {'amenity': 'doctors', 'description': 'CEDOPI radiologia para ortodontia', 'healthcare': 'doctor', 'healthcare:speciality': 'radiology', 'name': 'CEDOPI'}}"
+"{'type': 'node', 'id': 12469626627, 'lat': -26.0821141, 'lon': -53.0517375, 'tags': {'amenity': 'doctors', 'baby_feeding': 'no', 'healthcare': 'doctor', 'healthcare:speciality': 'otolaryngology', 'name': 'TCK Clínica', 'opening_hours': 'Mo-Fr 08:00-12:00; Mo-Fr 13:00-18:00', 'phone': '+55 46 3035-0214', 'website': 'https://dramarianaotorrino.com.br/'}}"

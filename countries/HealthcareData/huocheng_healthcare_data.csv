@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 1784395338, 'lat': 44.2116116, 'lon': 80.2058171, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 1784395340, 'lat': 44.2118346, 'lon': 80.2071303, 'tags': {'amenity': 'pharmacy', 'name': 'Жанна'}}"
+"{'type': 'node', 'id': 1784399818, 'lat': 44.2105608, 'lon': 80.2064127, 'tags': {'amenity': 'pharmacy', 'name': 'Айгуль'}}"
+"{'type': 'node', 'id': 5016300322, 'lat': 44.222723, 'lon': 80.3810678, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 5016304121, 'lat': 44.2214544, 'lon': 80.3828971, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 6771810987, 'lat': 44.2139448, 'lon': 80.2328576, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 6771876395, 'lat': 44.2123647, 'lon': 80.208372, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 9169702399, 'lat': 43.91221, 'lon': 81.2619578, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '伊犁州中医医院'}}"
+"{'type': 'node', 'id': 9169725363, 'lat': 43.9121986, 'lon': 81.3127171, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '新疆生产建设兵团第四师医院'}}"
+"{'type': 'node', 'id': 10862255021, 'lat': 44.2113202, 'lon': 80.2062679, 'tags': {'amenity': 'doctors', 'contact:email': 'consultant@invivo.kz', 'contact:facebook': 'https://www.facebook.com/invivokz', 'contact:instagram': 'https://www.instagram.com/invivokz/', 'contact:phone': '+7 727 339 0480;+7 778 769 3881', 'contact:vk': 'https://vk.com/public213214447', 'contact:website': 'https://invivo.kz', 'contact:youtube': 'https://www.youtube.com/channel/UCaTl33KX8Bl2stUun0qdajQ', 'healthcare': 'laboratory', 'name': 'Invivo', 'opening_hours': 'Mo-Fr 07:30-15:30; Sa-Su 08:00-13:00', 'operator': 'INVIVO (Инвиво)'}}"

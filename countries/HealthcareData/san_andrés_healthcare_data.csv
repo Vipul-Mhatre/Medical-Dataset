@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 3782779475, 'lat': 12.5747941, 'lon': -81.7070935, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Villareal'}}"
+"{'type': 'node', 'id': 4589964967, 'lat': 12.5817685, 'lon': -81.6914689, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'La Juventud'}}"
+"{'type': 'node', 'id': 4589964973, 'lat': 12.5782829, 'lon': -81.7024002, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 4740694093, 'lat': 12.5827439, 'lon': -81.6933987, 'tags': {'amenity': 'pharmacy', 'brand': 'Cruz Verde', 'brand:wikidata': 'Q5856071', 'healthcare': 'pharmacy', 'name': 'Cruz Verde'}}"
+"{'type': 'node', 'id': 4740694094, 'lat': 12.5841647, 'lon': -81.6929172, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Salud Isleña'}}"
+"{'type': 'node', 'id': 4868936553, 'lat': 12.5811485, 'lon': -81.6940546, 'tags': {'amenity': 'pharmacy', 'brand': 'Farmatodo', 'brand:wikidata': 'Q5856092', 'healthcare': 'pharmacy', 'name': 'Farmatodo'}}"
+"{'type': 'node', 'id': 5211246121, 'lat': 12.5714987, 'lon': -81.7092661, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Clarence Lynd Newball Memorial hospital'}}"

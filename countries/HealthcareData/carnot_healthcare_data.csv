@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 2661637074, 'lat': 4.9362923, 'lon': 15.8767527, 'tags': {'addr:city': 'Carnot', 'addr:full': 'MAMBERE-KADEI, Carnot, Carnot, Carnot, Kpogom', 'amenity': 'hospital', 'capacity:beds': '83', 'health_facility:type': 'prefectoral_hospital', 'name': 'Hôpital Préfectoral de Carnot', 'operator:type': 'government', 'source': 'UNICEF', 'toilets:number': '12'}}"
+"{'type': 'node', 'id': 2663478003, 'lat': 4.882077, 'lon': 16.343067, 'tags': {'addr:city': 'Ndinguiri', 'addr:full': 'MAMBERE-KADEI, Gadzi, Topia, Ndinguiri', 'amenity': 'doctors', 'capacity:beds': '1', 'health_facility:type': 'dispensary', 'healthcare': 'doctor', 'name': 'Poste de Santé de Ndinguiri', 'operator:type': 'government', 'source': 'UNICEF', 'toilets:number': '1'}}"

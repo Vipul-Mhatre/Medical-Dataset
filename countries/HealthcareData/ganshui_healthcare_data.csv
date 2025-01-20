@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 5936522431, 'lat': 28.9180721, 'lon': 106.9919765, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 10570815506, 'lat': 28.4012454, 'lon': 106.7843053, 'tags': {'addr:city': '夜郎镇', 'addr:district': '桐梓县', 'addr:postcode': '563206', 'addr:province': '贵州省遵义市桐梓县夜郎镇', 'addr:street': '夜郎步行街', 'amenity': 'pharmacy', 'dispensing': 'yes', 'drive_through': 'yes', 'healthcare': 'pharmacy', 'name': '昌昇大药房', 'opening_hours': 'Mo-Su 09:00-22:00', 'operator': '一树药业'}}"
+"{'type': 'node', 'id': 11707663797, 'lat': 29.4024512, 'lon': 106.4244897, 'tags': {'healthcare': 'centre', 'name': '跳蹬镇卫生院'}}"
+"{'type': 'node', 'id': 12090045811, 'lat': 28.9458322, 'lon': 106.7106097, 'tags': {'addr:district': '綦江区', 'addr:housenumber': '103号', 'addr:province': '重庆市', 'addr:street': '三酒路', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '重庆103医院', 'phone': '(023)48206434'}}"
+"{'type': 'node', 'id': 12090071542, 'lat': 28.94607, 'lon': 106.7106114, 'tags': {'addr:city': '重庆市', 'addr:district': '綦江区', 'addr:housenumber': '103号', 'addr:province': '重庆市', 'addr:street': '三酒路', 'amenity': 'hospital', 'building': 'hospital', 'healthcare': 'hospital', 'name': '重庆103医院', 'phone': '(023)48206434'}}"

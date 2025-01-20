@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 511969611, 'lat': -14.177361, 'lon': -47.8155895, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 3666327314, 'lat': -14.5312977, 'lon': -49.1311133, 'tags': {'amenity': 'clinic', 'name': 'Posto de Saúde'}}"
+"{'type': 'node', 'id': 4720554793, 'lat': -14.4673394, 'lon': -48.4581311, 'tags': {'amenity': 'clinic', 'name': 'implantes dentários', 'name:pt': 'implantes dentários'}}"
+"{'type': 'node', 'id': 4720623989, 'lat': -14.4668476, 'lon': -48.4583931, 'tags': {'addr:housenumber': '86', 'addr:postcode': '76420-000', 'addr:street': 'Avenida Anhanguera', 'amenity': 'hospital', 'email': 'niquelandia.saude@bol.com.br', 'fax': '+55 62 354 1421', 'healthcare': 'hospital', 'name': 'Hospital Municipal Santa Efigênia Niquelândia', 'official_name': 'Prefeitura Municipal De Niquelandia', 'operator:ref:vatin': 'BR02215895000107', 'phone': '+55 62 354 2254', 'ref:CNES': '2534789'}}"
+"{'type': 'node', 'id': 9778083452, 'lat': -14.1772617, 'lon': -47.8147842, 'tags': {'amenity': 'pharmacy', 'name': 'São Jorge'}}"
+"{'type': 'node', 'id': 9778101072, 'lat': -14.1772767, 'lon': -47.8129776, 'tags': {'amenity': 'clinic', 'name': 'UBS'}}"

@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 4274291513, 'lat': -19.3477118, 'lon': -47.2935006, 'tags': {'addr:city': 'Perdizes', 'addr:housenumber': '10', 'addr:postcode': '38170000', 'addr:street': 'Praça Getúlio Borges Prado', 'addr:suburb': 'Divineia', 'amenity': 'hospital', 'emergency': 'yes', 'name': 'Santa Casa de Misericórdia de Perdizes', 'operator': 'Criar Net'}}"
+"{'type': 'node', 'id': 4633763104, 'lat': -19.9264201, 'lon': -46.8255292, 'tags': {'amenity': 'clinic', 'name': 'Centro de Saúde'}}"
+"{'type': 'node', 'id': 4708472497, 'lat': -19.7506971, 'lon': -46.3839019, 'tags': {'amenity': 'pharmacy', 'brand': 'Big Farma', 'phone': '+55 37 36371352'}}"
+"{'type': 'node', 'id': 4975582404, 'lat': -19.5899319, 'lon': -46.9377217, 'tags': {'addr:housenumber': '68', 'addr:postcode': '38183-085', 'addr:street': 'Praça Coronel José Adolfo', 'addr:suburb': 'Centro', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Hospital Regional Dom Bosco', 'ref:CNES': '2164612', 'ref:vatin': 'BR16906935000171', 'source': 'IBGE;DATASUS'}}"
+"{'type': 'node', 'id': 5168865622, 'lat': -20.2462598, 'lon': -46.3632675, 'tags': {'amenity': 'hospital', 'name': 'Hospital Municipal'}}"
+"{'type': 'node', 'id': 6716167014, 'lat': -19.5999181, 'lon': -46.9302785, 'tags': {'addr:housenumber': '428', 'addr:street': 'Rua Engenheiro José Martins', 'amenity': 'clinic', 'name': 'Clínica Maria Bigai'}}"

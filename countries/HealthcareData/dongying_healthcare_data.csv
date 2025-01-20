@@ -1,0 +1,13 @@
+OSM_Data
+"{'type': 'node', 'id': 1715665556, 'lat': 37.4620706, 'lon': 118.5082474, 'tags': {'amenity': 'hospital', 'designation': '胜利油田中心医院', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '胜利油田中心医院'}}"
+"{'type': 'node', 'id': 2688399006, 'lat': 37.4638877, 'lon': 118.485552, 'tags': {'amenity': 'hospital', 'name': '东营市中医医院'}}"
+"{'type': 'node', 'id': 5030325050, 'lat': 37.0910336, 'lon': 118.4157929, 'tags': {'addr:city': '东营市广饶县', 'addr:district': '广饶镇', 'addr:province': '山东省', 'addr:street': '孙武路', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '东营肛肠病医院'}}"
+"{'type': 'node', 'id': 5045670022, 'lat': 36.8181533, 'lon': 118.0451498, 'tags': {'addr:housenumber': '4-3', 'addr:street': '柳泉路', 'amenity': 'doctors', 'healthcare': 'doctor', 'name': '康盛诊所', 'name:de': 'Gesundheitspraxis', 'name:en': 'Kangsheng zhensuo', 'name:zh': '康盛诊所', 'opening_hours': 'Mo-Su 09:00-18:00', 'phone': '+86 130 5331 2077'}}"
+"{'type': 'node', 'id': 5965513021, 'lat': 36.8863163, 'lon': 118.0735865, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '山东工业职业学院卫生所'}}"
+"{'type': 'node', 'id': 8313716911, 'lat': 36.8331236, 'lon': 118.0456101, 'tags': {'healthcare': 'alternative', 'name': '科技苑社区卫生服务站'}}"
+"{'type': 'node', 'id': 9267004925, 'lat': 36.8007068, 'lon': 118.0578556, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '淄建集团医院'}}"
+"{'type': 'node', 'id': 9589059220, 'lat': 36.8246037, 'lon': 118.0313584, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '宏仁堂'}}"
+"{'type': 'node', 'id': 9589059221, 'lat': 36.8280653, 'lon': 118.0302189, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 9874030840, 'lat': 36.8246557, 'lon': 118.0318058, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '丽景苑社区诊所'}}"
+"{'type': 'node', 'id': 11035204287, 'lat': 36.7893206, 'lon': 118.0188323, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist'}}"
+"{'type': 'node', 'id': 12444488210, 'lat': 36.8863095, 'lon': 118.073671, 'tags': {'healthcare': 'psychotherapist'}}"

@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 2498251360, 'lat': 33.1501391, 'lon': 115.5468018, 'tags': {'amenity': 'hospital', 'name': '新集卫生分院'}}"
+"{'type': 'node', 'id': 2498251362, 'lat': 33.1521032, 'lon': 115.5422732, 'tags': {'amenity': 'hospital', 'name': '大新中心卫生院'}}"
+"{'type': 'node', 'id': 3928194811, 'lat': 33.1438542, 'lon': 115.5852536, 'tags': {'amenity': 'clinic', 'name': '大新镇广缙村卫生室'}}"
+"{'type': 'node', 'id': 4769467704, 'lat': 33.2636288, 'lon': 115.3518385, 'tags': {'amenity': 'hospital', 'name': '界首市人民医院'}}"
+"{'type': 'node', 'id': 9334027283, 'lat': 33.6363377, 'lon': 114.6818438, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '康福堂药店(中原路店)'}}"
+"{'type': 'node', 'id': 11409417464, 'lat': 33.6254689, 'lon': 114.9539089, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '康升医院'}}"

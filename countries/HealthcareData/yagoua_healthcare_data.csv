@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 4534970189, 'lat': 10.2815876, 'lon': 15.3644727, 'tags': {'amenity': 'clinic', 'name': 'Hôpital régional de bongor', 'name:fr': 'Hôpital régional de bongor'}}"
+"{'type': 'node', 'id': 4543039509, 'lat': 10.9365683, 'lon': 15.5281893, 'tags': {'addr:city': 'غيلندنك', 'amenity': 'pharmacy', 'name': 'Hôpital de district de guelendeng مستشفى حي غيلندنك', 'name:ar': 'مستشفى حي غيلندنك', 'name:fr': 'Hôpital de district de guelendeng'}}"
+"{'type': 'node', 'id': 4543077391, 'lat': 9.9179112, 'lon': 15.7758225, 'tags': {'amenity': 'pharmacy', 'name': 'Centre de santé de kolobo', 'name:fr': 'Centre de santé de kolobo'}}"
+"{'type': 'node', 'id': 7975966887, 'lat': 10.2735942, 'lon': 15.3799435, 'tags': {'amenity': 'hospital', 'name': 'Centre koweitien'}}"
+"{'type': 'node', 'id': 11307654470, 'lat': 10.0061234, 'lon': 15.621145, 'tags': {'amenity': 'hospital', 'name': 'Hôpital à construire karam'}}"

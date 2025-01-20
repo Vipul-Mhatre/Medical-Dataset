@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 11582633228, 'lat': 40.1091793, 'lon': 124.3974742, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12112291499, 'lat': 40.1278553, 'lon': 124.382776, 'tags': {'amenity': 'hospital', 'name': '丹东市中医院'}}"

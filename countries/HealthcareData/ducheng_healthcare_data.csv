@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 4811631186, 'lat': 22.8582878, 'lon': 111.4637286, 'tags': {'amenity': 'hospital', 'name': '卫生院'}}"
+"{'type': 'node', 'id': 5195921005, 'lat': 22.6148511, 'lon': 112.1802997, 'tags': {'amenity': 'hospital', 'name': '六祖镇集成医院'}}"
+"{'type': 'node', 'id': 5577703295, 'lat': 22.6451031, 'lon': 111.109471, 'tags': {'amenity': 'clinic', 'name': '回龙村卫生站'}}"
+"{'type': 'node', 'id': 5586297837, 'lat': 22.9320091, 'lon': 112.0388374, 'tags': {'amenity': 'clinic', 'name': '南区卫生站'}}"
+"{'type': 'node', 'id': 5597401186, 'lat': 22.932965, 'lon': 112.0239723, 'tags': {'amenity': 'pharmacy', 'name': '邦健医药'}}"
+"{'type': 'node', 'id': 5745191746, 'lat': 22.9147411, 'lon': 112.0295937, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '谢火华诊所'}}"

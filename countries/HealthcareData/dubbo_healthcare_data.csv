@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 1270765992, 'lat': -32.551857, 'lon': 148.9414564, 'tags': {'addr:housenumber': '12', 'addr:street': 'Nanima Crescent', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Wellington Advantage Pharmacy'}}"
+"{'type': 'node', 'id': 2429996756, 'lat': -32.255706, 'lon': 148.617614, 'tags': {'amenity': 'clinic', 'name': 'Dubbo Community Health Centre', 'source': 'voice'}}"
+"{'type': 'node', 'id': 6787013736, 'lat': -31.7108922, 'lon': 148.6692633, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'name': 'Gilgandra Pharmacy'}}"
+"{'type': 'node', 'id': 6787318988, 'lat': -31.7120951, 'lon': 148.6686265, 'tags': {'amenity': 'clinic', 'name': 'Douglass Hanly Moir Pathology'}}"
+"{'type': 'node', 'id': 6789622997, 'lat': -31.7121803, 'lon': 148.6683829, 'tags': {'amenity': 'clinic', 'name': ""Let's Communicate, Speech Pathology Services""}}"
+"{'type': 'node', 'id': 8610551785, 'lat': -32.5505048, 'lon': 148.9410811, 'tags': {'addr:housenumber': '116', 'addr:street': 'Lee Street', 'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'Wellington Smiles Dental'}}"
+"{'type': 'node', 'id': 8610551864, 'lat': -32.5514882, 'lon': 148.9412572, 'tags': {'addr:housenumber': '4', 'addr:street': 'Nanima Crescent', 'healthcare': 'optometrist', 'name': 'Max Astri Optometrists by G&M Eyecare'}}"
+"{'type': 'node', 'id': 8610933986, 'lat': -32.5528913, 'lon': 148.9423728, 'tags': {'addr:housenumber': '31', 'addr:street': 'Nanima Crescent', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': ""Keirle's Pharmacy""}}"
+"{'type': 'node', 'id': 10174861727, 'lat': -32.2312099, 'lon': 148.239968, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Narromine Pharmacy'}}"
+"{'type': 'node', 'id': 10731698010, 'lat': -31.8228789, 'lon': 149.1218031, 'tags': {'healthcare': 'yes', 'name': 'Mendooran Community Health Centre'}}"
+"{'type': 'node', 'id': 11558141938, 'lat': -32.2504788, 'lon': 148.5911172, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'Advanced Dental CAre'}}"

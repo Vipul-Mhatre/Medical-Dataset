@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 5118926221, 'lat': 24.9489863, 'lon': 102.7848694, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '萍威药材', 'name:en': 'Chinese Medicine Center / Natural Chinese Medicine', 'opening_hours': 'Mo-Su 09:00-18:00', 'operator': '谢丽萍', 'phone': '+86 136 1871 5539'}}"
+"{'type': 'node', 'id': 6534411306, 'lat': 24.8941583, 'lon': 102.8025462, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 6907947385, 'lat': 24.3436294, 'lon': 102.8621699, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 6907949787, 'lat': 24.3431824, 'lon': 102.8619052, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 9491631156, 'lat': 24.9184477, 'lon': 103.1313872, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'psychiatry', 'name': '安康精神病院'}}"

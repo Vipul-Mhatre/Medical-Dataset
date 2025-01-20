@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4044851148, 'lat': 48.57166, 'lon': -78.1137726, 'tags': {'amenity': 'pharmacy', 'brand': 'Familiprix', 'brand:wikidata': 'Q3064881', 'brand:wikipedia': 'en:Familiprix', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Familiprix', 'operator': 'Pharmacie Viens, Ahern, Blanchette et Lamarre Inc.'}}"
+"{'type': 'node', 'id': 4086137078, 'lat': 48.5749535, 'lon': -78.1266979, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'name': 'Pharmacie Viens, Ahern, Blanchette et Lamarre', 'operator': 'Pharmacie Brunet'}}"
+"{'type': 'node', 'id': 6793632485, 'lat': 48.0955337, 'lon': -77.8262201, 'tags': {'amenity': 'pharmacy', 'brand': 'Uniprix', 'brand:wikidata': 'Q683265', 'brand:wikipedia': 'en:Uniprix', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Uniprix'}}"

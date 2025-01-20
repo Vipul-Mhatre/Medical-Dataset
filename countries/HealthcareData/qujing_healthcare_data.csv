@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 1855145317, 'lat': 25.9806273, 'lon': 103.6836879, 'tags': {'amenity': 'clinic', 'dispensing': 'yes', 'healthcare': 'clinic', 'name': '宣威热水岱海卫生所'}}"
+"{'type': 'node', 'id': 1855145922, 'lat': 25.9794506, 'lon': 103.6812096, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 5663676322, 'lat': 25.5281383, 'lon': 103.8196504, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '曲靖华府医院'}}"
+"{'type': 'node', 'id': 5663676623, 'lat': 25.4934846, 'lon': 103.7870953, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5663676624, 'lat': 25.5051244, 'lon': 103.8007531, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 9491631156, 'lat': 24.9184477, 'lon': 103.1313872, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'psychiatry', 'name': '安康精神病院'}}"
+"{'type': 'node', 'id': 12298904636, 'lat': 25.4896656, 'lon': 103.7908897, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '曲靖市妇幼医院'}}"

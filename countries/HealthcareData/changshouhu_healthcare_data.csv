@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 4139951947, 'lat': 29.5626023, 'lon': 106.5709018, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '重庆医科大学附属第二医院'}}"
+"{'type': 'node', 'id': 4139952095, 'lat': 29.5554739, 'lon': 106.5729069, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '重庆骨科医院', 'name:en': 'Chongqing Orthopaedics Hospital'}}"
+"{'type': 'node', 'id': 4139987104, 'lat': 29.5243072, 'lon': 106.5635368, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '康平医院', 'name:en': 'Kangping Hospital', 'name:zh': '康平医院'}}"
+"{'type': 'node', 'id': 4142084897, 'lat': 29.5853906, 'lon': 106.582969, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '武警重庆总队医院'}}"
+"{'type': 'node', 'id': 4930090002, 'lat': 30.4777226, 'lon': 106.6346042, 'tags': {'amenity': 'hospital', 'name': '广安市中医院'}}"
+"{'type': 'node', 'id': 5241218528, 'lat': 30.3492971, 'lon': 106.9230624, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '邻水县人民医院'}}"
+"{'type': 'node', 'id': 7882160580, 'lat': 29.59987, 'lon': 106.5987942, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 11074262483, 'lat': 29.7214387, 'lon': 106.6050815, 'tags': {'addr:city': '重庆市', 'addr:district': '渝北区', 'addr:postcode': '401120', 'addr:province': '重庆', 'addr:street': '兰馨大道', 'amenity': 'hospital', 'emergency': 'no', 'healthcare': 'hospital', 'healthcare:speciality': 'dentist', 'name': '博迎口腔医疗', 'operator': '博迎口腔', 'operator:type': 'private', 'phone': '+86 158 2369 6999'}}"
+"{'type': 'node', 'id': 11445793722, 'lat': 29.6926674, 'lon': 106.5966832, 'tags': {'addr:city': '重庆市', 'addr:district': '渝北区', 'addr:housenumber': '222', 'addr:postcode': '401120', 'addr:province': '重庆', 'addr:street': '翠屏路', 'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'level': '1', 'name': '杏林业大药房'}}"

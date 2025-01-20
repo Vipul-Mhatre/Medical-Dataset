@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 9270029512, 'lat': 22.836747, 'lon': 114.9866398, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '北京大学深圳医院（深汕门诊部）'}}"
+"{'type': 'node', 'id': 9979219603, 'lat': 23.3880318, 'lon': 116.2835721, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '径水村卫生站'}}"
+"{'type': 'node', 'id': 10148958392, 'lat': 23.5503688, 'lon': 115.470618, 'tags': {'addr:city': '梅州市', 'addr:district': '五华县', 'addr:province': '广东省', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '大坑村卫生所'}}"
+"{'type': 'node', 'id': 10148978389, 'lat': 23.549909, 'lon': 115.4709487, 'tags': {'addr:city': '梅州市', 'addr:district': '五华县', 'addr:province': '广东省', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '志宁卫生所', 'operator': '温志宁'}}"
+"{'type': 'node', 'id': 11064465837, 'lat': 23.0338127, 'lon': 116.2824567, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 11162640097, 'lat': 22.9546584, 'lon': 115.6408692, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '陆丰眼科医院'}}"
+"{'type': 'node', 'id': 12338808880, 'lat': 23.268512, 'lon': 116.1813892, 'tags': {'addr:city': '流沙南街道', 'addr:district': '普宁', 'addr:province': '广东省揭阳市普宁市', 'addr:street': '普宁大道', 'amenity': 'pharmacy', 'dispensing': 'no', 'healthcare': 'pharmacy', 'name': '海盛药材行', 'opening_hours': 'Mo-Su 09:00-19:00', 'operator': '滋补品、中草药'}}"

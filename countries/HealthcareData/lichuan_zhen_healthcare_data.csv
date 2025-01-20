@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 8380299358, 'lat': 34.8487558, 'lon': 104.4631351, 'tags': {'addr:full': '甘肃省定西市漳县武阳镇武阳镇39号(诚信打印部对面)', 'addr:housenumber': '39', 'addr:street': '武阳镇', 'amenity': 'pharmacy', 'brand': '德生堂', 'brand:en': 'JIANKANG LINJU DE SHENG TANG', 'brand:wikidata': 'Q108168942', 'brand:zh': '德生堂', 'description': '111医药馆-漳县百嘉店', 'healthcare': 'pharmacy', 'name': '德生堂', 'name:en': 'JIANKANG LINJU DE SHENG TANG', 'name:zh': '德生堂', 'phone': '+86 932 486 1688', 'website': 'https://www.jklj.net/'}}"
+"{'type': 'node', 'id': 10589721062, 'lat': 34.7243794, 'lon': 104.8889208, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 12046018863, 'lat': 34.7264211, 'lon': 104.9117426, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12183634246, 'lat': 34.4383868, 'lon': 104.0326085, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '岷县中医院'}}"

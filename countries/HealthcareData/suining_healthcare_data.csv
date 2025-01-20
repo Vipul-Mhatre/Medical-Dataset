@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 4742496723, 'lat': 30.8341554, 'lon': 106.098632, 'tags': {'amenity': 'clinic', 'name:en': 'Health Management Center'}}"
+"{'type': 'node', 'id': 5279582476, 'lat': 30.1199565, 'lon': 105.3506681, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '安岳县中医医院(新区总院)'}}"
+"{'type': 'node', 'id': 5299340251, 'lat': 29.8587883, 'lon': 105.9703712, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '铜梁区侣俸中心卫生院'}}"
+"{'type': 'node', 'id': 6712730085, 'lat': 30.7398208, 'lon': 106.0576606, 'tags': {'amenity': 'hospital', 'name': 'hospital'}}"
+"{'type': 'node', 'id': 7473192262, 'lat': 30.0400988, 'lon': 106.1477247, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '重庆市合川区中医院渭沱分院'}}"
+"{'type': 'node', 'id': 7473815398, 'lat': 30.0862044, 'lon': 106.1670056, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '大石中心医院尖山分院二门诊'}}"
+"{'type': 'node', 'id': 7475243616, 'lat': 30.0009298, 'lon': 106.131233, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '铜溪镇中心卫生院'}}"
+"{'type': 'node', 'id': 7566133576, 'lat': 30.1171251, 'lon': 104.9093243, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 8889723004, 'lat': 30.7670813, 'lon': 106.0546042, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '王定华诊所'}}"
+"{'type': 'node', 'id': 11327810211, 'lat': 29.9181647, 'lon': 105.6874463, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '顶新卫生院'}}"

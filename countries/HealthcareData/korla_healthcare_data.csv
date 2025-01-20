@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4698983399, 'lat': 41.8283554, 'lon': 85.4963929, 'tags': {'amenity': 'hospital', 'name': '农二师三十团医院'}}"
+"{'type': 'node', 'id': 4699409520, 'lat': 41.8579192, 'lon': 85.6954729, 'tags': {'amenity': 'hospital', 'name': '二十九团孔雀医院'}}"
+"{'type': 'node', 'id': 5883211885, 'lat': 41.7421021, 'lon': 86.1865072, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist'}}"

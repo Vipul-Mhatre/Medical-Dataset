@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 5063640834, 'lat': 35.882858, 'lon': 111.5230119, 'tags': {'addr:city': '临汾市', 'addr:district': '襄汾县', 'addr:postcode': '041500', 'addr:province': '山西省', 'addr:street': '安李村', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': '安李卫生所'}}"
+"{'type': 'node', 'id': 5620223297, 'lat': 36.0883178, 'lon': 111.5092145, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '永旺脑病医院'}}"
+"{'type': 'node', 'id': 10930739380, 'lat': 35.7263542, 'lon': 111.6952345, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '振兴大药房'}}"
+"{'type': 'node', 'id': 10989056433, 'lat': 35.7378065, 'lon': 111.6941339, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '裴月峰诊所'}}"
+"{'type': 'node', 'id': 10991875532, 'lat': 35.7292909, 'lon': 111.6957272, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 10991875537, 'lat': 35.729678, 'lon': 111.6957664, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '振兴大药房'}}"
+"{'type': 'node', 'id': 10991875542, 'lat': 35.7321597, 'lon': 111.6961236, 'tags': {'healthcare': 'physiotherapist', 'name': '便利养生店'}}"
+"{'type': 'node', 'id': 11476163552, 'lat': 35.7365377, 'lon': 111.6973051, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '宁寿堂大药房'}}"
+"{'type': 'node', 'id': 11795327390, 'lat': 35.735119, 'lon': 111.7033554, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '仁爱医院'}}"
+"{'type': 'node', 'id': 11795327397, 'lat': 35.7362218, 'lon': 111.7013883, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '宁寿堂'}}"

@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 6426138552, 'lat': -7.0094918, 'lon': 23.4443296, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Matérnité Saint Louis'}}"
+"{'type': 'node', 'id': 6426142949, 'lat': -7.0102426, 'lon': 23.4433103, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Hôpital Saint Louis'}}"
+"{'type': 'node', 'id': 6438834572, 'lat': -7.0083097, 'lon': 23.4486587, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'PHARMACIE LA GRACE'}}"
+"{'type': 'node', 'id': 10316650420, 'lat': -6.498368, 'lon': 23.9956818, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'HGR Kalambayi Kabanga'}}"
+"{'type': 'node', 'id': 10316743842, 'lat': -7.0351101, 'lon': 23.4610165, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'HGR Saint Joseph. St Joseph hôpital'}}"
+"{'type': 'node', 'id': 10680200305, 'lat': -6.8544938, 'lon': 23.9556711, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé Mpunga'}}"
+"{'type': 'node', 'id': 10681193605, 'lat': -7.1634578, 'lon': 23.7136966, 'tags': {'amenity': 'hospital', 'name': 'Hôpital General de référence de Luputa'}}"
+"{'type': 'node', 'id': 10692813205, 'lat': -6.8178495, 'lon': 23.9644815, 'tags': {'amenity': 'hospital', 'name': 'Centre de santé Mpemba Zeu'}}"
+"{'type': 'node', 'id': 10692822312, 'lat': -6.7471951, 'lon': 23.9537189, 'tags': {'amenity': 'hospital', 'name': 'Hôpital General de référence de Ngandajika'}}"

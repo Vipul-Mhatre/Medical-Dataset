@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 6026287886, 'lat': -18.5042813, 'lon': -54.7482679, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'COP'}}"
+"{'type': 'node', 'id': 6026288086, 'lat': -18.5039388, 'lon': -54.7442084, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Popular Farmacia do Airton'}}"
+"{'type': 'node', 'id': 6026288087, 'lat': -18.5039978, 'lon': -54.7447353, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Americana 24h'}}"
+"{'type': 'node', 'id': 6026288588, 'lat': -18.5040064, 'lon': -54.7452074, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Popular'}}"
+"{'type': 'node', 'id': 6026288592, 'lat': -18.5042113, 'lon': -54.747817, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'GOU', 'website': 'https://gouclinicas.com.br/'}}"

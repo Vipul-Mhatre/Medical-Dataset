@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 7681574563, 'lat': -10.6596661, 'lon': 22.7466776, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Katoka Hospital'}}"
+"{'type': 'node', 'id': 7681577536, 'lat': -10.6598612, 'lon': 22.7461411, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Katoka Maternity'}}"

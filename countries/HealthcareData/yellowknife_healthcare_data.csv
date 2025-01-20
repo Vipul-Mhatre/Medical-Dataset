@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 3195039641, 'lat': 62.4542839, 'lon': -114.3718522, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': ""Sutherland's Drugs ARP"", 'wheelchair': 'limited'}}"
+"{'type': 'node', 'id': 3809594757, 'lat': 62.4558674, 'lon': -114.3707244, 'tags': {'addr:street': '4915-48th Street', 'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Yellowknife Primary Care Centre', 'wheelchair': 'yes'}}"
+"{'type': 'node', 'id': 5125267209, 'lat': 62.4560496, 'lon': -114.3694536, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Eye Clinic'}}"
+"{'type': 'node', 'id': 5125281419, 'lat': 62.448466, 'lon': -114.4055546, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'Frame Lake Dental Clinic'}}"
+"{'type': 'node', 'id': 5125281420, 'lat': 62.4485771, 'lon': -114.4053146, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Frame Lake Clinic'}}"

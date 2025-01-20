@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 9860196489, 'lat': -15.7050482, 'lon': -56.1336895, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Farma Vida'}}"
+"{'type': 'node', 'id': 9860196490, 'lat': -15.7050455, 'lon': -56.1335632, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Clínica de Exame Toxicológico'}}"
+"{'type': 'node', 'id': 10552760893, 'lat': -15.6789627, 'lon': -56.1288596, 'tags': {'amenity': 'pharmacy', 'drive_through': 'no', 'healthcare': 'pharmacy', 'name': 'Drogarias Big Master Popular'}}"
+"{'type': 'node', 'id': 11123461663, 'lat': -15.661509, 'lon': -56.1564451, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'healthcare:speciality': 'neurology;psychiatry'}}"
+"{'type': 'node', 'id': 11598202916, 'lat': -15.7871949, 'lon': -56.1368843, 'tags': {'addr:city': 'Santo Antônio de Leverger', 'addr:postcode': '78180-000', 'addr:street': 'Estrada para Engenho Velho', 'addr:suburb': 'Engenho Velho', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'UBS Engenho Velho', 'operator': 'Sistema Único de Saúde', 'operator:short': 'SUS', 'operator:type': 'public', 'operator:wikidata': 'Q7531056'}}"

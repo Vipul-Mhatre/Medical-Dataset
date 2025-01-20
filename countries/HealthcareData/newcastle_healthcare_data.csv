@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 1890656553, 'lat': -27.7430272, 'lon': 29.9345416, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 2123577985, 'lat': -27.7644896, 'lon': 30.0507578, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Madadeni Provincial Hospital'}}"
+"{'type': 'node', 'id': 9315956420, 'lat': -28.1629852, 'lon': 30.2370843, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'The Dundee Trading Pharmacy', 'operator': 'Alpha Pharm'}}"

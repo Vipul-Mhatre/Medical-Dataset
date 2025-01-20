@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 6594845420, 'lat': -13.1890488, 'lon': -60.8175158, 'tags': {'amenity': 'pharmacy', 'name': 'Farmácia Econômica'}}"
+"{'type': 'node', 'id': 6594848286, 'lat': -13.191389, 'lon': -60.8206291, 'tags': {'amenity': 'pharmacy', 'name': 'Farmácia Preço Baixo'}}"
+"{'type': 'node', 'id': 12043885794, 'lat': -12.7738058, 'lon': -60.094617, 'tags': {'addr:city': 'Vilhena', 'addr:housenumber': '10.220', 'addr:postcode': '76987790', 'addr:street': 'Avenida Marechal Rondon', 'addr:suburb': 'Setor Industrial Tancredo Neves', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general;gynaecology;paediatrics;orthopaedics;urology;internal;cardiology;plastic_surgery;surgery;neurology;emergency;anaesthetics;clinical_pathology;oncology;vascular_surgery;trauma;vaccination;neurosurgery', 'name': 'Hospital Cooperar'}}"

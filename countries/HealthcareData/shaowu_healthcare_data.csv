@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4437149696, 'lat': 27.1735079, 'lon': 117.0101344, 'tags': {'amenity': 'clinic', 'name': '黎川县德胜镇中心卫生院'}}"
+"{'type': 'node', 'id': 7085639747, 'lat': 27.958191, 'lon': 117.148628, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '耳口卫生院-预防接种门诊'}}"
+"{'type': 'node', 'id': 10127192887, 'lat': 27.7312081, 'lon': 118.0088462, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '武夷山市立医院'}}"

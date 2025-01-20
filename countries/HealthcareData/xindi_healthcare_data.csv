@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 2387544833, 'lat': 29.3766691, 'lon': 113.0921211, 'tags': {'amenity': 'hospital', 'name': '岳阳楼区社区医院'}}"
+"{'type': 'node', 'id': 2387580866, 'lat': 29.3746731, 'lon': 113.1058669, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '岳阳市一人民医院'}}"
+"{'type': 'node', 'id': 10903407679, 'lat': 30.3519057, 'lon': 113.4377452, 'tags': {'amenity': 'pharmacy', 'name': 'Jiuzhou'}}"
+"{'type': 'node', 'id': 11052257952, 'lat': 29.1512443, 'lon': 113.1073536, 'tags': {'addr:city': '岳阳市', 'addr:housenumber': '1', 'addr:street': '贺坪西路', 'amenity': 'hospital', 'healthcare': 'hospital', 'name': '岳阳县妇幼保健院(新院区)'}}"

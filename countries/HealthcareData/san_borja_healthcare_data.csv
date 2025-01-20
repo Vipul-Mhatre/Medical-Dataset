@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 4263037438, 'lat': -14.2980196, 'lon': -67.3357282, 'tags': {'amenity': 'pharmacy', 'drive_through': 'no', 'name': 'Farmacia 4 de Febrero', 'operator': 'Patricia Montalvo'}}"
+"{'type': 'node', 'id': 4472071011, 'lat': -14.8580376, 'lon': -66.7478813, 'tags': {'amenity': 'pharmacy', 'name': 'Farmacia Elva', 'name:es': 'Farmacia Elva'}}"
+"{'type': 'node', 'id': 4477488191, 'lat': -14.3034934, 'lon': -67.3309226, 'tags': {'addr:city': 'Reyes', 'amenity': 'hospital', 'emergency': 'yes', 'healthcare:speciality': 'general', 'name': 'Hospital de Reyes (3er Nivel)'}}"
+"{'type': 'node', 'id': 4646072990, 'lat': -14.8568574, 'lon': -66.7462794, 'tags': {'addr:street': 'Calle Cochabamba', 'amenity': 'pharmacy', 'name': 'Farmacia Isis', 'name:es': 'Farmacia Isis'}}"
+"{'type': 'node', 'id': 6242691296, 'lat': -14.299275, 'lon': -67.336305, 'tags': {'amenity': 'pharmacy', 'name': 'Farmacia Elvirita Morales'}}"
+"{'type': 'node', 'id': 6242711986, 'lat': -14.2972042, 'lon': -67.3365838, 'tags': {'amenity': 'pharmacy', 'name': 'Farmacia ⚕ Jade'}}"
+"{'type': 'node', 'id': 11076009422, 'lat': -14.9120768, 'lon': -67.1107316, 'tags': {'addr:city': 'Villa Aroma', 'amenity': 'hospital', 'description': 'Puesto de Salud de 1er Nivel. Minsalud CODSNIS 800194', 'emergency': 'yes', 'fixme': 'Exact_location', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': 'P.S. Villa Aroma', 'operator': 'Ministerio de Salud y Deportes', 'operator:short': 'MinSalud', 'operator:type': 'public', 'operator:wikidata': 'Q44225411'}}"
+"{'type': 'node', 'id': 11225111322, 'lat': -15.3632635, 'lon': -67.1027855, 'tags': {'healthcare': 'yes', 'name': 'Centro de Salud Quiquibey'}}"

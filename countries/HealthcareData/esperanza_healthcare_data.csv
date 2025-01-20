@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 1476790519, 'lat': 27.4913488, 'lon': -109.974057, 'tags': {'amenity': 'pharmacy', 'brand': 'Benavides', 'brand:wikidata': 'Q5435613', 'healthcare': 'pharmacy', 'name': 'Benavides'}}"
+"{'type': 'node', 'id': 1682801000, 'lat': 27.4629114, 'lon': -109.9337183, 'tags': {'amenity': 'pharmacy', 'name': 'Farmacia VH'}}"
+"{'type': 'node', 'id': 1682829275, 'lat': 27.4649772, 'lon': -109.9296097, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'name': 'UMF 66'}}"
+"{'type': 'node', 'id': 1862270740, 'lat': 27.0723746, 'lon': -109.443052, 'tags': {'addr:housename': 'Plaza Rïo Mayo', 'amenity': 'pharmacy', 'brand': 'Benavides', 'brand:wikidata': 'Q5435613', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Benavides', 'website': 'https://www.benavides.com.mx/'}}"
+"{'type': 'node', 'id': 1887759136, 'lat': 27.4868884, 'lon': -109.9101442, 'tags': {'amenity': 'pharmacy', 'brand': 'Farmacias Similares', 'brand:wikidata': 'Q62564610', 'healthcare': 'pharmacy', 'name': 'Farmacias Similares'}}"
+"{'type': 'node', 'id': 4484665794, 'lat': 27.2629201, 'lon': -109.9466383, 'tags': {'amenity': 'hospital', 'name': 'Seguro social', 'name:es': 'Seguro social'}}"
+"{'type': 'node', 'id': 4484869189, 'lat': 27.2629648, 'lon': -109.9449976, 'tags': {'amenity': 'hospital', 'name': 'Centro de salud', 'name:es': 'Centro de salud'}}"
+"{'type': 'node', 'id': 4599346291, 'lat': 27.4928895, 'lon': -109.933822, 'tags': {'addr:housenumber': '249 sur', 'addr:postcode': '85009', 'addr:street': 'Calle Sonora', 'amenity': 'clinic', 'email': 'clinicamayer@hotmail.com', 'healthcare': 'clinic', 'internet_access': 'wlan', 'name': 'Clínica y Óptica Mayer', 'opening_hours': 'Su-Fr 09:00-11:30, 17:00-19:30', 'phone': '6444142626'}}"
+"{'type': 'node', 'id': 10152652706, 'lat': 27.4860526, 'lon': -109.938633, 'tags': {'addr:housenumber': '713', 'addr:street': 'Calle Durango', 'amenity': 'clinic', 'contact:phone': '+ 55 644 412 1918', 'healthcare': 'clinic', 'healthcare:speciality': 'chiropractic', 'name': 'Clínica Durango'}}"

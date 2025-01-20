@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 5963354888, 'lat': -15.8917861, 'lon': -63.1885784, 'tags': {'addr:street': 'Avenida Santa Cruz', 'amenity': 'clinic', 'name': 'Clinica San Camilo', 'name:en': ""San Camilo's Hospital"", 'name:es': 'Clinica y Farmacia San Camilo'}}"
+"{'type': 'node', 'id': 5963354896, 'lat': -15.8955436, 'lon': -63.1883188, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Farmacia San Pablo'}}"
+"{'type': 'node', 'id': 5963364786, 'lat': -15.8920294, 'lon': -63.1889086, 'tags': {'amenity': 'pharmacy', 'name': 'Farmacia Urkupiña'}}"
+"{'type': 'node', 'id': 6133452486, 'lat': -15.8950009, 'lon': -63.188547, 'tags': {'addr:street': 'Avenida Santa Cruz', 'amenity': 'pharmacy', 'name': 'Farmacias Oporto - Virgen de Copacabana'}}"
+"{'type': 'node', 'id': 10032996280, 'lat': -15.4864416, 'lon': -63.6996065, 'tags': {'addr:city': 'Nueva Magdalena', 'amenity': 'hospital', 'description': 'Puesto de Salud 1er Nivel. Minsalud CODSNIS 800184', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': 'P.S. Nueva Magdalena (1er Nivel)'}}"
+"{'type': 'node', 'id': 11172594277, 'lat': -16.3300205, 'lon': -62.9101268, 'tags': {'addr:city': 'El Puente', 'addr:neighbourhood': 'Plaza Central', 'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Botica Eliana'}}"

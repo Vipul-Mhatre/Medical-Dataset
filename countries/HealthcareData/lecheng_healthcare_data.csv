@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 5002580366, 'lat': 25.0786078, 'lon': 113.3917337, 'tags': {'amenity': 'hospital', 'name': '长来镇卫生院', 'name:zh': '长来镇卫生院'}}"
+"{'type': 'node', 'id': 5002670166, 'lat': 25.2913461, 'lon': 113.0320933, 'tags': {'amenity': 'hospital', 'name': '乐昌市第二人民医院 河西分院', 'name:zh': '乐昌市第二人民医院 河西分院'}}"
+"{'type': 'node', 'id': 11953607909, 'lat': 24.8054103, 'lon': 113.5665367, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '韶关市第二人民医院'}}"

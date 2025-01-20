@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 5356088243, 'lat': 29.0422926, 'lon': 112.3672304, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '草尾镇医院'}}"
+"{'type': 'node', 'id': 5356110387, 'lat': 29.0549167, 'lon': 112.2992132, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '南嘴镇卫生院'}}"
+"{'type': 'node', 'id': 7860222492, 'lat': 29.0644335, 'lon': 112.3207152, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '益汉大药房'}}"
+"{'type': 'node', 'id': 7860222536, 'lat': 29.0629784, 'lon': 112.3214588, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '湘丰大药房'}}"
+"{'type': 'node', 'id': 9878710177, 'lat': 28.8042718, 'lon': 113.073246, 'tags': {'amenity': 'pharmacy', 'brand': '益丰大药房', 'brand:en': 'Yifeng Pharmacy', 'brand:wikidata': 'Q109766741', 'brand:zh': '益丰大药房', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '益丰大药房', 'name:en': 'Yifeng Pharmacy', 'name:zh': '益丰大药房'}}"

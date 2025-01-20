@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 922049542, 'lat': 1.8102698, 'lon': -78.7700337, 'tags': {'amenity': 'hospital', 'name': 'Medicina Legal'}}"
+"{'type': 'node', 'id': 4364883315, 'lat': 2.5737744, 'lon': -77.8855091, 'tags': {'amenity': 'pharmacy', 'name': 'ESE Guapi'}}"
+"{'type': 'node', 'id': 6476855082, 'lat': 2.7725806, 'lon': -77.6645716, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Juanpa'}}"
+"{'type': 'node', 'id': 6481543929, 'lat': 2.7712247, 'lon': -77.6649893, 'tags': {'amenity': 'pharmacy', 'name': 'Emmanuel'}}"
+"{'type': 'node', 'id': 11808227116, 'lat': 2.771188, 'lon': -77.6648027, 'tags': {'amenity': 'pharmacy', 'name': 'Almendros'}}"
+"{'type': 'node', 'id': 11812815848, 'lat': 2.5719657, 'lon': -77.8833758, 'tags': {'amenity': 'pharmacy', 'name': 'Droguería Carmelita'}}"
+"{'type': 'node', 'id': 11812836584, 'lat': 2.7709951, 'lon': -77.6651373, 'tags': {'amenity': 'pharmacy', 'name': 'Los nietos'}}"
+"{'type': 'node', 'id': 11812899776, 'lat': 2.7718686, 'lon': -77.6652146, 'tags': {'amenity': 'pharmacy', 'name': 'Intergral Timbiquí'}}"
+"{'type': 'node', 'id': 11812904047, 'lat': 2.77216, 'lon': -77.6657341, 'tags': {'amenity': 'pharmacy', 'name': 'La rebaja'}}"
+"{'type': 'node', 'id': 11812905946, 'lat': 2.7731489, 'lon': -77.6670502, 'tags': {'amenity': 'pharmacy', 'name': 'Audifarma'}}"

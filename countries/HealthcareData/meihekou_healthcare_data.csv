@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 9300321163, 'lat': 42.393466, 'lon': 125.3618585, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '三好村卫生室'}}"
+"{'type': 'node', 'id': 9300321165, 'lat': 42.4005481, 'lon': 125.3439584, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '税局村卫生室'}}"
+"{'type': 'node', 'id': 9300321183, 'lat': 42.3640196, 'lon': 125.3092522, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '解放村卫生室'}}"

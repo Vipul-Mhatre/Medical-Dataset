@@ -1,0 +1,7 @@
+OSM_Data
+"{'type': 'node', 'id': 5257525908, 'lat': -2.240022, 'lon': -49.4948844, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 5789958025, 'lat': -3.0280948, 'lon': -49.6400403, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Postinho de Saúde da villa de Ituquara'}}"
+"{'type': 'node', 'id': 5895116520, 'lat': -1.983253, 'lon': -48.9618098, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'UBS Dr. Mário Leão'}}"
+"{'type': 'node', 'id': 5896188840, 'lat': -1.9843475, 'lon': -48.9600651, 'tags': {'addr:city': 'Igarap-Miri', 'addr:postcode': '68430-000', 'addr:street': 'Rua Quintino Bacaiuva', 'addr:suburb': 'Centro', 'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': ""Hospital e Maternidade Sant'Ana"", 'operator:ref:vatin': 'BR05191333000169', 'ref:CNES': '2317397'}}"
+"{'type': 'node', 'id': 9084868150, 'lat': -2.5835507, 'lon': -49.5083715, 'tags': {'addr:city': 'Mocajuba', 'addr:postcode': '68420000', 'addr:street': 'Travessa Alexandre Castro', 'addr:suburb': 'Centro', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Farma Vida', 'opening_hours': 'Mo-Su 09:00-21:00'}}"
+"{'type': 'node', 'id': 11101638605, 'lat': -2.7109006, 'lon': -49.7969155, 'tags': {'amenity': 'hospital', 'name': 'PS IGARAPE PRETO'}}"

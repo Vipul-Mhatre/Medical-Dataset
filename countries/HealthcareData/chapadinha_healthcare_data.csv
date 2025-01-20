@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 2784297833, 'lat': -4.2567023, 'lon': -43.0121706, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'São Judas Tadeu'}}"
+"{'type': 'node', 'id': 9143438652, 'lat': -3.7372262, 'lon': -43.3631059, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9144637110, 'lat': -3.7031638, 'lon': -43.3775512, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9144646257, 'lat': -3.5737401, 'lon': -43.5000918, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"

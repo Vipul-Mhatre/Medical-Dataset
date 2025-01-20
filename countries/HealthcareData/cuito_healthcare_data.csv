@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 10935371301, 'lat': -12.4395572, 'lon': 16.9142514, 'tags': {'amenity': 'hospital', 'name': 'Hospital Dr: Walter Strangway', 'operator': 'Ministerio da Saúde'}}"
+"{'type': 'node', 'id': 11886077884, 'lat': -12.439566, 'lon': 16.9105939, 'tags': {'amenity': 'pharmacy', 'email': 'lufamor.consfisc@outlook.com.br', 'mobile': '924741454', 'name': 'Farmácia Lufamor', 'opening_hours': 'Mo-Su 08:00-18:00; Apr 10-15 off; Jun 08:00-14:00; Aug off; Dec 25 off', 'operator': 'Privado', 'payment:cash': 'yes', 'payment:credit_cards': 'yes', 'payment:debit_cards': 'yes', 'phone': '241202408', 'wheelchair': 'yes'}}"
+"{'type': 'node', 'id': 12385016629, 'lat': -12.4246239, 'lon': 16.9137348, 'tags': {'addr:city': 'Cuito', 'addr:street': 'Avenida Don José Nambi', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'ASF & Filhos', 'opening_hours': 'Mo-Su 10:00-20:00', 'operator': 'Privado'}}"

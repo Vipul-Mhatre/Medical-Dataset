@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 3350775413, 'lat': -13.4041255, 'lon': -44.1940667, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Drogaria Filze'}}"
+"{'type': 'node', 'id': 3350776443, 'lat': -13.345784, 'lon': -44.6309016, 'tags': {'amenity': 'pharmacy', 'name': 'Sophia Farma'}}"
+"{'type': 'node', 'id': 5538294471, 'lat': -13.9307823, 'lon': -43.6304883, 'tags': {'amenity': 'clinic', 'description': 'Posto de Saúde', 'healthcare': 'clinic'}}"
+"{'type': 'node', 'id': 9570964246, 'lat': -13.543937, 'lon': -43.5767947, 'tags': {'addr:city': 'Serra do Ramalho', 'addr:housenumber': '539', 'addr:postcode': '47630-000', 'addr:street': 'Rua Pernambuco', 'addr:suburb': 'centro', 'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'Dra Monessa dias Odontologia', 'opening_hours': 'Mo-Sa 08:00-18:00'}}"

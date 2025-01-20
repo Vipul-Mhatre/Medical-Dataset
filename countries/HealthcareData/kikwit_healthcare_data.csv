@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 5403515000, 'lat': -5.0357748, 'lon': 18.8203112, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Hôpital Pwati', 'note': 'Hôpital Millitaire', 'operator': 'Millitaire'}}"
+"{'type': 'node', 'id': 6716297785, 'lat': -5.5297433, 'lon': 18.8011359, 'tags': {'amenity': 'clinic', 'name': 'Centre de Santé Kindembe', 'name:en': 'Aires de Santé Kindembe zsr Kingandu'}}"
+"{'type': 'node', 'id': 9643444417, 'lat': -4.4230591, 'lon': 18.4270408, 'tags': {'amenity': 'hospital', 'name': 'hopital vanga'}}"

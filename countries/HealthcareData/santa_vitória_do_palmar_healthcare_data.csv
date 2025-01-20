@@ -1,0 +1,11 @@
+OSM_Data
+"{'type': 'node', 'id': 1112484629, 'lat': -34.000371, 'lon': -53.5545464, 'tags': {'amenity': 'pharmacy', 'name': 'Capatacía'}}"
+"{'type': 'node', 'id': 2606105364, 'lat': -33.6062163, 'lon': -53.7189288, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 3206126966, 'lat': -34.045114, 'lon': -53.540425, 'tags': {'addr:city': 'Punta del Diablo', 'addr:country': 'UY', 'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'De la Aldea', 'source': 'survey'}}"
+"{'type': 'node', 'id': 10099006262, 'lat': -33.6888498, 'lon': -53.4688092, 'tags': {'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'Enfermera'}}"
+"{'type': 'node', 'id': 10099006266, 'lat': -33.688024, 'lon': -53.4724144, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Policlinica ESF Hamilton Silverio Lima'}}"
+"{'type': 'node', 'id': 10101021167, 'lat': -33.8958363, 'lon': -53.5237025, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Farmacia de la Aldea'}}"
+"{'type': 'node', 'id': 10101021173, 'lat': -33.8955452, 'lon': -53.5218334, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Policlinica'}}"
+"{'type': 'node', 'id': 10101207209, 'lat': -33.7631712, 'lon': -53.4046021, 'tags': {'healthcare': 'psychotherapist', 'name': 'Psicologa'}}"
+"{'type': 'node', 'id': 10101662916, 'lat': -33.7637844, 'lon': -53.4017286, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Policlinica ASSE - RAP'}}"
+"{'type': 'node', 'id': 10101804132, 'lat': -33.7649889, 'lon': -53.4011868, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'Consultorio Odontologico'}}"

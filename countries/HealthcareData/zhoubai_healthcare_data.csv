@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 8987495646, 'lat': 29.3454065, 'lon': 108.2383602, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': '结核病', 'name': '彭水苗族土家族自治县结核病防治所'}}"
+"{'type': 'node', 'id': 11981499924, 'lat': 29.9896321, 'lon': 109.4774984, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"

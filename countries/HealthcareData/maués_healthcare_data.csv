@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4193510639, 'lat': -3.1268739, 'lon': -58.1560195, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 6387288459, 'lat': -3.3945225, 'lon': -57.7183604, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 12513087506, 'lat': -3.2848256, 'lon': -57.0714465, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'POSTO DE SAÚDE FRANCELINO GREGÓRIO', 'operator': 'DSEI', 'operator:type': 'public'}}"

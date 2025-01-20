@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 2335448224, 'lat': 46.622099, 'lon': 124.8898393, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': '龙南医院'}}"
+"{'type': 'node', 'id': 4804842726, 'lat': 46.5838398, 'lon': 125.139104, 'tags': {'amenity': 'hospital', 'name': '校医院'}}"
+"{'type': 'node', 'id': 8926862005, 'lat': 46.6293687, 'lon': 124.8580227, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '百姓康城药房同瑞药店'}}"
+"{'type': 'node', 'id': 9590061852, 'lat': 46.6380891, 'lon': 124.8624933, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'healthcare:speciality': 'general', 'name': '大庆市第四医院'}}"

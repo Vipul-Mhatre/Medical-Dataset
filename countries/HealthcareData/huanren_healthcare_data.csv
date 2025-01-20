@@ -1,0 +1,3 @@
+OSM_Data
+"{'type': 'node', 'id': 8356641739, 'lat': 41.7912511, 'lon': 125.7776397, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '通化市新冠疫情防控集中隔离点(方舱医院)'}}"
+"{'type': 'node', 'id': 11639757017, 'lat': 41.7456853, 'lon': 125.9813374, 'tags': {'healthcare': 'yes', 'name': '通化师范学院卫生所'}}"

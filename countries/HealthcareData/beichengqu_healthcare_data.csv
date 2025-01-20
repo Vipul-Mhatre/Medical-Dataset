@@ -1,0 +1,12 @@
+OSM_Data
+"{'type': 'node', 'id': 4071872845, 'lat': 39.8136563, 'lon': 113.0902346, 'tags': {'amenity': 'pharmacy', 'name': '益仁堂药店'}}"
+"{'type': 'node', 'id': 5780786954, 'lat': 40.0862759, 'lon': 113.3126238, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 5780787054, 'lat': 40.0855035, 'lon': 113.3126379, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 5982745887, 'lat': 40.0657431, 'lon': 113.2958547, 'tags': {'amenity': 'pharmacy', 'name:en': 'Pharmacy - Drugstore'}}"
+"{'type': 'node', 'id': 7318151650, 'lat': 40.0876339, 'lon': 113.2778056, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Changsheng pharmacy'}}"
+"{'type': 'node', 'id': 11043927165, 'lat': 40.0798204, 'lon': 113.2832468, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 11043954204, 'lat': 40.0725067, 'lon': 113.276642, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 11043962423, 'lat': 40.072496, 'lon': 113.2842033, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 11043962424, 'lat': 40.0884791, 'lon': 113.337784, 'tags': {'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 11048761224, 'lat': 40.0865432, 'lon': 113.27642, 'tags': {'addr:street': '云中路', 'amenity': 'pharmacy'}}"
+"{'type': 'node', 'id': 11749646770, 'lat': 40.0844957, 'lon': 113.2793314, 'tags': {'amenity': 'pharmacy', 'name:en': 'Huatuo Drugstore'}}"

@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 7792966512, 'lat': 35.9917339, 'lon': 119.4010203, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '和平药业'}}"
+"{'type': 'node', 'id': 7794466592, 'lat': 35.9892582, 'lon': 119.4046567, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '力生源大药房'}}"
+"{'type': 'node', 'id': 7794466593, 'lat': 35.9886567, 'lon': 119.4042026, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': '海王医药'}}"
+"{'type': 'node', 'id': 7795684781, 'lat': 36.0036519, 'lon': 119.3882707, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '邱家庄卫生室'}}"
+"{'type': 'node', 'id': 8569323909, 'lat': 36.6674214, 'lon': 119.1196889, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': '奎文区廿里堡街道社区卫生服务中心', 'phone': '+86 536 852 0007'}}"

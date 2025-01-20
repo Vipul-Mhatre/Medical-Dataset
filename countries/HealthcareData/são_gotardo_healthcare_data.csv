@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 3925692852, 'lat': -19.5204474, 'lon': -45.7895035, 'tags': {'amenity': 'hospital', 'name': 'Hospital Municipal', 'source': 'IBGE'}}"
+"{'type': 'node', 'id': 4542178291, 'lat': -19.3228362, 'lon': -46.0351544, 'tags': {'addr:housenumber': '39', 'addr:postcode': '38800-000', 'addr:street': 'Rua Rio Formoso', 'amenity': 'clinic', 'healthcare': 'clinic', 'internet_access': 'wlan', 'name': 'Juliana Martins Estética', 'opening_hours': 'Tu-Fr 13:00-18:00', 'phone': '+55 34 9 9815 3821'}}"
+"{'type': 'node', 'id': 4582057324, 'lat': -19.6951106, 'lon': -46.1685502, 'tags': {'amenity': 'hospital', 'source': 'IBGE'}}"
+"{'type': 'node', 'id': 4708472497, 'lat': -19.7506971, 'lon': -46.3839019, 'tags': {'amenity': 'pharmacy', 'brand': 'Big Farma', 'phone': '+55 37 36371352'}}"
+"{'type': 'node', 'id': 4929674979, 'lat': -19.1976633, 'lon': -46.2404506, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'Drogaria Manancial', 'phone': '+55 34 3855 1353'}}"
+"{'type': 'node', 'id': 4979730762, 'lat': -19.8240801, 'lon': -45.9040761, 'tags': {'amenity': 'clinic', 'name': 'Posto de Saúde'}}"
+"{'type': 'node', 'id': 5962963327, 'lat': -18.7784559, 'lon': -46.4049191, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist'}}"
+"{'type': 'node', 'id': 6440066858, 'lat': -19.7950111, 'lon': -45.6825022, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 6440083479, 'lat': -19.7925978, 'lon': -45.6768687, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic'}}"

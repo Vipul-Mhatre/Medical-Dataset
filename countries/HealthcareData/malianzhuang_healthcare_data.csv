@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 4336716597, 'lat': 36.6290528, 'lon': 120.1810392, 'tags': {'amenity': 'hospital'}}"
+"{'type': 'node', 'id': 5132079487, 'lat': 37.6578235, 'lon': 120.989728, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '机场医院'}}"
+"{'type': 'node', 'id': 9468397058, 'lat': 37.1895547, 'lon': 119.9358089, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '莱州市爱尔眼科医院'}}"

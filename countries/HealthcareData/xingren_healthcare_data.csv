@@ -1,0 +1,5 @@
+OSM_Data
+"{'type': 'node', 'id': 9048414711, 'lat': 25.9956719, 'lon': 105.1011935, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 9048414985, 'lat': 26.0018748, 'lon': 105.0877878, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 9048414999, 'lat': 26.0014746, 'lon': 105.0872755, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': '花贡药店'}}"
+"{'type': 'node', 'id': 11957923708, 'lat': 24.7722506, 'lon': 105.3381304, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': '华康口腔'}}"

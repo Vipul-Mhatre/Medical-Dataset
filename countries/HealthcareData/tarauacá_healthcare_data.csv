@@ -1,0 +1,4 @@
+OSM_Data
+"{'type': 'node', 'id': 9143299117, 'lat': -8.1725291, 'lon': -70.3606242, 'tags': {'addr:postcode': '69960-000', 'addr:street': 'Avenida Marechal Deodoro', 'amenity': 'hospital', 'name': 'Hospital Geral de Feijó', 'name:en': 'Feijó General Hospital', 'opening_hours': '24/7', 'phone': '+55 68 3463-2602'}}"
+"{'type': 'node', 'id': 9156556418, 'lat': -8.1684432, 'lon': -70.3577419, 'tags': {'addr:postcode': '69960', 'addr:street': 'Avenida Marechal Deodoro', 'amenity': 'clinic', 'name': 'Clinica Climed', 'name:en': 'Climed Clinic', 'phone': '+55 68 99998-7898'}}"
+"{'type': 'node', 'id': 9168180517, 'lat': -8.1676089, 'lon': -70.3545617, 'tags': {'addr:city': 'Feijó', 'addr:housenumber': '234', 'addr:postcode': '69960-000', 'addr:street': 'Rua Barao do Rio Branco', 'addr:suburb': 'Centro', 'amenity': 'clinic', 'email': 'clinicasaobernardotk@gmail.com', 'healthcare': 'clinic', 'name': 'Clínica São Bernardo', 'phone': '(68) 99212-9946'}}"

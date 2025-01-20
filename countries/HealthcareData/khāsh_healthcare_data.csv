@@ -1,0 +1,10 @@
+OSM_Data
+"{'type': 'node', 'id': 8694277171, 'lat': 27.6927923, 'lon': 61.4220225, 'tags': {'addr:city': 'حق آباد', 'healthcare': 'yes', 'name': 'خانه بهداشت'}}"
+"{'type': 'node', 'id': 8945581650, 'lat': 27.6085396, 'lon': 61.5595894, 'tags': {'amenity': 'hospital', 'name': 'مرکز بهداشت سرسوره'}}"
+"{'type': 'node', 'id': 9332226596, 'lat': 28.2201157, 'lon': 61.2116089, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه پاستور'}}"
+"{'type': 'node', 'id': 9332286736, 'lat': 28.2200928, 'lon': 61.2111053, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه شبانه روزی ۱۵ خرداد', 'opening_hours': '24/7'}}"
+"{'type': 'node', 'id': 9917775272, 'lat': 28.2225044, 'lon': 61.2076546, 'tags': {'healthcare': 'blood_donation', 'name': 'پایگاه انتقال خون'}}"
+"{'type': 'node', 'id': 9917775273, 'lat': 28.2155332, 'lon': 61.2165874, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه شه بخش'}}"
+"{'type': 'node', 'id': 9917775280, 'lat': 28.2103493, 'lon': 61.2223301, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه'}}"
+"{'type': 'node', 'id': 9917775312, 'lat': 28.2230499, 'lon': 61.2081098, 'tags': {'amenity': 'pharmacy', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 11146736285, 'lat': 28.2028531, 'lon': 61.2047327, 'tags': {'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'لابراتوار  دندانپزشکی محمدزاده'}}"

@@ -1,0 +1,8 @@
+OSM_Data
+"{'type': 'node', 'id': 1767520203, 'lat': -19.2772594, 'lon': -44.3886098, 'tags': {'amenity': 'clinic', 'emergency': 'no', 'name': 'UBS Dom Bosco'}}"
+"{'type': 'node', 'id': 2670272713, 'lat': -18.7568458, 'lon': -44.4214964, 'tags': {'amenity': 'hospital', 'name': 'Pronto Atendimento Municipal'}}"
+"{'type': 'node', 'id': 2966209930, 'lat': -19.2180305, 'lon': -45.004467, 'tags': {'amenity': 'hospital', 'emergency': 'yes', 'healthcare': 'hospital', 'name': 'Santa Casa de Misericórdia'}}"
+"{'type': 'node', 'id': 4199629465, 'lat': -18.2887207, 'lon': -43.9822463, 'tags': {'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'Posto de Saúde', 'source': 'IBGE'}}"
+"{'type': 'node', 'id': 4444131492, 'lat': -18.7434792, 'lon': -44.4325678, 'tags': {'amenity': 'clinic', 'name': 'Hospital Santo Antônio', 'name:pt': 'Hospital Santo Antônio'}}"
+"{'type': 'node', 'id': 5610489634, 'lat': -19.008407, 'lon': -44.0427422, 'tags': {'amenity': 'hospital', 'description': 'Hospital Municipal', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 6910800083, 'lat': -18.7605182, 'lon': -44.8951425, 'tags': {'addr:housenumber': '827', 'addr:postcode': '39237-000', 'addr:street': 'Rua Senador Lima Guimarães', 'addr:suburb': 'Gameleira', 'amenity': 'hospital', 'email': 'hospitalfelixlandia@yahoo.com.br', 'fax': '+55 38 3753 1571', 'healthcare': 'hospital', 'name': 'Hospital Municipal da Prefeitura de Felixlândia', 'operator': 'Prefeitura Municipal de Felixlândia', 'operator:ref:vatin': 'BR17695032000151', 'operator:type': 'public', 'phone': '+55 38 3753 1222', 'ref:CNES': '2159155'}}"

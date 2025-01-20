@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 6557359962, 'lat': 34.3422722, 'lon': 62.1980964, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'شفاخانه صبا'}}"
+"{'type': 'node', 'id': 6557359963, 'lat': 34.3416078, 'lon': 62.1986436, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'شفاخانه افغان آریا'}}"
+"{'type': 'node', 'id': 6557359966, 'lat': 34.3448705, 'lon': 62.1993074, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'دواخانه شبانه روزی مهر'}}"
+"{'type': 'node', 'id': 6557777927, 'lat': 34.3478612, 'lon': 62.1854202, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'کلینک عبیدی', 'name:en': 'Clinic Obaidi'}}"
+"{'type': 'node', 'id': 6564731591, 'lat': 34.3479121, 'lon': 62.1842221, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}}"
+"{'type': 'node', 'id': 6565866840, 'lat': 34.3503604, 'lon': 62.1957663, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'Banki Khun'}}"
+"{'type': 'node', 'id': 6584179867, 'lat': 34.3444647, 'lon': 62.2045486, 'tags': {'amenity': 'clinic', 'name:en': 'corner of Clinic'}}"
+"{'type': 'node', 'id': 7096783986, 'lat': 34.3254176, 'lon': 62.2514714, 'tags': {'amenity': 'clinic', 'name:en': 'Clinic erfan', 'name:fa': 'کلینیک تخصصی عرفان'}}"

@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 31213452, 'lat': 29.676305, 'lon': 91.1240002, 'tags': {'amenity': 'hospital', 'created_by': 'JOSM'}}"
+"{'type': 'node', 'id': 31213454, 'lat': 29.6662663, 'lon': 91.1260903, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 3103275939, 'lat': 29.6621699, 'lon': 91.1078325, 'tags': {'amenity': 'pharmacy', 'name': '平安大药房'}}"
+"{'type': 'node', 'id': 3139585708, 'lat': 29.433704, 'lon': 90.163377, 'tags': {'amenity': 'hospital', 'name': '尼木县人民医院'}}"
+"{'type': 'node', 'id': 9916370119, 'lat': 29.6606276, 'lon': 91.1385328, 'tags': {'amenity': 'clinic'}}"

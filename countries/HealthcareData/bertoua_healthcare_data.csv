@@ -1,0 +1,9 @@
+OSM_Data
+"{'type': 'node', 'id': 3779854152, 'lat': 4.5780067, 'lon': 13.701261, 'tags': {'amenity': 'clinic'}}"
+"{'type': 'node', 'id': 4455404450, 'lat': 4.5746379, 'lon': 13.6818732, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie la Générale'}}"
+"{'type': 'node', 'id': 4455405630, 'lat': 4.579299, 'lon': 13.6841366, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie Mokolo', 'name:en': 'Mokolo Pharmacy', 'phone': '+237222242540'}}"
+"{'type': 'node', 'id': 4456079169, 'lat': 4.5750531, 'lon': 13.678046, 'tags': {'amenity': 'pharmacy', 'name': 'Pharmacie'}}"
+"{'type': 'node', 'id': 6555260790, 'lat': 4.5756739, 'lon': 13.6827337, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'drive_through': 'no', 'healthcare': 'pharmacy', 'name': 'Pharamacie de Bertoua'}}"
+"{'type': 'node', 'id': 6555260791, 'lat': 4.5774887, 'lon': 13.686422, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Pharmacie Galien', 'operator': 'Dr Nguele'}}"
+"{'type': 'node', 'id': 6555283687, 'lat': 4.5751983, 'lon': 13.6809435, 'tags': {'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'Pharmacie la générale'}}"
+"{'type': 'node', 'id': 6931276494, 'lat': 4.9116439, 'lon': 13.2952622, 'tags': {'amenity': 'clinic', 'name': 'Centre de santé Sainte Katalina'}}"

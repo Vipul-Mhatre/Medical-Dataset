@@ -1,0 +1,6 @@
+OSM_Data
+"{'type': 'node', 'id': 4582330351, 'lat': 25.3741184, 'lon': 112.1964725, 'tags': {'amenity': 'hospital', 'name': '蓝山中心医院'}}"
+"{'type': 'node', 'id': 5002670166, 'lat': 25.2913461, 'lon': 113.0320933, 'tags': {'amenity': 'hospital', 'name': '乐昌市第二人民医院 河西分院', 'name:zh': '乐昌市第二人民医院 河西分院'}}"
+"{'type': 'node', 'id': 11182430304, 'lat': 25.376066, 'lon': 112.1877934, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital', 'name': '蓝山中西结合医院'}}"
+"{'type': 'node', 'id': 11183355752, 'lat': 25.388472, 'lon': 112.1822732, 'tags': {'amenity': 'hospital', 'healthcare': 'hospital'}}"
+"{'type': 'node', 'id': 11183402149, 'lat': 25.3808308, 'lon': 112.1956258, 'tags': {'healthcare': 'yes', 'name': '蓝山疾控中心'}}"
